@@ -12,7 +12,7 @@ import unicodedata
 # 'attorney general','state senate','state representative'])
 def scrape_election(year,general,list_of_offices,outfile):
 	list_of_offices=[item.lower() for item in list_of_offices]
-	master_data=[]
+	master_data=[['county','office','district','party','candidate','votes']]
 
 	if general==1:
 		etype='general'
@@ -37,7 +37,7 @@ def scrape_election(year,general,list_of_offices,outfile):
 			districts=district_finder.findall(office_temp)
 			print districts
 
-			for i,table in enumerate(tables[1:-1]):
+			for i,table in enumerate(tables[1:]):
 				# district is the number of the table you are looking at, unless there is only one table, in which case omit district
 				# could there ever be a special case where a district is missing, screwing up the numbering? I don't see how...
 				try:
@@ -73,6 +73,8 @@ def scrape_election(year,general,list_of_offices,outfile):
 						candidate_finder=re.compile('(.*?) \(')
 						candidate=candidate_finder.findall(tdata[0][i+3])[0]
 						candidate=unicodedata.normalize('NFKD',candidate).encode('ascii','replace').replace('?','')
+						if candidate=='Total':
+							candidate=''
 						votes=int(row[i+3].replace(',',''))
 						master_data.append([county,office,district,party,candidate,votes])
 

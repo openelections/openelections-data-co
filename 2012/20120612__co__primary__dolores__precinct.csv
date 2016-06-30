@@ -1,1 +1,69 @@
-county,precinct,office,district,party,candidate,votesDolores,1,U.S. House,3,REP,Sal Pace ,13Dolores,1,U.S. House,3,REP,Scott R. Tipton ,8Dolores,1,U.S. House,3,REP,Gaylon Kent ,0Dolores,1,U.S. House,3,REP,Gregory Gilman ,0Dolores,1,University of Colorado Regent,,DEM,Stephen C. Ludwig ,12Dolores,1,University of Colorado Regent,,,Matt Arnold ,1Dolores,1,University of Colorado Regent,,REP,Brian Davidson ,4Dolores,1,University of Colorado Regent,,,Brian X. Scott ,0Dolores,1,University of Colorado Regent,3,DEM,Jessica Garrow ,13Dolores,1,University of Colorado Regent,3,REP,Glenn Gallegos ,6Dolores,1,State House,58,,Greg Thornton ,13Dolores,1,State House,58,,Don Coram ,6Dolores,1,District Attorney,22,REP,Will Furse ,4Dolores,1,District Attorney,22,,Russell Wasley ,4Dolores,1,County Commissioner,2,DEM,Ernest (Ernie) Williams ,12Dolores,1,County Commissioner,2,REP,Rodney J. Johnson ,9Dolores,1,County Commissioner,3,,Douglas R. Stowe ,9Dolores,2,U.S. House,3,REP,Sal Pace ,11Dolores,2,U.S. House,3,REP,Scott R. Tipton ,50Dolores,2,U.S. House,3,REP,Gaylon Kent ,0Dolores,2,U.S. House,3,REP,Gregory Gilman ,0Dolores,2,University of Colorado Regent,,DEM,Stephen C. Ludwig ,11Dolores,2,University of Colorado Regent,,,Matt Arnold ,16Dolores,2,University of Colorado Regent,,REP,Brian Davidson ,19Dolores,2,University of Colorado Regent,,,Brian X. Scott ,1Dolores,2,University of Colorado Regent,3,DEM,Jessica Garrow ,11Dolores,2,University of Colorado Regent,3,REP,Glenn Gallegos ,32Dolores,2,State House,58,,Greg Thornton ,12Dolores,2,State House,58,,Don Coram ,36Dolores,2,District Attorney,22,REP,Will Furse ,22Dolores,2,District Attorney,22,,Russell Wasley ,32Dolores,2,County Commissioner,2,DEM,Ernest (Ernie) Williams ,20Dolores,2,County Commissioner,2,REP,Rodney J. Johnson ,45Dolores,2,County Commissioner,3,,Douglas R. Stowe ,35Dolores,3,U.S. House,3,REP,Sal Pace ,22Dolores,3,U.S. House,3,REP,Scott R. Tipton ,48Dolores,3,U.S. House,3,REP,Gaylon Kent ,0Dolores,3,U.S. House,3,REP,Gregory Gilman ,0Dolores,3,University of Colorado Regent,,DEM,Stephen C. Ludwig ,19Dolores,3,University of Colorado Regent,,,Matt Arnold ,13Dolores,3,University of Colorado Regent,,REP,Brian Davidson ,12Dolores,3,University of Colorado Regent,,,Brian X. Scott ,0Dolores,3,University of Colorado Regent,3,DEM,Jessica Garrow ,21Dolores,3,University of Colorado Regent,3,REP,Glenn Gallegos ,29Dolores,3,State House,58,,Greg Thornton ,20Dolores,3,State House,58,,Don Coram ,36Dolores,3,District Attorney,22,REP,Will Furse ,23Dolores,3,District Attorney,22,,Russell Wasley ,31Dolores,3,County Commissioner,2,DEM,Ernest (Ernie) Williams ,37Dolores,3,County Commissioner,2,REP,Rodney J. Johnson ,38Dolores,3,County Commissioner,3,,Douglas R. Stowe ,47Dolores,4,U.S. House,3,REP,Sal Pace ,47Dolores,4,U.S. House,3,REP,Scott R. Tipton ,85Dolores,4,U.S. House,3,REP,Gaylon Kent ,0Dolores,4,U.S. House,3,REP,Gregory Gilman ,0Dolores,4,University of Colorado Regent,,DEM,Stephen C. Ludwig ,44Dolores,4,University of Colorado Regent,,,Matt Arnold ,25Dolores,4,University of Colorado Regent,,REP,Brian Davidson ,33Dolores,4,University of Colorado Regent,,,Brian X. Scott ,0Dolores,4,University of Colorado Regent,3,DEM,Jessica Garrow ,43Dolores,4,University of Colorado Regent,3,REP,Glenn Gallegos ,56Dolores,4,State House,58,,Greg Thornton ,46Dolores,4,State House,58,,Don Coram ,70Dolores,4,District Attorney,22,REP,Will Furse ,40Dolores,4,District Attorney,22,,Russell Wasley ,55Dolores,4,County Commissioner,2,DEM,Ernest (Ernie) Williams ,65Dolores,4,County Commissioner,2,REP,Rodney J. Johnson ,67Dolores,4,County Commissioner,3,,Douglas R. Stowe ,83
+county,precinct,office,district,party,candidate,votes
+Dolores,1,U.S. House,3,DEM,Sal Pace ,13
+Dolores,1,U.S. House,3,REP,Scott R. Tipton ,8
+Dolores,1,U.S. House,3,LIB,Gaylon Kent ,0
+Dolores,1,U.S. House,3,LIB,Gregory Gilman ,0
+Dolores,1,University of Colorado Regent,,DEM,Stephen C. Ludwig ,12
+Dolores,1,University of Colorado Regent,,,Matt Arnold ,1
+Dolores,1,University of Colorado Regent,,REP,Brian Davidson ,4
+Dolores,1,University of Colorado Regent,,,Brian X. Scott ,0
+Dolores,1,University of Colorado Regent,3,DEM,Jessica Garrow ,13
+Dolores,1,University of Colorado Regent,3,REP,Glenn Gallegos ,6
+Dolores,1,State House,58,,Greg Thornton ,13
+Dolores,1,State House,58,,Don Coram ,6
+Dolores,1,District Attorney,22,REP,Will Furse ,4
+Dolores,1,District Attorney,22,,Russell Wasley ,4
+Dolores,1,County Commissioner,2,DEM,Ernest (Ernie) Williams ,12
+Dolores,1,County Commissioner,2,REP,Rodney J. Johnson ,9
+Dolores,1,County Commissioner,3,,Douglas R. Stowe ,9
+Dolores,2,U.S. House,3,DEM,Sal Pace ,11
+Dolores,2,U.S. House,3,REP,Scott R. Tipton ,50
+Dolores,2,U.S. House,3,LIB,Gaylon Kent ,0
+Dolores,2,U.S. House,3,LIB,Gregory Gilman ,0
+Dolores,2,University of Colorado Regent,,DEM,Stephen C. Ludwig ,11
+Dolores,2,University of Colorado Regent,,,Matt Arnold ,16
+Dolores,2,University of Colorado Regent,,REP,Brian Davidson ,19
+Dolores,2,University of Colorado Regent,,,Brian X. Scott ,1
+Dolores,2,University of Colorado Regent,3,DEM,Jessica Garrow ,11
+Dolores,2,University of Colorado Regent,3,REP,Glenn Gallegos ,32
+Dolores,2,State House,58,,Greg Thornton ,12
+Dolores,2,State House,58,,Don Coram ,36
+Dolores,2,District Attorney,22,REP,Will Furse ,22
+Dolores,2,District Attorney,22,,Russell Wasley ,32
+Dolores,2,County Commissioner,2,DEM,Ernest (Ernie) Williams ,20
+Dolores,2,County Commissioner,2,REP,Rodney J. Johnson ,45
+Dolores,2,County Commissioner,3,,Douglas R. Stowe ,35
+Dolores,3,U.S. House,3,DEM,Sal Pace ,22
+Dolores,3,U.S. House,3,REP,Scott R. Tipton ,48
+Dolores,3,U.S. House,3,LIB,Gaylon Kent ,0
+Dolores,3,U.S. House,3,LIB,Gregory Gilman ,0
+Dolores,3,University of Colorado Regent,,DEM,Stephen C. Ludwig ,19
+Dolores,3,University of Colorado Regent,,,Matt Arnold ,13
+Dolores,3,University of Colorado Regent,,REP,Brian Davidson ,12
+Dolores,3,University of Colorado Regent,,,Brian X. Scott ,0
+Dolores,3,University of Colorado Regent,3,DEM,Jessica Garrow ,21
+Dolores,3,University of Colorado Regent,3,REP,Glenn Gallegos ,29
+Dolores,3,State House,58,,Greg Thornton ,20
+Dolores,3,State House,58,,Don Coram ,36
+Dolores,3,District Attorney,22,REP,Will Furse ,23
+Dolores,3,District Attorney,22,,Russell Wasley ,31
+Dolores,3,County Commissioner,2,DEM,Ernest (Ernie) Williams ,37
+Dolores,3,County Commissioner,2,REP,Rodney J. Johnson ,38
+Dolores,3,County Commissioner,3,,Douglas R. Stowe ,47
+Dolores,4,U.S. House,3,DEM,Sal Pace ,47
+Dolores,4,U.S. House,3,REP,Scott R. Tipton ,85
+Dolores,4,U.S. House,3,LIB,Gaylon Kent ,0
+Dolores,4,U.S. House,3,LIB,Gregory Gilman ,0
+Dolores,4,University of Colorado Regent,,DEM,Stephen C. Ludwig ,44
+Dolores,4,University of Colorado Regent,,,Matt Arnold ,25
+Dolores,4,University of Colorado Regent,,REP,Brian Davidson ,33
+Dolores,4,University of Colorado Regent,,,Brian X. Scott ,0
+Dolores,4,University of Colorado Regent,3,DEM,Jessica Garrow ,43
+Dolores,4,University of Colorado Regent,3,REP,Glenn Gallegos ,56
+Dolores,4,State House,58,,Greg Thornton ,46
+Dolores,4,State House,58,,Don Coram ,70
+Dolores,4,District Attorney,22,REP,Will Furse ,40
+Dolores,4,District Attorney,22,,Russell Wasley ,55
+Dolores,4,County Commissioner,2,DEM,Ernest (Ernie) Williams ,65
+Dolores,4,County Commissioner,2,REP,Rodney J. Johnson ,67
+Dolores,4,County Commissioner,3,,Douglas R. Stowe ,83

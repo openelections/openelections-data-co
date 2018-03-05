@@ -1,0 +1,991 @@
+county,office,district,party,candidate,votes
+ADAMS,U.S. Senate,,Democratic,Michael Bennet,18154
+ALAMOSA,U.S. Senate,,Democratic,Michael Bennet,1050
+ARAPAHOE,U.S. Senate,,Democratic,Michael Bennet,30024
+ARCHULETA,U.S. Senate,,Democratic,Michael Bennet,549
+BACA,U.S. Senate,,Democratic,Michael Bennet,225
+BENT,U.S. Senate,,Democratic,Michael Bennet,270
+BOULDER,U.S. Senate,,Democratic,Michael Bennet,24113
+BROOMFIELD,U.S. Senate,,Democratic,Michael Bennet,3651
+CHAFFEE,U.S. Senate,,Democratic,Michael Bennet,1229
+CHEYENNE,U.S. Senate,,Democratic,Michael Bennet,55
+CLEAR CREEK,U.S. Senate,,Democratic,Michael Bennet,627
+CONEJOS,U.S. Senate,,Democratic,Michael Bennet,956
+COSTILLA,U.S. Senate,,Democratic,Michael Bennet,562
+CROWLEY,U.S. Senate,,Democratic,Michael Bennet,145
+CUSTER,U.S. Senate,,Democratic,Michael Bennet,171
+DELTA,U.S. Senate,,Democratic,Michael Bennet,1050
+DENVER,U.S. Senate,,Democratic,Michael Bennet,54154
+DOLORES,U.S. Senate,,Democratic,Michael Bennet,119
+DOUGLAS,U.S. Senate,,Democratic,Michael Bennet,9389
+EAGLE,U.S. Senate,,Democratic,Michael Bennet,1407
+EL PASO,U.S. Senate,,Democratic,Michael Bennet,19365
+ELBERT,U.S. Senate,,Democratic,Michael Bennet,653
+FREMONT,U.S. Senate,,Democratic,Michael Bennet,1601
+GARFIELD,U.S. Senate,,Democratic,Michael Bennet,1575
+GILPIN,U.S. Senate,,Democratic,Michael Bennet,333
+GRAND,U.S. Senate,,Democratic,Michael Bennet,839
+GUNNISON,U.S. Senate,,Democratic,Michael Bennet,724
+HINSDALE,U.S. Senate,,Democratic,Michael Bennet,40
+HUERFANO,U.S. Senate,,Democratic,Michael Bennet,823
+JACKSON,U.S. Senate,,Democratic,Michael Bennet,43
+JEFFERSON,U.S. Senate,,Democratic,Michael Bennet,28754
+KIOWA,U.S. Senate,,Democratic,Michael Bennet,53
+KIT CARSON,U.S. Senate,,Democratic,Michael Bennet,191
+LA PLATA,U.S. Senate,,Democratic,Michael Bennet,3581
+LAKE,U.S. Senate,,Democratic,Michael Bennet,674
+LARIMER,U.S. Senate,,Democratic,Michael Bennet,14780
+LAS ANIMAS,U.S. Senate,,Democratic,Michael Bennet,1410
+LINCOLN,U.S. Senate,,Democratic,Michael Bennet,145
+LOGAN,U.S. Senate,,Democratic,Michael Bennet,704
+MESA,U.S. Senate,,Democratic,Michael Bennet,5028
+MINERAL,U.S. Senate,,Democratic,Michael Bennet,105
+MOFFAT,U.S. Senate,,Democratic,Michael Bennet,205
+MONTEZUMA,U.S. Senate,,Democratic,Michael Bennet,953
+MONTROSE,U.S. Senate,,Democratic,Michael Bennet,1305
+MORGAN,U.S. Senate,,Democratic,Michael Bennet,820
+OTERO,U.S. Senate,,Democratic,Michael Bennet,826
+OURAY,U.S. Senate,,Democratic,Michael Bennet,319
+PARK,U.S. Senate,,Democratic,Michael Bennet,648
+PHILLIPS,U.S. Senate,,Democratic,Michael Bennet,129
+PITKIN,U.S. Senate,,Democratic,Michael Bennet,1153
+PROWERS,U.S. Senate,,Democratic,Michael Bennet,394
+PUEBLO,U.S. Senate,,Democratic,Michael Bennet,12984
+RIO BLANCO,U.S. Senate,,Democratic,Michael Bennet,108
+RIO GRANDE,U.S. Senate,,Democratic,Michael Bennet,671
+ROUTT,U.S. Senate,,Democratic,Michael Bennet,1004
+SAGUACHE,U.S. Senate,,Democratic,Michael Bennet,468
+SAN JUAN,U.S. Senate,,Democratic,Michael Bennet,56
+SAN MIGUEL,U.S. Senate,,Democratic,Michael Bennet,887
+SEDGWICK,U.S. Senate,,Democratic,Michael Bennet,90
+SUMMIT,U.S. Senate,,Democratic,Michael Bennet,1142
+TELLER,U.S. Senate,,Democratic,Michael Bennet,795
+WASHINGTON,U.S. Senate,,Democratic,Michael Bennet,121
+WELD,U.S. Senate,,Democratic,Michael Bennet,7629
+YUMA,U.S. Senate,,Democratic,Michael Bennet,316
+ADAMS,U.S. Senate,,Republican,Darryl Glenn,5352
+ALAMOSA,U.S. Senate,,Republican,Darryl Glenn,334
+ARAPAHOE,U.S. Senate,,Republican,Darryl Glenn,11221
+ARCHULETA,U.S. Senate,,Republican,Darryl Glenn,417
+BACA,U.S. Senate,,Republican,Darryl Glenn,313
+BENT,U.S. Senate,,Republican,Darryl Glenn,215
+BOULDER,U.S. Senate,,Republican,Darryl Glenn,3717
+BROOMFIELD,U.S. Senate,,Republican,Darryl Glenn,1211
+CHAFFEE,U.S. Senate,,Republican,Darryl Glenn,684
+CHEYENNE,U.S. Senate,,Republican,Darryl Glenn,114
+CLEAR CREEK,U.S. Senate,,Republican,Darryl Glenn,221
+CONEJOS,U.S. Senate,,Republican,Darryl Glenn,286
+COSTILLA,U.S. Senate,,Republican,Darryl Glenn,41
+CROWLEY,U.S. Senate,,Republican,Darryl Glenn,215
+CUSTER,U.S. Senate,,Republican,Darryl Glenn,603
+DELTA,U.S. Senate,,Republican,Darryl Glenn,1493
+DENVER,U.S. Senate,,Republican,Darryl Glenn,4404
+DOLORES,U.S. Senate,,Republican,Darryl Glenn,62
+DOUGLAS,U.S. Senate,,Republican,Darryl Glenn,9632
+EAGLE,U.S. Senate,,Republican,Darryl Glenn,359
+EL PASO,U.S. Senate,,Republican,Darryl Glenn,36332
+ELBERT,U.S. Senate,,Republican,Darryl Glenn,1846
+FREMONT,U.S. Senate,,Republican,Darryl Glenn,2218
+GARFIELD,U.S. Senate,,Republican,Darryl Glenn,946
+GILPIN,U.S. Senate,,Republican,Darryl Glenn,161
+GRAND,U.S. Senate,,Republican,Darryl Glenn,583
+GUNNISON,U.S. Senate,,Republican,Darryl Glenn,241
+HINSDALE,U.S. Senate,,Republican,Darryl Glenn,65
+HUERFANO,U.S. Senate,,Republican,Darryl Glenn,263
+JACKSON,U.S. Senate,,Republican,Darryl Glenn,139
+JEFFERSON,U.S. Senate,,Republican,Darryl Glenn,12766
+KIOWA,U.S. Senate,,Republican,Darryl Glenn,162
+KIT CARSON,U.S. Senate,,Republican,Darryl Glenn,442
+LA PLATA,U.S. Senate,,Republican,Darryl Glenn,1110
+LAKE,U.S. Senate,,Republican,Darryl Glenn,111
+LARIMER,U.S. Senate,,Republican,Darryl Glenn,7699
+LAS ANIMAS,U.S. Senate,,Republican,Darryl Glenn,339
+LINCOLN,U.S. Senate,,Republican,Darryl Glenn,353
+LOGAN,U.S. Senate,,Republican,Darryl Glenn,833
+MESA,U.S. Senate,,Republican,Darryl Glenn,4594
+MINERAL,U.S. Senate,,Republican,Darryl Glenn,44
+MOFFAT,U.S. Senate,,Republican,Darryl Glenn,378
+MONTEZUMA,U.S. Senate,,Republican,Darryl Glenn,734
+MONTROSE,U.S. Senate,,Republican,Darryl Glenn,1771
+MORGAN,U.S. Senate,,Republican,Darryl Glenn,785
+OTERO,U.S. Senate,,Republican,Darryl Glenn,709
+OURAY,U.S. Senate,,Republican,Darryl Glenn,205
+PARK,U.S. Senate,,Republican,Darryl Glenn,712
+PHILLIPS,U.S. Senate,,Republican,Darryl Glenn,199
+PITKIN,U.S. Senate,,Republican,Darryl Glenn,108
+PROWERS,U.S. Senate,,Republican,Darryl Glenn,359
+PUEBLO,U.S. Senate,,Republican,Darryl Glenn,3402
+RIO BLANCO,U.S. Senate,,Republican,Darryl Glenn,419
+RIO GRANDE,U.S. Senate,,Republican,Darryl Glenn,421
+ROUTT,U.S. Senate,,Republican,Darryl Glenn,294
+SAGUACHE,U.S. Senate,,Republican,Darryl Glenn,126
+SAN JUAN,U.S. Senate,,Republican,Darryl Glenn,14
+SAN MIGUEL,U.S. Senate,,Republican,Darryl Glenn,92
+SEDGWICK,U.S. Senate,,Republican,Darryl Glenn,111
+SUMMIT,U.S. Senate,,Republican,Darryl Glenn,342
+TELLER,U.S. Senate,,Republican,Darryl Glenn,1635
+WASHINGTON,U.S. Senate,,Republican,Darryl Glenn,349
+WELD,U.S. Senate,,Republican,Darryl Glenn,5463
+YUMA,U.S. Senate,,Republican,Darryl Glenn,356
+ADAMS,U.S. Senate,,Republican,Ryan L. Frazier,1735
+ALAMOSA,U.S. Senate,,Republican,Ryan L. Frazier,81
+ARAPAHOE,U.S. Senate,,Republican,Ryan L. Frazier,4912
+ARCHULETA,U.S. Senate,,Republican,Ryan L. Frazier,91
+BACA,U.S. Senate,,Republican,Ryan L. Frazier,43
+BENT,U.S. Senate,,Republican,Ryan L. Frazier,24
+BOULDER,U.S. Senate,,Republican,Ryan L. Frazier,1049
+BROOMFIELD,U.S. Senate,,Republican,Ryan L. Frazier,464
+CHAFFEE,U.S. Senate,,Republican,Ryan L. Frazier,129
+CHEYENNE,U.S. Senate,,Republican,Ryan L. Frazier,42
+CLEAR CREEK,U.S. Senate,,Republican,Ryan L. Frazier,36
+CONEJOS,U.S. Senate,,Republican,Ryan L. Frazier,46
+COSTILLA,U.S. Senate,,Republican,Ryan L. Frazier,18
+CROWLEY,U.S. Senate,,Republican,Ryan L. Frazier,19
+CUSTER,U.S. Senate,,Republican,Ryan L. Frazier,53
+DELTA,U.S. Senate,,Republican,Ryan L. Frazier,291
+DENVER,U.S. Senate,,Republican,Ryan L. Frazier,1927
+DOLORES,U.S. Senate,,Republican,Ryan L. Frazier,30
+DOUGLAS,U.S. Senate,,Republican,Ryan L. Frazier,2917
+EAGLE,U.S. Senate,,Republican,Ryan L. Frazier,143
+EL PASO,U.S. Senate,,Republican,Ryan L. Frazier,2309
+ELBERT,U.S. Senate,,Republican,Ryan L. Frazier,360
+FREMONT,U.S. Senate,,Republican,Ryan L. Frazier,202
+GARFIELD,U.S. Senate,,Republican,Ryan L. Frazier,255
+GILPIN,U.S. Senate,,Republican,Ryan L. Frazier,28
+GRAND,U.S. Senate,,Republican,Ryan L. Frazier,164
+GUNNISON,U.S. Senate,,Republican,Ryan L. Frazier,66
+HINSDALE,U.S. Senate,,Republican,Ryan L. Frazier,16
+HUERFANO,U.S. Senate,,Republican,Ryan L. Frazier,31
+JACKSON,U.S. Senate,,Republican,Ryan L. Frazier,29
+JEFFERSON,U.S. Senate,,Republican,Ryan L. Frazier,4607
+KIOWA,U.S. Senate,,Republican,Ryan L. Frazier,24
+KIT CARSON,U.S. Senate,,Republican,Ryan L. Frazier,86
+LA PLATA,U.S. Senate,,Republican,Ryan L. Frazier,388
+LAKE,U.S. Senate,,Republican,Ryan L. Frazier,17
+LARIMER,U.S. Senate,,Republican,Ryan L. Frazier,1667
+LAS ANIMAS,U.S. Senate,,Republican,Ryan L. Frazier,45
+LINCOLN,U.S. Senate,,Republican,Ryan L. Frazier,135
+LOGAN,U.S. Senate,,Republican,Ryan L. Frazier,249
+MESA,U.S. Senate,,Republican,Ryan L. Frazier,1128
+MINERAL,U.S. Senate,,Republican,Ryan L. Frazier,7
+MOFFAT,U.S. Senate,,Republican,Ryan L. Frazier,109
+MONTEZUMA,U.S. Senate,,Republican,Ryan L. Frazier,309
+MONTROSE,U.S. Senate,,Republican,Ryan L. Frazier,363
+MORGAN,U.S. Senate,,Republican,Ryan L. Frazier,275
+OTERO,U.S. Senate,,Republican,Ryan L. Frazier,69
+OURAY,U.S. Senate,,Republican,Ryan L. Frazier,48
+PARK,U.S. Senate,,Republican,Ryan L. Frazier,142
+PHILLIPS,U.S. Senate,,Republican,Ryan L. Frazier,34
+PITKIN,U.S. Senate,,Republican,Ryan L. Frazier,78
+PROWERS,U.S. Senate,,Republican,Ryan L. Frazier,75
+PUEBLO,U.S. Senate,,Republican,Ryan L. Frazier,417
+RIO BLANCO,U.S. Senate,,Republican,Ryan L. Frazier,77
+RIO GRANDE,U.S. Senate,,Republican,Ryan L. Frazier,101
+ROUTT,U.S. Senate,,Republican,Ryan L. Frazier,90
+SAGUACHE,U.S. Senate,,Republican,Ryan L. Frazier,21
+SAN JUAN,U.S. Senate,,Republican,Ryan L. Frazier,2
+SAN MIGUEL,U.S. Senate,,Republican,Ryan L. Frazier,20
+SEDGWICK,U.S. Senate,,Republican,Ryan L. Frazier,39
+SUMMIT,U.S. Senate,,Republican,Ryan L. Frazier,82
+TELLER,U.S. Senate,,Republican,Ryan L. Frazier,117
+WASHINGTON,U.S. Senate,,Republican,Ryan L. Frazier,165
+WELD,U.S. Senate,,Republican,Ryan L. Frazier,1648
+YUMA,U.S. Senate,,Republican,Ryan L. Frazier,97
+ADAMS,U.S. Senate,,Republican,Robert Blaha,3176
+ALAMOSA,U.S. Senate,,Republican,Robert Blaha,154
+ARAPAHOE,U.S. Senate,,Republican,Robert Blaha,5938
+ARCHULETA,U.S. Senate,,Republican,Robert Blaha,207
+BACA,U.S. Senate,,Republican,Robert Blaha,49
+BENT,U.S. Senate,,Republican,Robert Blaha,42
+BOULDER,U.S. Senate,,Republican,Robert Blaha,2178
+BROOMFIELD,U.S. Senate,,Republican,Robert Blaha,727
+CHAFFEE,U.S. Senate,,Republican,Robert Blaha,379
+CHEYENNE,U.S. Senate,,Republican,Robert Blaha,47
+CLEAR CREEK,U.S. Senate,,Republican,Robert Blaha,122
+CONEJOS,U.S. Senate,,Republican,Robert Blaha,86
+COSTILLA,U.S. Senate,,Republican,Robert Blaha,23
+CROWLEY,U.S. Senate,,Republican,Robert Blaha,45
+CUSTER,U.S. Senate,,Republican,Robert Blaha,118
+DELTA,U.S. Senate,,Republican,Robert Blaha,391
+DENVER,U.S. Senate,,Republican,Robert Blaha,2848
+DOLORES,U.S. Senate,,Republican,Robert Blaha,42
+DOUGLAS,U.S. Senate,,Republican,Robert Blaha,4624
+EAGLE,U.S. Senate,,Republican,Robert Blaha,250
+EL PASO,U.S. Senate,,Republican,Robert Blaha,10909
+ELBERT,U.S. Senate,,Republican,Robert Blaha,660
+FREMONT,U.S. Senate,,Republican,Robert Blaha,675
+GARFIELD,U.S. Senate,,Republican,Robert Blaha,544
+GILPIN,U.S. Senate,,Republican,Robert Blaha,69
+GRAND,U.S. Senate,,Republican,Robert Blaha,271
+GUNNISON,U.S. Senate,,Republican,Robert Blaha,152
+HINSDALE,U.S. Senate,,Republican,Robert Blaha,34
+HUERFANO,U.S. Senate,,Republican,Robert Blaha,34
+JACKSON,U.S. Senate,,Republican,Robert Blaha,45
+JEFFERSON,U.S. Senate,,Republican,Robert Blaha,6740
+KIOWA,U.S. Senate,,Republican,Robert Blaha,10
+KIT CARSON,U.S. Senate,,Republican,Robert Blaha,161
+LA PLATA,U.S. Senate,,Republican,Robert Blaha,442
+LAKE,U.S. Senate,,Republican,Robert Blaha,57
+LARIMER,U.S. Senate,,Republican,Robert Blaha,4861
+LAS ANIMAS,U.S. Senate,,Republican,Robert Blaha,82
+LINCOLN,U.S. Senate,,Republican,Robert Blaha,161
+LOGAN,U.S. Senate,,Republican,Robert Blaha,526
+MESA,U.S. Senate,,Republican,Robert Blaha,1168
+MINERAL,U.S. Senate,,Republican,Robert Blaha,28
+MOFFAT,U.S. Senate,,Republican,Robert Blaha,273
+MONTEZUMA,U.S. Senate,,Republican,Robert Blaha,288
+MONTROSE,U.S. Senate,,Republican,Robert Blaha,333
+MORGAN,U.S. Senate,,Republican,Robert Blaha,490
+OTERO,U.S. Senate,,Republican,Robert Blaha,114
+OURAY,U.S. Senate,,Republican,Robert Blaha,53
+PARK,U.S. Senate,,Republican,Robert Blaha,318
+PHILLIPS,U.S. Senate,,Republican,Robert Blaha,130
+PITKIN,U.S. Senate,,Republican,Robert Blaha,94
+PROWERS,U.S. Senate,,Republican,Robert Blaha,217
+PUEBLO,U.S. Senate,,Republican,Robert Blaha,751
+RIO BLANCO,U.S. Senate,,Republican,Robert Blaha,169
+RIO GRANDE,U.S. Senate,,Republican,Robert Blaha,196
+ROUTT,U.S. Senate,,Republican,Robert Blaha,188
+SAGUACHE,U.S. Senate,,Republican,Robert Blaha,50
+SAN JUAN,U.S. Senate,,Republican,Robert Blaha,7
+SAN MIGUEL,U.S. Senate,,Republican,Robert Blaha,23
+SEDGWICK,U.S. Senate,,Republican,Robert Blaha,71
+SUMMIT,U.S. Senate,,Republican,Robert Blaha,200
+TELLER,U.S. Senate,,Republican,Robert Blaha,323
+WASHINGTON,U.S. Senate,,Republican,Robert Blaha,237
+WELD,U.S. Senate,,Republican,Robert Blaha,3404
+YUMA,U.S. Senate,,Republican,Robert Blaha,192
+ADAMS,U.S. Senate,,Republican,Jack Graham,3929
+ALAMOSA,U.S. Senate,,Republican,Jack Graham,284
+ARAPAHOE,U.S. Senate,,Republican,Jack Graham,8645
+ARCHULETA,U.S. Senate,,Republican,Jack Graham,310
+BACA,U.S. Senate,,Republican,Jack Graham,197
+BENT,U.S. Senate,,Republican,Jack Graham,153
+BOULDER,U.S. Senate,,Republican,Jack Graham,3323
+BROOMFIELD,U.S. Senate,,Republican,Jack Graham,1027
+CHAFFEE,U.S. Senate,,Republican,Jack Graham,479
+CHEYENNE,U.S. Senate,,Republican,Jack Graham,100
+CLEAR CREEK,U.S. Senate,,Republican,Jack Graham,170
+CONEJOS,U.S. Senate,,Republican,Jack Graham,159
+COSTILLA,U.S. Senate,,Republican,Jack Graham,30
+CROWLEY,U.S. Senate,,Republican,Jack Graham,168
+CUSTER,U.S. Senate,,Republican,Jack Graham,351
+DELTA,U.S. Senate,,Republican,Jack Graham,864
+DENVER,U.S. Senate,,Republican,Jack Graham,4459
+DOLORES,U.S. Senate,,Republican,Jack Graham,59
+DOUGLAS,U.S. Senate,,Republican,Jack Graham,6726
+EAGLE,U.S. Senate,,Republican,Jack Graham,553
+EL PASO,U.S. Senate,,Republican,Jack Graham,9543
+ELBERT,U.S. Senate,,Republican,Jack Graham,964
+FREMONT,U.S. Senate,,Republican,Jack Graham,1721
+GARFIELD,U.S. Senate,,Republican,Jack Graham,909
+GILPIN,U.S. Senate,,Republican,Jack Graham,88
+GRAND,U.S. Senate,,Republican,Jack Graham,574
+GUNNISON,U.S. Senate,,Republican,Jack Graham,242
+HINSDALE,U.S. Senate,,Republican,Jack Graham,35
+HUERFANO,U.S. Senate,,Republican,Jack Graham,127
+JACKSON,U.S. Senate,,Republican,Jack Graham,135
+JEFFERSON,U.S. Senate,,Republican,Jack Graham,9306
+KIOWA,U.S. Senate,,Republican,Jack Graham,91
+KIT CARSON,U.S. Senate,,Republican,Jack Graham,319
+LA PLATA,U.S. Senate,,Republican,Jack Graham,453
+LAKE,U.S. Senate,,Republican,Jack Graham,56
+LARIMER,U.S. Senate,,Republican,Jack Graham,7019
+LAS ANIMAS,U.S. Senate,,Republican,Jack Graham,283
+LINCOLN,U.S. Senate,,Republican,Jack Graham,241
+LOGAN,U.S. Senate,,Republican,Jack Graham,828
+MESA,U.S. Senate,,Republican,Jack Graham,4971
+MINERAL,U.S. Senate,,Republican,Jack Graham,62
+MOFFAT,U.S. Senate,,Republican,Jack Graham,486
+MONTEZUMA,U.S. Senate,,Republican,Jack Graham,495
+MONTROSE,U.S. Senate,,Republican,Jack Graham,1391
+MORGAN,U.S. Senate,,Republican,Jack Graham,817
+OTERO,U.S. Senate,,Republican,Jack Graham,502
+OURAY,U.S. Senate,,Republican,Jack Graham,136
+PARK,U.S. Senate,,Republican,Jack Graham,447
+PHILLIPS,U.S. Senate,,Republican,Jack Graham,185
+PITKIN,U.S. Senate,,Republican,Jack Graham,131
+PROWERS,U.S. Senate,,Republican,Jack Graham,439
+PUEBLO,U.S. Senate,,Republican,Jack Graham,2419
+RIO BLANCO,U.S. Senate,,Republican,Jack Graham,370
+RIO GRANDE,U.S. Senate,,Republican,Jack Graham,366
+ROUTT,U.S. Senate,,Republican,Jack Graham,474
+SAGUACHE,U.S. Senate,,Republican,Jack Graham,84
+SAN JUAN,U.S. Senate,,Republican,Jack Graham,6
+SAN MIGUEL,U.S. Senate,,Republican,Jack Graham,93
+SEDGWICK,U.S. Senate,,Republican,Jack Graham,142
+SUMMIT,U.S. Senate,,Republican,Jack Graham,303
+TELLER,U.S. Senate,,Republican,Jack Graham,540
+WASHINGTON,U.S. Senate,,Republican,Jack Graham,338
+WELD,U.S. Senate,,Republican,Jack Graham,4880
+YUMA,U.S. Senate,,Republican,Jack Graham,403
+ADAMS,U.S. Senate,,Republican,Jon Keyser,2009
+ALAMOSA,U.S. Senate,,Republican,Jon Keyser,120
+ARAPAHOE,U.S. Senate,,Republican,Jon Keyser,4708
+ARCHULETA,U.S. Senate,,Republican,Jon Keyser,270
+BACA,U.S. Senate,,Republican,Jon Keyser,82
+BENT,U.S. Senate,,Republican,Jon Keyser,40
+BOULDER,U.S. Senate,,Republican,Jon Keyser,1354
+BROOMFIELD,U.S. Senate,,Republican,Jon Keyser,647
+CHAFFEE,U.S. Senate,,Republican,Jon Keyser,312
+CHEYENNE,U.S. Senate,,Republican,Jon Keyser,36
+CLEAR CREEK,U.S. Senate,,Republican,Jon Keyser,121
+CONEJOS,U.S. Senate,,Republican,Jon Keyser,59
+COSTILLA,U.S. Senate,,Republican,Jon Keyser,17
+CROWLEY,U.S. Senate,,Republican,Jon Keyser,56
+CUSTER,U.S. Senate,,Republican,Jon Keyser,140
+DELTA,U.S. Senate,,Republican,Jon Keyser,394
+DENVER,U.S. Senate,,Republican,Jon Keyser,2176
+DOLORES,U.S. Senate,,Republican,Jon Keyser,45
+DOUGLAS,U.S. Senate,,Republican,Jon Keyser,4615
+EAGLE,U.S. Senate,,Republican,Jon Keyser,266
+EL PASO,U.S. Senate,,Republican,Jon Keyser,4459
+ELBERT,U.S. Senate,,Republican,Jon Keyser,368
+FREMONT,U.S. Senate,,Republican,Jon Keyser,586
+GARFIELD,U.S. Senate,,Republican,Jon Keyser,539
+GILPIN,U.S. Senate,,Republican,Jon Keyser,47
+GRAND,U.S. Senate,,Republican,Jon Keyser,292
+GUNNISON,U.S. Senate,,Republican,Jon Keyser,99
+HINSDALE,U.S. Senate,,Republican,Jon Keyser,33
+HUERFANO,U.S. Senate,,Republican,Jon Keyser,54
+JACKSON,U.S. Senate,,Republican,Jon Keyser,27
+JEFFERSON,U.S. Senate,,Republican,Jon Keyser,6028
+KIOWA,U.S. Senate,,Republican,Jon Keyser,32
+KIT CARSON,U.S. Senate,,Republican,Jon Keyser,107
+LA PLATA,U.S. Senate,,Republican,Jon Keyser,784
+LAKE,U.S. Senate,,Republican,Jon Keyser,24
+LARIMER,U.S. Senate,,Republican,Jon Keyser,2329
+LAS ANIMAS,U.S. Senate,,Republican,Jon Keyser,119
+LINCOLN,U.S. Senate,,Republican,Jon Keyser,69
+LOGAN,U.S. Senate,,Republican,Jon Keyser,410
+MESA,U.S. Senate,,Republican,Jon Keyser,2582
+MINERAL,U.S. Senate,,Republican,Jon Keyser,32
+MOFFAT,U.S. Senate,,Republican,Jon Keyser,203
+MONTEZUMA,U.S. Senate,,Republican,Jon Keyser,428
+MONTROSE,U.S. Senate,,Republican,Jon Keyser,850
+MORGAN,U.S. Senate,,Republican,Jon Keyser,327
+OTERO,U.S. Senate,,Republican,Jon Keyser,148
+OURAY,U.S. Senate,,Republican,Jon Keyser,62
+PARK,U.S. Senate,,Republican,Jon Keyser,268
+PHILLIPS,U.S. Senate,,Republican,Jon Keyser,31
+PITKIN,U.S. Senate,,Republican,Jon Keyser,72
+PROWERS,U.S. Senate,,Republican,Jon Keyser,144
+PUEBLO,U.S. Senate,,Republican,Jon Keyser,942
+RIO BLANCO,U.S. Senate,,Republican,Jon Keyser,199
+RIO GRANDE,U.S. Senate,,Republican,Jon Keyser,121
+ROUTT,U.S. Senate,,Republican,Jon Keyser,184
+SAGUACHE,U.S. Senate,,Republican,Jon Keyser,35
+SAN JUAN,U.S. Senate,,Republican,Jon Keyser,5
+SAN MIGUEL,U.S. Senate,,Republican,Jon Keyser,36
+SEDGWICK,U.S. Senate,,Republican,Jon Keyser,56
+SUMMIT,U.S. Senate,,Republican,Jon Keyser,128
+TELLER,U.S. Senate,,Republican,Jon Keyser,330
+WASHINGTON,U.S. Senate,,Republican,Jon Keyser,114
+WELD,U.S. Senate,,Republican,Jon Keyser,2230
+YUMA,U.S. Senate,,Republican,Jon Keyser,109
+ADAMS,U.S. Senate,,Republican,Jerry Eller,1
+ALAMOSA,U.S. Senate,,Republican,Jerry Eller,0
+ARAPAHOE,U.S. Senate,,Republican,Jerry Eller,1
+ARCHULETA,U.S. Senate,,Republican,Jerry Eller,6
+BACA,U.S. Senate,,Republican,Jerry Eller,0
+BENT,U.S. Senate,,Republican,Jerry Eller,0
+BOULDER,U.S. Senate,,Republican,Jerry Eller,3
+BROOMFIELD,U.S. Senate,,Republican,Jerry Eller,0
+CHAFFEE,U.S. Senate,,Republican,Jerry Eller,0
+CHEYENNE,U.S. Senate,,Republican,Jerry Eller,0
+CLEAR CREEK,U.S. Senate,,Republican,Jerry Eller,0
+CONEJOS,U.S. Senate,,Republican,Jerry Eller,0
+COSTILLA,U.S. Senate,,Republican,Jerry Eller,0
+CROWLEY,U.S. Senate,,Republican,Jerry Eller,0
+CUSTER,U.S. Senate,,Republican,Jerry Eller,0
+DELTA,U.S. Senate,,Republican,Jerry Eller,0
+DENVER,U.S. Senate,,Republican,Jerry Eller,3
+DOLORES,U.S. Senate,,Republican,Jerry Eller,0
+DOUGLAS,U.S. Senate,,Republican,Jerry Eller,4
+EAGLE,U.S. Senate,,Republican,Jerry Eller,0
+EL PASO,U.S. Senate,,Republican,Jerry Eller,20
+ELBERT,U.S. Senate,,Republican,Jerry Eller,0
+FREMONT,U.S. Senate,,Republican,Jerry Eller,4
+GARFIELD,U.S. Senate,,Republican,Jerry Eller,0
+GILPIN,U.S. Senate,,Republican,Jerry Eller,0
+GRAND,U.S. Senate,,Republican,Jerry Eller,0
+GUNNISON,U.S. Senate,,Republican,Jerry Eller,0
+HINSDALE,U.S. Senate,,Republican,Jerry Eller,0
+HUERFANO,U.S. Senate,,Republican,Jerry Eller,2
+JACKSON,U.S. Senate,,Republican,Jerry Eller,0
+JEFFERSON,U.S. Senate,,Republican,Jerry Eller,4
+KIOWA,U.S. Senate,,Republican,Jerry Eller,0
+KIT CARSON,U.S. Senate,,Republican,Jerry Eller,0
+LA PLATA,U.S. Senate,,Republican,Jerry Eller,0
+LAKE,U.S. Senate,,Republican,Jerry Eller,0
+LARIMER,U.S. Senate,,Republican,Jerry Eller,0
+LAS ANIMAS,U.S. Senate,,Republican,Jerry Eller,2
+LINCOLN,U.S. Senate,,Republican,Jerry Eller,0
+LOGAN,U.S. Senate,,Republican,Jerry Eller,0
+MESA,U.S. Senate,,Republican,Jerry Eller,0
+MINERAL,U.S. Senate,,Republican,Jerry Eller,0
+MOFFAT,U.S. Senate,,Republican,Jerry Eller,0
+MONTEZUMA,U.S. Senate,,Republican,Jerry Eller,1
+MONTROSE,U.S. Senate,,Republican,Jerry Eller,0
+MORGAN,U.S. Senate,,Republican,Jerry Eller,0
+OTERO,U.S. Senate,,Republican,Jerry Eller,0
+OURAY,U.S. Senate,,Republican,Jerry Eller,0
+PARK,U.S. Senate,,Republican,Jerry Eller,1
+PHILLIPS,U.S. Senate,,Republican,Jerry Eller,1
+PITKIN,U.S. Senate,,Republican,Jerry Eller,0
+PROWERS,U.S. Senate,,Republican,Jerry Eller,0
+PUEBLO,U.S. Senate,,Republican,Jerry Eller,1
+RIO BLANCO,U.S. Senate,,Republican,Jerry Eller,0
+RIO GRANDE,U.S. Senate,,Republican,Jerry Eller,0
+ROUTT,U.S. Senate,,Republican,Jerry Eller,0
+SAGUACHE,U.S. Senate,,Republican,Jerry Eller,0
+SAN JUAN,U.S. Senate,,Republican,Jerry Eller,0
+SAN MIGUEL,U.S. Senate,,Republican,Jerry Eller,0
+SEDGWICK,U.S. Senate,,Republican,Jerry Eller,0
+SUMMIT,U.S. Senate,,Republican,Jerry Eller,0
+TELLER,U.S. Senate,,Republican,Jerry Eller,3
+WASHINGTON,U.S. Senate,,Republican,Jerry Eller,0
+WELD,U.S. Senate,,Republican,Jerry Eller,11
+YUMA,U.S. Senate,,Republican,Jerry Eller,0
+ARAPAHOE,U.S. House,1,Democratic,Diana DeGette,3077
+DENVER,U.S. House,1,Democratic,Diana DeGette,50171
+JEFFERSON,U.S. House,1,Democratic,Diana DeGette,2677
+ARAPAHOE,U.S. House,1,Democratic,"Charles H. ""Chuck"" Norris",579
+DENVER,U.S. House,1,Democratic,"Charles H. ""Chuck"" Norris",7592
+JEFFERSON,U.S. House,1,Democratic,"Charles H. ""Chuck"" Norris",599
+ARAPAHOE,U.S. House,1,Republican,"Charles ""Casper"" Stockham",2047
+DENVER,U.S. House,1,Republican,"Charles ""Casper"" Stockham",8822
+JEFFERSON,U.S. House,1,Republican,"Charles ""Casper"" Stockham",4747
+BOULDER,U.S. House,2,Democratic,Jared Polis,18290
+BROOMFIELD,U.S. House,2,Democratic,Jared Polis,3555
+CLEAR CREEK,U.S. House,2,Democratic,Jared Polis,610
+EAGLE,U.S. House,2,Democratic,Jared Polis,355
+GILPIN,U.S. House,2,Democratic,Jared Polis,312
+GRAND,U.S. House,2,Democratic,Jared Polis,804
+JEFFERSON,U.S. House,2,Democratic,Jared Polis,4082
+LARIMER,U.S. House,2,Democratic,Jared Polis,14214
+PARK,U.S. House,2,Democratic,Jared Polis,317
+SUMMIT,U.S. House,2,Democratic,Jared Polis,1121
+BOULDER,U.S. House,2,Democratic,Steven Todd,1116
+BROOMFIELD,U.S. House,2,Democratic,Steven Todd,62
+CLEAR CREEK,U.S. House,2,Democratic,Steven Todd,0
+EAGLE,U.S. House,2,Democratic,Steven Todd,0
+GILPIN,U.S. House,2,Democratic,Steven Todd,17
+GRAND,U.S. House,2,Democratic,Steven Todd,26
+JEFFERSON,U.S. House,2,Democratic,Steven Todd,22
+LARIMER,U.S. House,2,Democratic,Steven Todd,109
+PARK,U.S. House,2,Democratic,Steven Todd,1
+SUMMIT,U.S. House,2,Democratic,Steven Todd,4
+BOULDER,U.S. House,2,Republican,Nicholas Morse,5222
+BROOMFIELD,U.S. House,2,Republican,Nicholas Morse,3313
+CLEAR CREEK,U.S. House,2,Republican,Nicholas Morse,523
+EAGLE,U.S. House,2,Republican,Nicholas Morse,227
+GILPIN,U.S. House,2,Republican,Nicholas Morse,305
+GRAND,U.S. House,2,Republican,Nicholas Morse,1281
+JEFFERSON,U.S. House,2,Republican,Nicholas Morse,5625
+LARIMER,U.S. House,2,Republican,Nicholas Morse,18428
+PARK,U.S. House,2,Republican,Nicholas Morse,711
+SUMMIT,U.S. House,2,Republican,Nicholas Morse,782
+ALAMOSA,U.S. House,3,Democratic,Gail Schwartz,1033
+ARCHULETA,U.S. House,3,Democratic,Gail Schwartz,509
+CONEJOS,U.S. House,3,Democratic,Gail Schwartz,919
+COSTILLA,U.S. House,3,Democratic,Gail Schwartz,533
+CUSTER,U.S. House,3,Democratic,Gail Schwartz,162
+DELTA,U.S. House,3,Democratic,Gail Schwartz,1063
+DOLORES,U.S. House,3,Democratic,Gail Schwartz,99
+EAGLE,U.S. House,3,Democratic,Gail Schwartz,948
+GARFIELD,U.S. House,3,Democratic,Gail Schwartz,1505
+GUNNISON,U.S. House,3,Democratic,Gail Schwartz,718
+HINSDALE,U.S. House,3,Democratic,Gail Schwartz,34
+HUERFANO,U.S. House,3,Democratic,Gail Schwartz,754
+JACKSON,U.S. House,3,Democratic,Gail Schwartz,40
+LA PLATA,U.S. House,3,Democratic,Gail Schwartz,3352
+LAKE,U.S. House,3,Democratic,Gail Schwartz,605
+MESA,U.S. House,3,Democratic,Gail Schwartz,4727
+MINERAL,U.S. House,3,Democratic,Gail Schwartz,89
+MOFFAT,U.S. House,3,Democratic,Gail Schwartz,194
+MONTEZUMA,U.S. House,3,Democratic,Gail Schwartz,926
+MONTROSE,U.S. House,3,Democratic,Gail Schwartz,1291
+OURAY,U.S. House,3,Democratic,Gail Schwartz,307
+PITKIN,U.S. House,3,Democratic,Gail Schwartz,1266
+PUEBLO,U.S. House,3,Democratic,Gail Schwartz,11862
+RIO BLANCO,U.S. House,3,Democratic,Gail Schwartz,95
+RIO GRANDE,U.S. House,3,Democratic,Gail Schwartz,664
+ROUTT,U.S. House,3,Democratic,Gail Schwartz,872
+SAGUACHE,U.S. House,3,Democratic,Gail Schwartz,471
+SAN JUAN,U.S. House,3,Democratic,Gail Schwartz,45
+SAN MIGUEL,U.S. House,3,Democratic,Gail Schwartz,740
+ALAMOSA,U.S. House,3,Republican,Scott R. Tipton,909
+ARCHULETA,U.S. House,3,Republican,Scott R. Tipton,1046
+CONEJOS,U.S. House,3,Republican,Scott R. Tipton,572
+COSTILLA,U.S. House,3,Republican,Scott R. Tipton,106
+CUSTER,U.S. House,3,Republican,Scott R. Tipton,974
+DELTA,U.S. House,3,Republican,Scott R. Tipton,2804
+DOLORES,U.S. House,3,Republican,Scott R. Tipton,206
+EAGLE,U.S. House,3,Republican,Scott R. Tipton,974
+GARFIELD,U.S. House,3,Republican,Scott R. Tipton,2613
+GUNNISON,U.S. House,3,Republican,Scott R. Tipton,632
+HINSDALE,U.S. House,3,Republican,Scott R. Tipton,172
+HUERFANO,U.S. House,3,Republican,Scott R. Tipton,403
+JACKSON,U.S. House,3,Republican,Scott R. Tipton,320
+LA PLATA,U.S. House,3,Republican,Scott R. Tipton,2814
+LAKE,U.S. House,3,Republican,Scott R. Tipton,228
+MESA,U.S. House,3,Republican,Scott R. Tipton,11512
+MINERAL,U.S. House,3,Republican,Scott R. Tipton,138
+MOFFAT,U.S. House,3,Republican,Scott R. Tipton,1210
+MONTEZUMA,U.S. House,3,Republican,Scott R. Tipton,1805
+MONTROSE,U.S. House,3,Republican,Scott R. Tipton,3795
+OURAY,U.S. House,3,Republican,Scott R. Tipton,424
+PITKIN,U.S. House,3,Republican,Scott R. Tipton,426
+PUEBLO,U.S. House,3,Republican,Scott R. Tipton,6211
+RIO BLANCO,U.S. House,3,Republican,Scott R. Tipton,1108
+RIO GRANDE,U.S. House,3,Republican,Scott R. Tipton,1038
+ROUTT,U.S. House,3,Republican,Scott R. Tipton,1033
+SAGUACHE,U.S. House,3,Republican,Scott R. Tipton,262
+SAN JUAN,U.S. House,3,Republican,Scott R. Tipton,29
+SAN MIGUEL,U.S. House,3,Republican,Scott R. Tipton,228
+ALAMOSA,U.S. House,3,Republican,Alexander Beinstein,124
+ARCHULETA,U.S. House,3,Republican,Alexander Beinstein,293
+CONEJOS,U.S. House,3,Republican,Alexander Beinstein,83
+COSTILLA,U.S. House,3,Republican,Alexander Beinstein,29
+CUSTER,U.S. House,3,Republican,Alexander Beinstein,339
+DELTA,U.S. House,3,Republican,Alexander Beinstein,761
+DOLORES,U.S. House,3,Republican,Alexander Beinstein,66
+EAGLE,U.S. House,3,Republican,Alexander Beinstein,289
+GARFIELD,U.S. House,3,Republican,Alexander Beinstein,738
+GUNNISON,U.S. House,3,Republican,Alexander Beinstein,184
+HINSDALE,U.S. House,3,Republican,Alexander Beinstein,29
+HUERFANO,U.S. House,3,Republican,Alexander Beinstein,109
+JACKSON,U.S. House,3,Republican,Alexander Beinstein,65
+LA PLATA,U.S. House,3,Republican,Alexander Beinstein,543
+LAKE,U.S. House,3,Republican,Alexander Beinstein,36
+MESA,U.S. House,3,Republican,Alexander Beinstein,3279
+MINERAL,U.S. House,3,Republican,Alexander Beinstein,35
+MOFFAT,U.S. House,3,Republican,Alexander Beinstein,302
+MONTEZUMA,U.S. House,3,Republican,Alexander Beinstein,664
+MONTROSE,U.S. House,3,Republican,Alexander Beinstein,1111
+OURAY,U.S. House,3,Republican,Alexander Beinstein,77
+PITKIN,U.S. House,3,Republican,Alexander Beinstein,81
+PUEBLO,U.S. House,3,Republican,Alexander Beinstein,1732
+RIO BLANCO,U.S. House,3,Republican,Alexander Beinstein,240
+RIO GRANDE,U.S. House,3,Republican,Alexander Beinstein,217
+ROUTT,U.S. House,3,Republican,Alexander Beinstein,241
+SAGUACHE,U.S. House,3,Republican,Alexander Beinstein,65
+SAN JUAN,U.S. House,3,Republican,Alexander Beinstein,8
+SAN MIGUEL,U.S. House,3,Republican,Alexander Beinstein,50
+ADAMS,U.S. House,4,Democratic,Bob Seay,163
+ARAPAHOE,U.S. House,4,Democratic,Bob Seay,204
+BACA,U.S. House,4,Democratic,Bob Seay,178
+BENT,U.S. House,4,Democratic,Bob Seay,240
+BOULDER,U.S. House,4,Democratic,Bob Seay,4331
+CHEYENNE,U.S. House,4,Democratic,Bob Seay,41
+CROWLEY,U.S. House,4,Democratic,Bob Seay,114
+DOUGLAS,U.S. House,4,Democratic,Bob Seay,5006
+ELBERT,U.S. House,4,Democratic,Bob Seay,584
+KIOWA,U.S. House,4,Democratic,Bob Seay,54
+KIT CARSON,U.S. House,4,Democratic,Bob Seay,149
+LAS ANIMAS,U.S. House,4,Democratic,Bob Seay,1168
+LINCOLN,U.S. House,4,Democratic,Bob Seay,113
+LOGAN,U.S. House,4,Democratic,Bob Seay,588
+MORGAN,U.S. House,4,Democratic,Bob Seay,714
+OTERO,U.S. House,4,Democratic,Bob Seay,704
+PHILLIPS,U.S. House,4,Democratic,Bob Seay,107
+PROWERS,U.S. House,4,Democratic,Bob Seay,350
+SEDGWICK,U.S. House,4,Democratic,Bob Seay,78
+WASHINGTON,U.S. House,4,Democratic,Bob Seay,98
+WELD,U.S. House,4,Democratic,Bob Seay,7291
+YUMA,U.S. House,4,Democratic,Bob Seay,245
+ADAMS,U.S. House,4,Republican,Ken Buck,594
+ARAPAHOE,U.S. House,4,Republican,Ken Buck,706
+BACA,U.S. House,4,Republican,Ken Buck,627
+BENT,U.S. House,4,Republican,Ken Buck,441
+BOULDER,U.S. House,4,Republican,Ken Buck,4578
+CHEYENNE,U.S. House,4,Republican,Ken Buck,302
+CROWLEY,U.S. House,4,Republican,Ken Buck,453
+DOUGLAS,U.S. House,4,Republican,Ken Buck,17568
+ELBERT,U.S. House,4,Republican,Ken Buck,3808
+KIOWA,U.S. House,4,Republican,Ken Buck,268
+KIT CARSON,U.S. House,4,Republican,Ken Buck,1049
+LAS ANIMAS,U.S. House,4,Republican,Ken Buck,782
+LINCOLN,U.S. House,4,Republican,Ken Buck,840
+LOGAN,U.S. House,4,Republican,Ken Buck,2519
+MORGAN,U.S. House,4,Republican,Ken Buck,2467
+OTERO,U.S. House,4,Republican,Ken Buck,1426
+PHILLIPS,U.S. House,4,Republican,Ken Buck,509
+PROWERS,U.S. House,4,Republican,Ken Buck,1066
+SEDGWICK,U.S. House,4,Republican,Ken Buck,365
+WASHINGTON,U.S. House,4,Republican,Ken Buck,1072
+WELD,U.S. House,4,Republican,Ken Buck,16334
+YUMA,U.S. House,4,Republican,Ken Buck,1074
+CHAFFEE,U.S. House,5,Democratic,Misty Plowright,727
+EL PASO,U.S. House,5,Democratic,Misty Plowright,10932
+FREMONT,U.S. House,5,Democratic,Misty Plowright,1005
+PARK,U.S. House,5,Democratic,Misty Plowright,232
+TELLER,U.S. House,5,Democratic,Misty Plowright,523
+CHAFFEE,U.S. House,5,Democratic,Donald E. Martinez,452
+EL PASO,U.S. House,5,Democratic,Donald E. Martinez,8275
+FREMONT,U.S. House,5,Democratic,Donald E. Martinez,582
+PARK,U.S. House,5,Democratic,Donald E. Martinez,100
+TELLER,U.S. House,5,Democratic,Donald E. Martinez,249
+CHAFFEE,U.S. House,5,Republican,Calandra Vargas,648
+EL PASO,U.S. House,5,Republican,Calandra Vargas,20168
+FREMONT,U.S. House,5,Republican,Calandra Vargas,1823
+PARK,U.S. House,5,Republican,Calandra Vargas,302
+TELLER,U.S. House,5,Republican,Calandra Vargas,1027
+CHAFFEE,U.S. House,5,Republican,Doug Lamborn,1325
+EL PASO,U.S. House,5,Republican,Doug Lamborn,43422
+FREMONT,U.S. House,5,Republican,Doug Lamborn,3661
+PARK,U.S. House,5,Republican,Doug Lamborn,690
+TELLER,U.S. House,5,Republican,Doug Lamborn,1920
+ADAMS,U.S. House,6,Democratic,Morgan Carroll,3455
+ARAPAHOE,U.S. House,6,Democratic,Morgan Carroll,24022
+DOUGLAS,U.S. House,6,Democratic,Morgan Carroll,3227
+ADAMS,U.S. House,6,Republican,Mike Coffman,4078
+ARAPAHOE,U.S. House,6,Republican,Mike Coffman,28722
+DOUGLAS,U.S. House,6,Republican,Mike Coffman,8488
+ADAMS,U.S. House,7,Democratic,Ed Perlmutter,13657
+JEFFERSON,U.S. House,7,Democratic,Ed Perlmutter,21539
+ADAMS,U.S. House,7,Republican,George Athanasopoulos,8593
+JEFFERSON,U.S. House,7,Republican,George Athanasopoulos,21021
+DOUGLAS,State Senate,4,Democratic,James Clark Huff,1490
+DOUGLAS,State Senate,4,Democratic,Christina Maria Riegel,2876
+DOUGLAS,State Senate,4,Republican,Jess Loban,3368
+DOUGLAS,State Senate,4,Republican,Benjamin Lyng,5803
+DOUGLAS,State Senate,4,Republican,Jim Smallwood,5878
+GARFIELD,State Senate,8,Democratic,Emily Tracy,1477
+GRAND,State Senate,8,Democratic,Emily Tracy,731
+JACKSON,State Senate,8,Democratic,Emily Tracy,39
+MOFFAT,State Senate,8,Democratic,Emily Tracy,193
+RIO BLANCO,State Senate,8,Democratic,Emily Tracy,95
+ROUTT,State Senate,8,Democratic,Emily Tracy,857
+SUMMIT,State Senate,8,Democratic,Emily Tracy,993
+GARFIELD,State Senate,8,Republican,Randy L. Baumgardner,2744
+GRAND,State Senate,8,Republican,Randy L. Baumgardner,1513
+JACKSON,State Senate,8,Republican,Randy L. Baumgardner,283
+MOFFAT,State Senate,8,Republican,Randy L. Baumgardner,1275
+RIO BLANCO,State Senate,8,Republican,Randy L. Baumgardner,978
+ROUTT,State Senate,8,Republican,Randy L. Baumgardner,1035
+SUMMIT,State Senate,8,Republican,Randy L. Baumgardner,810
+EL PASO,State Senate,10,Republican,Owen Hill,12803
+EL PASO,State Senate,12,Republican,Gordon Klingenschmitt,5103
+EL PASO,State Senate,12,Republican,Bob Gardner,8243
+LARIMER,State Senate,14,Democratic,John Kefalas,7158
+LARIMER,State Senate,14,Republican,Hans Hochheimer,5678
+BOULDER,State Senate,17,Democratic,Matt Jones,8989
+BOULDER,State Senate,18,Democratic,Stephen Fenberg,12433
+BOULDER,State Senate,18,Republican,M. Peter Spraitz,3056
+JEFFERSON,State Senate,19,Democratic,Rachel Zenzinger,7140
+JEFFERSON,State Senate,19,Republican,Laura J. Woods,8529
+ADAMS,State Senate,21,Democratic,Dominick Moreno,5813
+BROOMFIELD,State Senate,23,Democratic,T.J. Cole,3433
+LARIMER,State Senate,23,Democratic,T.J. Cole,501
+WELD,State Senate,23,Democratic,T.J. Cole,2320
+BROOMFIELD,State Senate,23,Republican,Vicki Marble,3354
+LARIMER,State Senate,23,Republican,Vicki Marble,1481
+WELD,State Senate,23,Republican,Vicki Marble,5467
+ADAMS,State Senate,25,Democratic,Jenise May,4738
+ADAMS,State Senate,25,Republican,Kevin Priola,4743
+ARAPAHOE,State Senate,26,Democratic,Daniel Kagan,8281
+ARAPAHOE,State Senate,26,Republican,Nancy A. Doty,8639
+ARAPAHOE,State Senate,27,Democratic,Tom Sullivan,6615
+ARAPAHOE,State Senate,27,Republican,Jack Tate,10278
+ARAPAHOE,State Senate,28,Democratic,Nancy Todd,6597
+ARAPAHOE,State Senate,28,Republican,James Woodley,6094
+ARAPAHOE,State Senate,29,Democratic,Rhonda Fields,5418
+ARAPAHOE,State Senate,29,Democratic,Su Ryden,1882
+ARAPAHOE,State Senate,29,Republican,Sebastian Chunn,4889
+ARAPAHOE,State Senate,31,Democratic,Steve Sherick,151
+DENVER,State Senate,31,Democratic,Steve Sherick,5659
+ARAPAHOE,State Senate,31,Democratic,Lois Court,157
+DENVER,State Senate,31,Democratic,Lois Court,7475
+ARAPAHOE,State Senate,31,Democratic,Erin Bennett,135
+DENVER,State Senate,31,Democratic,Erin Bennett,3739
+ARAPAHOE,State Senate,31,Republican,Jeffery Washington,50
+DENVER,State Senate,31,Republican,Jeffery Washington,1461
+ARAPAHOE,State Senate,31,Republican,Bob Lane,138
+DENVER,State Senate,31,Republican,Bob Lane,3051
+DENVER,State Senate,33,Democratic,Angela Williams,12837
+DENVER,State Senate,33,Democratic,Jon Biggerstaff,2808
+DENVER,State Senate,33,Republican,Raymon Doane,1314
+ALAMOSA,State Senate,35,Democratic,"James W. ""Jim"" Casias",913
+BACA,State Senate,35,Democratic,"James W. ""Jim"" Casias",179
+BENT,State Senate,35,Democratic,"James W. ""Jim"" Casias",241
+CONEJOS,State Senate,35,Democratic,"James W. ""Jim"" Casias",909
+COSTILLA,State Senate,35,Democratic,"James W. ""Jim"" Casias",504
+CROWLEY,State Senate,35,Democratic,"James W. ""Jim"" Casias",120
+CUSTER,State Senate,35,Democratic,"James W. ""Jim"" Casias",155
+HUERFANO,State Senate,35,Democratic,"James W. ""Jim"" Casias",771
+KIOWA,State Senate,35,Democratic,"James W. ""Jim"" Casias",45
+LAS ANIMAS,State Senate,35,Democratic,"James W. ""Jim"" Casias",1428
+MINERAL,State Senate,35,Democratic,"James W. ""Jim"" Casias",75
+OTERO,State Senate,35,Democratic,"James W. ""Jim"" Casias",732
+PROWERS,State Senate,35,Democratic,"James W. ""Jim"" Casias",345
+PUEBLO,State Senate,35,Democratic,"James W. ""Jim"" Casias",1387
+RIO GRANDE,State Senate,35,Democratic,"James W. ""Jim"" Casias",640
+SAGUACHE,State Senate,35,Democratic,"James W. ""Jim"" Casias",422
+ALAMOSA,State Senate,35,Republican,Larry W. Crowder,954
+BACA,State Senate,35,Republican,Larry W. Crowder,575
+BENT,State Senate,35,Republican,Larry W. Crowder,420
+CONEJOS,State Senate,35,Republican,Larry W. Crowder,625
+COSTILLA,State Senate,35,Republican,Larry W. Crowder,122
+CROWLEY,State Senate,35,Republican,Larry W. Crowder,421
+CUSTER,State Senate,35,Republican,Larry W. Crowder,948
+HUERFANO,State Senate,35,Republican,Larry W. Crowder,415
+KIOWA,State Senate,35,Republican,Larry W. Crowder,237
+LAS ANIMAS,State Senate,35,Republican,Larry W. Crowder,741
+MINERAL,State Senate,35,Republican,Larry W. Crowder,129
+OTERO,State Senate,35,Republican,Larry W. Crowder,1362
+PROWERS,State Senate,35,Republican,Larry W. Crowder,1036
+PUEBLO,State Senate,35,Republican,Larry W. Crowder,1374
+RIO GRANDE,State Senate,35,Republican,Larry W. Crowder,1159
+SAGUACHE,State Senate,35,Republican,Larry W. Crowder,265
+DENVER,State House,1,Democratic,Susan Lontine,3634
+JEFFERSON,State House,1,Democratic,Susan Lontine,17
+DENVER,State House,1,Republican,Raymond Garcia,1949
+JEFFERSON,State House,1,Republican,Raymond Garcia,23
+DENVER,State House,2,Democratic,Alec Garnett,6301
+DENVER,State House,2,Republican,Paul A. Linton,1573
+ARAPAHOE,State House,3,Democratic,Meg Froelich,2436
+ARAPAHOE,State House,3,Democratic,Jeff Bridges,3178
+ARAPAHOE,State House,3,Republican,Katy Brown,3441
+ARAPAHOE,State House,3,Republican,Rick Gillit,1226
+DENVER,State House,4,Democratic,Dan Pabon,5103
+DENVER,State House,4,Republican,Willie Pinkston,870
+DENVER,State House,5,Democratic,Crisanta Duran,4191
+DENVER,State House,5,Republican,Ronnie Nelson,813
+DENVER,State House,6,Democratic,Jeff Hart,3962
+DENVER,State House,6,Democratic,Chris Hansen,5532
+DENVER,State House,7,Democratic,Elet Valentine,1180
+DENVER,State House,7,Democratic,Michele Wheeler,2546
+DENVER,State House,7,Democratic,James Rashad Coleman,2629
+DENVER,State House,8,Democratic,Aaron D. Goldhamer,4546
+DENVER,State House,8,Democratic,Leslie Herod,7113
+DENVER,State House,8,Republican,Evan J. Vanderpool,842
+ARAPAHOE,State House,9,Democratic,Paul Rosenthal,392
+DENVER,State House,9,Democratic,Paul Rosenthal,5700
+ARAPAHOE,State House,9,Republican,Paul Stevens Martin,161
+DENVER,State House,9,Republican,Paul Stevens Martin,2350
+BOULDER,State House,10,Democratic,Angelique Espinoza,4152
+BOULDER,State House,10,Democratic,Edie Hooton,4364
+BOULDER,State House,11,Democratic,Jonathan Singer,4475
+BOULDER,State House,11,Republican,Corey Piper,3607
+BOULDER,State House,12,Democratic,Mike Foote,5688
+BOULDER,State House,12,Republican,Bob Dillon,3006
+BOULDER,State House,13,Democratic,KC Becker,4210
+CLEAR CREEK,State House,13,Democratic,KC Becker,576
+GILPIN,State House,13,Democratic,KC Becker,307
+GRAND,State House,13,Democratic,KC Becker,746
+JACKSON,State House,13,Democratic,KC Becker,40
+EL PASO,State House,14,Republican,Dan Nordberg,8247
+EL PASO,State House,15,Democratic,Sharon Huff,1809
+EL PASO,State House,15,Republican,Dave Williams,5855
+EL PASO,State House,16,Republican,Janak Joshi,3510
+EL PASO,State House,16,Republican,Larry G. Liston,5459
+EL PASO,State House,17,Democratic,"Thomas ""Tony"" Exum Sr.",2034
+EL PASO,State House,17,Republican,Kit Roupe,2473
+EL PASO,State House,18,Democratic,Pete Lee,3940
+EL PASO,State House,18,Republican,Sonya Rose,4145
+EL PASO,State House,19,Democratic,Tom Reynolds,1681
+EL PASO,State House,19,Republican,Paul Lundeen,10531
+EL PASO,State House,20,Democratic,Julia Endicott,2598
+EL PASO,State House,20,Republican,Terri Carver,8108
+EL PASO,State House,21,Republican,Lois Landgraf,2921
+EL PASO,State House,21,Republican,Steve Elisha,1435
+JEFFERSON,State House,22,Republican,Justin Everett,5375
+JEFFERSON,State House,23,Democratic,Chris Kennedy,4291
+JEFFERSON,State House,23,Republican,Chris Hadsall,3954
+JEFFERSON,State House,24,Democratic,Jessie Danielson,4336
+JEFFERSON,State House,24,Republican,Joy Bowman,3861
+JEFFERSON,State House,25,Democratic,Tammy Story,3963
+JEFFERSON,State House,25,Republican,Tim Leonard,5576
+EAGLE,State House,26,Democratic,Diane E. Mitsch Bush,1336
+ROUTT,State House,26,Democratic,Diane E. Mitsch Bush,1006
+EAGLE,State House,26,Republican,Michael Cacioppo,1089
+ROUTT,State House,26,Republican,Michael Cacioppo,896
+JEFFERSON,State House,27,Democratic,Wade Michael Norris,4154
+JEFFERSON,State House,27,Republican,Lang Sias,5810
+JEFFERSON,State House,28,Democratic,Brittany Pettersen,3781
+JEFFERSON,State House,28,Republican,Nancy Pallozzi,3382
+JEFFERSON,State House,29,Democratic,Tracy Kraft-Tharp,3502
+JEFFERSON,State House,29,Republican,Susan Kochevar,3400
+ADAMS,State House,30,Democratic,Dafna Michaelson Jenet,2268
+ADAMS,State House,30,Republican,JoAnn Windholz,1891
+ADAMS,State House,31,Democratic,Joe Salazar,3015
+ADAMS,State House,31,Republican,Jessica Sandgren,2153
+ADAMS,State House,32,Democratic,Adrienne Benavidez,1706
+ADAMS,State House,32,Democratic,Maria Gonzalez,1582
+ADAMS,State House,32,Republican,Alexander D. Jacobson,1108
+BOULDER,State House,33,Democratic,Matt Gray,1009
+BROOMFIELD,State House,33,Democratic,Matt Gray,3452
+BOULDER,State House,33,Republican,Karen Nelson,722
+BROOMFIELD,State House,33,Republican,Karen Nelson,3315
+ADAMS,State House,34,Democratic,Steve Lebsock,2901
+ADAMS,State House,34,Republican,Dustin Johnson,2093
+ADAMS,State House,35,Democratic,Faith Winter,3926
+ADAMS,State House,35,Republican,Emily Voss,2905
+ARAPAHOE,State House,36,Democratic,Mike Weissman,3299
+ARAPAHOE,State House,36,Republican,Richard J. Bowman,2537
+ARAPAHOE,State House,37,Democratic,Carol A. Barrett,3178
+ARAPAHOE,State House,37,Republican,Cole Wist,4956
+ARAPAHOE,State House,38,Democratic,Robert Bowen,4198
+ARAPAHOE,State House,38,Republican,Susan Beckman,5162
+ARAPAHOE,State House,38,Republican,Mike Williams,3243
+DOUGLAS,State House,39,Democratic,Richard Opler,1503
+TELLER,State House,39,Democratic,Richard Opler,707
+DOUGLAS,State House,39,Republican,Polly Lawrence,4998
+TELLER,State House,39,Republican,Polly Lawrence,2221
+ARAPAHOE,State House,40,Democratic,Janet Buckner,3355
+ARAPAHOE,State House,40,Republican,Spencer A. Wellman,3139
+ARAPAHOE,State House,41,Democratic,Jovan Melton,4231
+ARAPAHOE,State House,41,Republican,Linda Garrison,3248
+ARAPAHOE,State House,42,Democratic,Eric Nelson,1041
+ARAPAHOE,State House,42,Democratic,Dominique Jackson,2595
+ARAPAHOE,State House,42,Republican,Mike Donald,1464
+DOUGLAS,State House,43,Democratic,Scott Wagner,2728
+DOUGLAS,State House,43,Republican,Kevin Van Winkle,5215
+DOUGLAS,State House,43,Republican,Cindy Barnard,2019
+DOUGLAS,State House,44,Democratic,Tim Hicks,2048
+DOUGLAS,State House,44,Republican,Kim Ransom,5303
+DOUGLAS,State House,45,Democratic,Shantell Schweikart,2257
+DOUGLAS,State House,45,Republican,Patrick Neville,7058
+PUEBLO,State House,46,Democratic,Daneya Esgar,6402
+FREMONT,State House,47,Democratic,Jason Munoz,176
+OTERO,State House,47,Democratic,Jason Munoz,741
+PUEBLO,State House,47,Democratic,Jason Munoz,3490
+FREMONT,State House,47,Republican,Clarice Navarro,619
+OTERO,State House,47,Republican,Clarice Navarro,1376
+PUEBLO,State House,47,Republican,Clarice Navarro,2645
+WELD,State House,48,Democratic,Annie King,2478
+WELD,State House,48,Republican,Steve Humphrey,6535
+LARIMER,State House,49,Democratic,"Adrian ""Buzz"" Sweeney",2875
+WELD,State House,49,Democratic,"Adrian ""Buzz"" Sweeney",529
+LARIMER,State House,49,Republican,Perry L. Buck,5765
+WELD,State House,49,Republican,Perry L. Buck,1529
+WELD,State House,50,Democratic,Dave Young,2013
+WELD,State House,50,Republican,John Alan Honeycutt,2414
+LARIMER,State House,51,Democratic,Jody Shadduck-McNally,3394
+LARIMER,State House,51,Republican,Hugh McKean,4082
+LARIMER,State House,51,Republican,Tom J. Lucero,3773
+LARIMER,State House,52,Democratic,Joann Ginal,4341
+LARIMER,State House,52,Republican,Donna Walter,3757
+LARIMER,State House,53,Democratic,Jeni Arndt,3218
+DELTA,State House,54,Republican,Yeulin Willett,857
+MESA,State House,54,Republican,Yeulin Willett,5582
+MESA,State House,55,Republican,Dan Thurlow,6188
+ADAMS,State House,56,Democratic,Matt Snider,1916
+ARAPAHOE,State House,56,Democratic,Matt Snider,1329
+ADAMS,State House,56,Republican,Phil Covarrubias,2720
+ARAPAHOE,State House,56,Republican,Phil Covarrubias,2356
+GARFIELD,State House,57,Republican,Bob Rankin,2777
+MOFFAT,State House,57,Republican,Bob Rankin,1193
+RIO BLANCO,State House,57,Republican,Bob Rankin,931
+DOLORES,State House,58,Republican,Don Coram,191
+MONTEZUMA,State House,58,Republican,Don Coram,1866
+MONTROSE,State House,58,Republican,Don Coram,4112
+SAN MIGUEL,State House,58,Republican,Don Coram,219
+ARCHULETA,State House,59,Democratic,Barbara Hall McLachlan,511
+GUNNISON,State House,59,Democratic,Barbara Hall McLachlan,286
+HINSDALE,State House,59,Democratic,Barbara Hall McLachlan,36
+LA PLATA,State House,59,Democratic,Barbara Hall McLachlan,3418
+OURAY,State House,59,Democratic,Barbara Hall McLachlan,303
+SAN JUAN,State House,59,Democratic,Barbara Hall McLachlan,46
+ARCHULETA,State House,59,Republican,J. Paul Brown,1180
+GUNNISON,State House,59,Republican,J. Paul Brown,400
+HINSDALE,State House,59,Republican,J. Paul Brown,177
+LA PLATA,State House,59,Republican,J. Paul Brown,3131
+OURAY,State House,59,Republican,J. Paul Brown,437
+SAN JUAN,State House,59,Republican,J. Paul Brown,32
+CHAFFEE,State House,60,Democratic,David Higginbotham,1090
+CUSTER,State House,60,Democratic,David Higginbotham,155
+FREMONT,State House,60,Democratic,David Higginbotham,1299
+PARK,State House,60,Democratic,David Higginbotham,602
+CHAFFEE,State House,60,Republican,"James D. ""Jim"" Wilson",1698
+CUSTER,State House,60,Republican,"James D. ""Jim"" Wilson",962
+FREMONT,State House,60,Republican,"James D. ""Jim"" Wilson",3750
+PARK,State House,60,Republican,"James D. ""Jim"" Wilson",1520
+DELTA,State House,61,Democratic,Millie Hamner,774
+GUNNISON,State House,61,Democratic,Millie Hamner,372
+LAKE,State House,61,Democratic,Millie Hamner,708
+PITKIN,State House,61,Democratic,Millie Hamner,1115
+SUMMIT,State House,61,Democratic,Millie Hamner,1113
+DELTA,State House,61,Republican,Bob Schutt,1719
+GUNNISON,State House,61,Republican,Bob Schutt,260
+LAKE,State House,61,Republican,Bob Schutt,199
+PITKIN,State House,61,Republican,Bob Schutt,353
+SUMMIT,State House,61,Republican,Bob Schutt,781
+ALAMOSA,State House,62,Democratic,Alonzo Olivas Payne,467
+CONEJOS,State House,62,Democratic,Alonzo Olivas Payne,167
+COSTILLA,State House,62,Democratic,Alonzo Olivas Payne,483
+HUERFANO,State House,62,Democratic,Alonzo Olivas Payne,252
+MINERAL,State House,62,Democratic,Alonzo Olivas Payne,42
+PUEBLO,State House,62,Democratic,Alonzo Olivas Payne,718
+RIO GRANDE,State House,62,Democratic,Alonzo Olivas Payne,227
+SAGUACHE,State House,62,Democratic,Alonzo Olivas Payne,207
+ALAMOSA,State House,62,Democratic,Donald E. Valdez,671
+CONEJOS,State House,62,Democratic,Donald E. Valdez,925
+COSTILLA,State House,62,Democratic,Donald E. Valdez,225
+HUERFANO,State House,62,Democratic,Donald E. Valdez,621
+MINERAL,State House,62,Democratic,Donald E. Valdez,50
+PUEBLO,State House,62,Democratic,Donald E. Valdez,1367
+RIO GRANDE,State House,62,Democratic,Donald E. Valdez,462
+SAGUACHE,State House,62,Democratic,Donald E. Valdez,292
+ALAMOSA,State House,62,Republican,Marcy R. Freeburg,228
+CONEJOS,State House,62,Republican,Marcy R. Freeburg,170
+COSTILLA,State House,62,Republican,Marcy R. Freeburg,66
+HUERFANO,State House,62,Republican,Marcy R. Freeburg,288
+MINERAL,State House,62,Republican,Marcy R. Freeburg,48
+PUEBLO,State House,62,Republican,Marcy R. Freeburg,282
+RIO GRANDE,State House,62,Republican,Marcy R. Freeburg,219
+SAGUACHE,State House,62,Republican,Marcy R. Freeburg,96
+ALAMOSA,State House,62,Republican,Bob Mattive,762
+CONEJOS,State House,62,Republican,Bob Mattive,445
+COSTILLA,State House,62,Republican,Bob Mattive,65
+HUERFANO,State House,62,Republican,Bob Mattive,199
+MINERAL,State House,62,Republican,Bob Mattive,102
+PUEBLO,State House,62,Republican,Bob Mattive,323
+RIO GRANDE,State House,62,Republican,Bob Mattive,995
+SAGUACHE,State House,62,Republican,Bob Mattive,212
+WELD,State House,63,Democratic,Thomas A. Hudson,2276
+WELD,State House,63,Republican,Lori Saine,3533
+WELD,State House,63,Republican,Colleen G. Whitlow,2098
+BACA,State House,64,Democratic,Kathleen J. Conway,183
+BENT,State House,64,Democratic,Kathleen J. Conway,235
+CROWLEY,State House,64,Democratic,Kathleen J. Conway,121
+ELBERT,State House,64,Democratic,Kathleen J. Conway,573
+KIOWA,State House,64,Democratic,Kathleen J. Conway,43
+LAS ANIMAS,State House,64,Democratic,Kathleen J. Conway,1184
+LINCOLN,State House,64,Democratic,Kathleen J. Conway,118
+PROWERS,State House,64,Democratic,Kathleen J. Conway,361
+WASHINGTON,State House,64,Democratic,Kathleen J. Conway,99
+BACA,State House,64,Republican,Kimmi Lewis,673
+BENT,State House,64,Republican,Kimmi Lewis,355
+CROWLEY,State House,64,Republican,Kimmi Lewis,439
+ELBERT,State House,64,Republican,Kimmi Lewis,2502
+KIOWA,State House,64,Republican,Kimmi Lewis,286
+LAS ANIMAS,State House,64,Republican,Kimmi Lewis,613
+LINCOLN,State House,64,Republican,Kimmi Lewis,675
+PROWERS,State House,64,Republican,Kimmi Lewis,977
+WASHINGTON,State House,64,Republican,Kimmi Lewis,919
+BACA,State House,64,Republican,Tim Dore,113
+BENT,State House,64,Republican,Tim Dore,151
+CROWLEY,State House,64,Republican,Tim Dore,96
+ELBERT,State House,64,Republican,Tim Dore,1716
+KIOWA,State House,64,Republican,Tim Dore,65
+LAS ANIMAS,State House,64,Republican,Tim Dore,280
+LINCOLN,State House,64,Republican,Tim Dore,295
+PROWERS,State House,64,Republican,Tim Dore,339
+WASHINGTON,State House,64,Republican,Tim Dore,355
+CHEYENNE,State House,65,Democratic,Anthony Engelhaupt,39
+KIT CARSON,State House,65,Democratic,Anthony Engelhaupt,149
+LOGAN,State House,65,Democratic,Anthony Engelhaupt,633
+MORGAN,State House,65,Democratic,Anthony Engelhaupt,697
+PHILLIPS,State House,65,Democratic,Anthony Engelhaupt,102
+SEDGWICK,State House,65,Democratic,Anthony Engelhaupt,80
+YUMA,State House,65,Democratic,Anthony Engelhaupt,239
+CHEYENNE,State House,65,Republican,Jon Becker,262
+KIT CARSON,State House,65,Republican,Jon Becker,857
+LOGAN,State House,65,Republican,Jon Becker,2372
+MORGAN,State House,65,Republican,Jon Becker,2435
+PHILLIPS,State House,65,Republican,Jon Becker,447
+SEDGWICK,State House,65,Republican,Jon Becker,330
+YUMA,State House,65,Republican,Jon Becker,971

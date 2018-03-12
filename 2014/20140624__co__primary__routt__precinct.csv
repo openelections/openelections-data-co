@@ -1,0 +1,631 @@
+county,precinct,office,district,party,candidate,votes
+Routt,1,Attorney General,,DEM,Don Quick,27
+Routt,1,Attorney General,,REP,Cynthia Coffman,82
+Routt,1,County Assessor,,REP,Gary Peterson,89
+Routt,1,County Clerk & Recorder,,DEM,Kim Bonner,33
+Routt,1,County Commissioner,3,DEM,Steve Ivancie,34
+Routt,1,County Commissioner,3,REP,Cari Hermacinski,93
+Routt,1,County Coroner,,DEM,Darrel Levingston,31
+Routt,1,County Coroner,,REP,Rob Ryg,99
+Routt,1,County Sheriff,,REP,J Garrett Wiggins,101
+Routt,1,County Treasurer,,DEM,Nikki Knoebel,27
+Routt,1,County Treasurer,,REP,Brita Horn,90
+Routt,1,Governor,,DEM,John Hickenlooper,36
+Routt,1,Governor,,REP,Mike Kopp,14
+Routt,1,Governor,,REP,Scott Gessler,26
+Routt,1,Governor,,REP,Tom Tancredo,32
+Routt,1,Governor,,REP,Bob Beauprez,38
+Routt,1,Registered Voters,,DEM,,203
+Routt,1,Registered Voters,,REP,,352
+Routt,1,Registered Voters,,AMN CONST,,0
+Routt,1,Secretary of State,,DEM,Joe Neguse,26
+Routt,1,Secretary of State,,REP,Wayne W Williams,83
+Routt,1,Secretary of State,,AMN CONST,Amanda Campbell,0
+Routt,1,State Board of Education,3,DEM,Henry C Roman,25
+Routt,1,State Board of Education,3,REP,Barbara Ann Smith,37
+Routt,1,State Board of Education,3,REP,Marcia Neal,42
+Routt,1,State Representative,26,DEM,Diane Mitsch Bush,33
+Routt,1,State Representative,26,REP,Dave Moloney,34
+Routt,1,State Representative,26,REP,Chuck McConnell,70
+Routt,1,State Treasurer,,DEM,Betsy Markey,30
+Routt,1,State Treasurer,,REP,Walker Stapleton,85
+Routt,1,U.S. House,3,DEM,Abel J Tapia,26
+Routt,1,U.S. House,3,REP,Scott R Tipton,87
+Routt,1,U.S. House,3,REP,David Cox,16
+Routt,1,U.S. Senate,,DEM,Mark Udall,33
+Routt,1,U.S. Senate,,REP,Cory Gardner,91
+Routt,2,Attorney General,,DEM,Don Quick,21
+Routt,2,Attorney General,,REP,Cynthia Coffman,75
+Routt,2,County Assessor,,REP,Gary Peterson,77
+Routt,2,County Clerk & Recorder,,DEM,Kim Bonner,22
+Routt,2,County Commissioner,3,DEM,Steve Ivancie,21
+Routt,2,County Commissioner,3,REP,Cari Hermacinski,78
+Routt,2,County Coroner,,DEM,Darrel Levingston,23
+Routt,2,County Coroner,,REP,Rob Ryg,80
+Routt,2,County Sheriff,,REP,J Garrett Wiggins,85
+Routt,2,County Treasurer,,DEM,Nikki Knoebel,22
+Routt,2,County Treasurer,,REP,Brita Horn,80
+Routt,2,Governor,,DEM,John Hickenlooper,22
+Routt,2,Governor,,REP,Mike Kopp,21
+Routt,2,Governor,,REP,Scott Gessler,7
+Routt,2,Governor,,REP,Tom Tancredo,32
+Routt,2,Governor,,REP,Bob Beauprez,35
+Routt,2,Registered Voters,,DEM,,132
+Routt,2,Registered Voters,,REP,,277
+Routt,2,Registered Voters,,AMN CONST,,3
+Routt,2,Secretary of State,,DEM,Joe Neguse,18
+Routt,2,Secretary of State,,REP,Wayne W Williams,76
+Routt,2,Secretary of State,,AMN CONST,Amanda Campbell,2
+Routt,2,State Board of Education,3,DEM,Henry C Roman,21
+Routt,2,State Board of Education,3,REP,Barbara Ann Smith,30
+Routt,2,State Board of Education,3,REP,Marcia Neal,42
+Routt,2,State Representative,26,DEM,Diane Mitsch Bush,20
+Routt,2,State Representative,26,REP,Dave Moloney,37
+Routt,2,State Representative,26,REP,Chuck McConnell,58
+Routt,2,State Treasurer,,DEM,Betsy Markey,22
+Routt,2,State Treasurer,,REP,Walker Stapleton,76
+Routt,2,U.S. House,3,DEM,Abel J Tapia,16
+Routt,2,U.S. House,3,REP,Scott R Tipton,77
+Routt,2,U.S. House,3,REP,David Cox,13
+Routt,2,U.S. Senate,,DEM,Mark Udall,21
+Routt,2,U.S. Senate,,REP,Cory Gardner,70
+Routt,3,Attorney General,,DEM,Don Quick,44
+Routt,3,Attorney General,,REP,Cynthia Coffman,77
+Routt,3,County Assessor,,REP,Gary Peterson,85
+Routt,3,County Clerk & Recorder,,DEM,Kim Bonner,49
+Routt,3,County Commissioner,3,DEM,Steve Ivancie,44
+Routt,3,County Commissioner,3,REP,Cari Hermacinski,82
+Routt,3,County Coroner,,DEM,Darrel Levingston,43
+Routt,3,County Coroner,,REP,Rob Ryg,93
+Routt,3,County Sheriff,,REP,J Garrett Wiggins,93
+Routt,3,County Treasurer,,DEM,Nikki Knoebel,48
+Routt,3,County Treasurer,,REP,Brita Horn,89
+Routt,3,Governor,,DEM,John Hickenlooper,49
+Routt,3,Governor,,REP,Mike Kopp,26
+Routt,3,Governor,,REP,Scott Gessler,24
+Routt,3,Governor,,REP,Tom Tancredo,24
+Routt,3,Governor,,REP,Bob Beauprez,35
+Routt,3,Registered Voters,,DEM,,256
+Routt,3,Registered Voters,,REP,,356
+Routt,3,Registered Voters,,AMN CONST,,2
+Routt,3,Secretary of State,,DEM,Joe Neguse,43
+Routt,3,Secretary of State,,REP,Wayne W Williams,78
+Routt,3,Secretary of State,,AMN CONST,Amanda Campbell,0
+Routt,3,State Board of Education,3,DEM,Henry C Roman,45
+Routt,3,State Board of Education,3,REP,Barbara Ann Smith,42
+Routt,3,State Board of Education,3,REP,Marcia Neal,40
+Routt,3,State Representative,26,DEM,Diane Mitsch Bush,50
+Routt,3,State Representative,26,REP,Dave Moloney,33
+Routt,3,State Representative,26,REP,Chuck McConnell,69
+Routt,3,State Treasurer,,DEM,Betsy Markey,46
+Routt,3,State Treasurer,,REP,Walker Stapleton,78
+Routt,3,U.S. House,3,DEM,Abel J Tapia,44
+Routt,3,U.S. House,3,REP,Scott R Tipton,76
+Routt,3,U.S. House,3,REP,David Cox,31
+Routt,3,U.S. Senate,,DEM,Mark Udall,51
+Routt,3,U.S. Senate,,REP,Cory Gardner,86
+Routt,4,Attorney General,,DEM,Don Quick,36
+Routt,4,Attorney General,,REP,Cynthia Coffman,60
+Routt,4,County Assessor,,REP,Gary Peterson,59
+Routt,4,County Clerk & Recorder,,DEM,Kim Bonner,42
+Routt,4,County Commissioner,3,DEM,Steve Ivancie,40
+Routt,4,County Commissioner,3,REP,Cari Hermacinski,61
+Routt,4,County Coroner,,DEM,Darrel Levingston,41
+Routt,4,County Coroner,,REP,Rob Ryg,62
+Routt,4,County Sheriff,,REP,J Garrett Wiggins,67
+Routt,4,County Treasurer,,DEM,Nikki Knoebel,37
+Routt,4,County Treasurer,,REP,Brita Horn,61
+Routt,4,Governor,,DEM,John Hickenlooper,44
+Routt,4,Governor,,REP,Mike Kopp,15
+Routt,4,Governor,,REP,Scott Gessler,17
+Routt,4,Governor,,REP,Tom Tancredo,15
+Routt,4,Governor,,REP,Bob Beauprez,29
+Routt,4,Registered Voters,,DEM,,190
+Routt,4,Registered Voters,,REP,,193
+Routt,4,Registered Voters,,AMN CONST,,1
+Routt,4,Secretary of State,,DEM,Joe Neguse,34
+Routt,4,Secretary of State,,REP,Wayne W Williams,57
+Routt,4,Secretary of State,,AMN CONST,Amanda Campbell,0
+Routt,4,State Board of Education,3,DEM,Henry C Roman,34
+Routt,4,State Board of Education,3,REP,Barbara Ann Smith,25
+Routt,4,State Board of Education,3,REP,Marcia Neal,26
+Routt,4,State Representative,26,DEM,Diane Mitsch Bush,44
+Routt,4,State Representative,26,REP,Dave Moloney,31
+Routt,4,State Representative,26,REP,Chuck McConnell,45
+Routt,4,State Treasurer,,DEM,Betsy Markey,40
+Routt,4,State Treasurer,,REP,Walker Stapleton,58
+Routt,4,U.S. House,3,DEM,Abel J Tapia,34
+Routt,4,U.S. House,3,REP,Scott R Tipton,62
+Routt,4,U.S. House,3,REP,David Cox,14
+Routt,4,U.S. Senate,,DEM,Mark Udall,42
+Routt,4,U.S. Senate,,REP,Cory Gardner,63
+Routt,5,Attorney General,,DEM,Don Quick,49
+Routt,5,Attorney General,,REP,Cynthia Coffman,116
+Routt,5,County Assessor,,REP,Gary Peterson,118
+Routt,5,County Clerk & Recorder,,DEM,Kim Bonner,58
+Routt,5,County Commissioner,3,DEM,Steve Ivancie,56
+Routt,5,County Commissioner,3,REP,Cari Hermacinski,126
+Routt,5,County Coroner,,DEM,Darrel Levingston,55
+Routt,5,County Coroner,,REP,Rob Ryg,138
+Routt,5,County Sheriff,,REP,J Garrett Wiggins,134
+Routt,5,County Treasurer,,DEM,Nikki Knoebel,52
+Routt,5,County Treasurer,,REP,Brita Horn,129
+Routt,5,Governor,,DEM,John Hickenlooper,53
+Routt,5,Governor,,REP,Mike Kopp,46
+Routt,5,Governor,,REP,Scott Gessler,17
+Routt,5,Governor,,REP,Tom Tancredo,46
+Routt,5,Governor,,REP,Bob Beauprez,43
+Routt,5,Registered Voters,,DEM,,244
+Routt,5,Registered Voters,,REP,,494
+Routt,5,Registered Voters,,AMN CONST,,8
+Routt,5,Secretary of State,,DEM,Joe Neguse,46
+Routt,5,Secretary of State,,REP,Wayne W Williams,119
+Routt,5,Secretary of State,,AMN CONST,Amanda Campbell,0
+Routt,5,State Board of Education,3,DEM,Henry C Roman,48
+Routt,5,State Board of Education,3,REP,Barbara Ann Smith,54
+Routt,5,State Board of Education,3,REP,Marcia Neal,57
+Routt,5,State Representative,26,DEM,Diane Mitsch Bush,53
+Routt,5,State Representative,26,REP,Dave Moloney,51
+Routt,5,State Representative,26,REP,Chuck McConnell,94
+Routt,5,State Treasurer,,DEM,Betsy Markey,53
+Routt,5,State Treasurer,,REP,Walker Stapleton,119
+Routt,5,U.S. House,3,DEM,Abel J Tapia,48
+Routt,5,U.S. House,3,REP,Scott R Tipton,106
+Routt,5,U.S. House,3,REP,David Cox,39
+Routt,5,U.S. Senate,,DEM,Mark Udall,57
+Routt,5,U.S. Senate,,REP,Cory Gardner,132
+Routt,6,Attorney General,,DEM,Don Quick,67
+Routt,6,Attorney General,,REP,Cynthia Coffman,96
+Routt,6,County Assessor,,REP,Gary Peterson,106
+Routt,6,County Clerk & Recorder,,DEM,Kim Bonner,72
+Routt,6,County Commissioner,3,DEM,Steve Ivancie,71
+Routt,6,County Commissioner,3,REP,Cari Hermacinski,110
+Routt,6,County Coroner,,DEM,Darrel Levingston,70
+Routt,6,County Coroner,,REP,Rob Ryg,118
+Routt,6,County Sheriff,,REP,J Garrett Wiggins,116
+Routt,6,County Treasurer,,DEM,Nikki Knoebel,67
+Routt,6,County Treasurer,,REP,Brita Horn,108
+Routt,6,Governor,,DEM,John Hickenlooper,74
+Routt,6,Governor,,REP,Mike Kopp,21
+Routt,6,Governor,,REP,Scott Gessler,44
+Routt,6,Governor,,REP,Tom Tancredo,28
+Routt,6,Governor,,REP,Bob Beauprez,40
+Routt,6,Registered Voters,,DEM,,298
+Routt,6,Registered Voters,,REP,,447
+Routt,6,Registered Voters,,AMN CONST,,0
+Routt,6,Secretary of State,,DEM,Joe Neguse,66
+Routt,6,Secretary of State,,REP,Wayne W Williams,99
+Routt,6,Secretary of State,,AMN CONST,Amanda Campbell,0
+Routt,6,State Board of Education,3,DEM,Henry C Roman,66
+Routt,6,State Board of Education,3,REP,Barbara Ann Smith,42
+Routt,6,State Board of Education,3,REP,Marcia Neal,51
+Routt,6,State Representative,26,DEM,Diane Mitsch Bush,70
+Routt,6,State Representative,26,REP,Dave Moloney,54
+Routt,6,State Representative,26,REP,Chuck McConnell,76
+Routt,6,State Treasurer,,DEM,Betsy Markey,68
+Routt,6,State Treasurer,,REP,Walker Stapleton,99
+Routt,6,U.S. House,3,DEM,Abel J Tapia,66
+Routt,6,U.S. House,3,REP,Scott R Tipton,99
+Routt,6,U.S. House,3,REP,David Cox,31
+Routt,6,U.S. Senate,,DEM,Mark Udall,74
+Routt,6,U.S. Senate,,REP,Cory Gardner,112
+Routt,7,Attorney General,,DEM,Don Quick,14
+Routt,7,Attorney General,,REP,Cynthia Coffman,40
+Routt,7,County Assessor,,REP,Gary Peterson,46
+Routt,7,County Clerk & Recorder,,DEM,Kim Bonner,17
+Routt,7,County Commissioner,3,DEM,Steve Ivancie,17
+Routt,7,County Commissioner,3,REP,Cari Hermacinski,46
+Routt,7,County Coroner,,DEM,Darrel Levingston,16
+Routt,7,County Coroner,,REP,Rob Ryg,48
+Routt,7,County Sheriff,,REP,J Garrett Wiggins,49
+Routt,7,County Treasurer,,DEM,Nikki Knoebel,16
+Routt,7,County Treasurer,,REP,Brita Horn,45
+Routt,7,Governor,,DEM,John Hickenlooper,18
+Routt,7,Governor,,REP,Mike Kopp,7
+Routt,7,Governor,,REP,Scott Gessler,21
+Routt,7,Governor,,REP,Tom Tancredo,6
+Routt,7,Governor,,REP,Bob Beauprez,19
+Routt,7,Registered Voters,,DEM,,141
+Routt,7,Registered Voters,,REP,,186
+Routt,7,Registered Voters,,AMN CONST,,1
+Routt,7,Secretary of State,,DEM,Joe Neguse,13
+Routt,7,Secretary of State,,REP,Wayne W Williams,42
+Routt,7,Secretary of State,,AMN CONST,Amanda Campbell,0
+Routt,7,State Board of Education,3,DEM,Henry C Roman,12
+Routt,7,State Board of Education,3,REP,Barbara Ann Smith,17
+Routt,7,State Board of Education,3,REP,Marcia Neal,20
+Routt,7,State Representative,26,DEM,Diane Mitsch Bush,17
+Routt,7,State Representative,26,REP,Dave Moloney,24
+Routt,7,State Representative,26,REP,Chuck McConnell,25
+Routt,7,State Treasurer,,DEM,Betsy Markey,14
+Routt,7,State Treasurer,,REP,Walker Stapleton,42
+Routt,7,U.S. House,3,DEM,Abel J Tapia,12
+Routt,7,U.S. House,3,REP,Scott R Tipton,40
+Routt,7,U.S. House,3,REP,David Cox,12
+Routt,7,U.S. Senate,,DEM,Mark Udall,17
+Routt,7,U.S. Senate,,REP,Cory Gardner,44
+Routt,8,Attorney General,,DEM,Don Quick,55
+Routt,8,Attorney General,,REP,Cynthia Coffman,72
+Routt,8,County Assessor,,REP,Gary Peterson,74
+Routt,8,County Clerk & Recorder,,DEM,Kim Bonner,70
+Routt,8,County Commissioner,3,DEM,Steve Ivancie,61
+Routt,8,County Commissioner,3,REP,Cari Hermacinski,73
+Routt,8,County Coroner,,DEM,Darrel Levingston,61
+Routt,8,County Coroner,,REP,Rob Ryg,75
+Routt,8,County Sheriff,,REP,J Garrett Wiggins,77
+Routt,8,County Treasurer,,DEM,Nikki Knoebel,59
+Routt,8,County Treasurer,,REP,Brita Horn,77
+Routt,8,Governor,,DEM,John Hickenlooper,66
+Routt,8,Governor,,REP,Mike Kopp,18
+Routt,8,Governor,,REP,Scott Gessler,27
+Routt,8,Governor,,REP,Tom Tancredo,21
+Routt,8,Governor,,REP,Bob Beauprez,27
+Routt,8,Registered Voters,,DEM,,254
+Routt,8,Registered Voters,,REP,,300
+Routt,8,Registered Voters,,AMN CONST,,2
+Routt,8,Secretary of State,,DEM,Joe Neguse,57
+Routt,8,Secretary of State,,REP,Wayne W Williams,72
+Routt,8,Secretary of State,,AMN CONST,Amanda Campbell,0
+Routt,8,State Board of Education,3,DEM,Henry C Roman,57
+Routt,8,State Board of Education,3,REP,Barbara Ann Smith,35
+Routt,8,State Board of Education,3,REP,Marcia Neal,37
+Routt,8,State Representative,26,DEM,Diane Mitsch Bush,63
+Routt,8,State Representative,26,REP,Dave Moloney,32
+Routt,8,State Representative,26,REP,Chuck McConnell,54
+Routt,8,State Treasurer,,DEM,Betsy Markey,57
+Routt,8,State Treasurer,,REP,Walker Stapleton,72
+Routt,8,U.S. House,3,DEM,Abel J Tapia,59
+Routt,8,U.S. House,3,REP,Scott R Tipton,65
+Routt,8,U.S. House,3,REP,David Cox,25
+Routt,8,U.S. Senate,,DEM,Mark Udall,65
+Routt,8,U.S. Senate,,REP,Cory Gardner,66
+Routt,9,Attorney General,,DEM,Don Quick,30
+Routt,9,Attorney General,,REP,Cynthia Coffman,55
+Routt,9,County Assessor,,REP,Gary Peterson,58
+Routt,9,County Clerk & Recorder,,DEM,Kim Bonner,35
+Routt,9,County Commissioner,3,DEM,Steve Ivancie,34
+Routt,9,County Commissioner,3,REP,Cari Hermacinski,60
+Routt,9,County Coroner,,DEM,Darrel Levingston,31
+Routt,9,County Coroner,,REP,Rob Ryg,61
+Routt,9,County Sheriff,,REP,J Garrett Wiggins,63
+Routt,9,County Treasurer,,DEM,Nikki Knoebel,33
+Routt,9,County Treasurer,,REP,Brita Horn,63
+Routt,9,Governor,,DEM,John Hickenlooper,35
+Routt,9,Governor,,REP,Mike Kopp,12
+Routt,9,Governor,,REP,Scott Gessler,17
+Routt,9,Governor,,REP,Tom Tancredo,19
+Routt,9,Governor,,REP,Bob Beauprez,20
+Routt,9,Registered Voters,,DEM,,211
+Routt,9,Registered Voters,,REP,,238
+Routt,9,Registered Voters,,AMN CONST,,2
+Routt,9,Secretary of State,,DEM,Joe Neguse,30
+Routt,9,Secretary of State,,REP,Wayne W Williams,56
+Routt,9,Secretary of State,,AMN CONST,Amanda Campbell,0
+Routt,9,State Board of Education,3,DEM,Henry C Roman,30
+Routt,9,State Board of Education,3,REP,Barbara Ann Smith,24
+Routt,9,State Board of Education,3,REP,Marcia Neal,29
+Routt,9,State Representative,26,DEM,Diane Mitsch Bush,34
+Routt,9,State Representative,26,REP,Dave Moloney,24
+Routt,9,State Representative,26,REP,Chuck McConnell,44
+Routt,9,State Treasurer,,DEM,Betsy Markey,30
+Routt,9,State Treasurer,,REP,Walker Stapleton,54
+Routt,9,U.S. House,3,DEM,Abel J Tapia,28
+Routt,9,U.S. House,3,REP,Scott R Tipton,51
+Routt,9,U.S. House,3,REP,David Cox,14
+Routt,9,U.S. Senate,,DEM,Mark Udall,35
+Routt,9,U.S. Senate,,REP,Cory Gardner,55
+Routt,10,Attorney General,,DEM,Don Quick,18
+Routt,10,Attorney General,,REP,Cynthia Coffman,77
+Routt,10,County Assessor,,REP,Gary Peterson,80
+Routt,10,County Clerk & Recorder,,DEM,Kim Bonner,23
+Routt,10,County Commissioner,3,DEM,Steve Ivancie,20
+Routt,10,County Commissioner,3,REP,Cari Hermacinski,79
+Routt,10,County Coroner,,DEM,Darrel Levingston,18
+Routt,10,County Coroner,,REP,Rob Ryg,86
+Routt,10,County Sheriff,,REP,J Garrett Wiggins,89
+Routt,10,County Treasurer,,DEM,Nikki Knoebel,19
+Routt,10,County Treasurer,,REP,Brita Horn,83
+Routt,10,Governor,,DEM,John Hickenlooper,20
+Routt,10,Governor,,REP,Mike Kopp,29
+Routt,10,Governor,,REP,Scott Gessler,26
+Routt,10,Governor,,REP,Tom Tancredo,13
+Routt,10,Governor,,REP,Bob Beauprez,30
+Routt,10,Registered Voters,,DEM,,105
+Routt,10,Registered Voters,,REP,,216
+Routt,10,Registered Voters,,AMN CONST,,3
+Routt,10,Secretary of State,,DEM,Joe Neguse,16
+Routt,10,Secretary of State,,REP,Wayne W Williams,76
+Routt,10,Secretary of State,,AMN CONST,Amanda Campbell,0
+Routt,10,State Board of Education,3,DEM,Henry C Roman,17
+Routt,10,State Board of Education,3,REP,Barbara Ann Smith,35
+Routt,10,State Board of Education,3,REP,Marcia Neal,42
+Routt,10,State Representative,26,DEM,Diane Mitsch Bush,19
+Routt,10,State Representative,26,REP,Dave Moloney,25
+Routt,10,State Representative,26,REP,Chuck McConnell,74
+Routt,10,State Treasurer,,DEM,Betsy Markey,17
+Routt,10,State Treasurer,,REP,Walker Stapleton,80
+Routt,10,U.S. House,3,DEM,Abel J Tapia,16
+Routt,10,U.S. House,3,REP,Scott R Tipton,76
+Routt,10,U.S. House,3,REP,David Cox,21
+Routt,10,U.S. Senate,,DEM,Mark Udall,21
+Routt,10,U.S. Senate,,REP,Cory Gardner,83
+Routt,11,Attorney General,,DEM,Don Quick,33
+Routt,11,Attorney General,,REP,Cynthia Coffman,62
+Routt,11,County Assessor,,REP,Gary Peterson,66
+Routt,11,County Clerk & Recorder,,DEM,Kim Bonner,37
+Routt,11,County Commissioner,3,DEM,Steve Ivancie,34
+Routt,11,County Commissioner,3,REP,Cari Hermacinski,60
+Routt,11,County Coroner,,DEM,Darrel Levingston,37
+Routt,11,County Coroner,,REP,Rob Ryg,71
+Routt,11,County Sheriff,,REP,J Garrett Wiggins,70
+Routt,11,County Treasurer,,DEM,Nikki Knoebel,35
+Routt,11,County Treasurer,,REP,Brita Horn,63
+Routt,11,Governor,,DEM,John Hickenlooper,38
+Routt,11,Governor,,REP,Mike Kopp,11
+Routt,11,Governor,,REP,Scott Gessler,24
+Routt,11,Governor,,REP,Tom Tancredo,16
+Routt,11,Governor,,REP,Bob Beauprez,28
+Routt,11,Registered Voters,,DEM,,389
+Routt,11,Registered Voters,,REP,,279
+Routt,11,Registered Voters,,AMN CONST,,6
+Routt,11,Secretary of State,,DEM,Joe Neguse,31
+Routt,11,Secretary of State,,REP,Wayne W Williams,61
+Routt,11,Secretary of State,,AMN CONST,Amanda Campbell,0
+Routt,11,State Board of Education,3,DEM,Henry C Roman,30
+Routt,11,State Board of Education,3,REP,Barbara Ann Smith,21
+Routt,11,State Board of Education,3,REP,Marcia Neal,31
+Routt,11,State Representative,26,DEM,Diane Mitsch Bush,41
+Routt,11,State Representative,26,REP,Dave Moloney,35
+Routt,11,State Representative,26,REP,Chuck McConnell,45
+Routt,11,State Treasurer,,DEM,Betsy Markey,34
+Routt,11,State Treasurer,,REP,Walker Stapleton,60
+Routt,11,U.S. House,3,DEM,Abel J Tapia,31
+Routt,11,U.S. House,3,REP,Scott R Tipton,57
+Routt,11,U.S. House,3,REP,David Cox,22
+Routt,11,U.S. Senate,,DEM,Mark Udall,38
+Routt,11,U.S. Senate,,REP,Cory Gardner,63
+Routt,12,Attorney General,,DEM,Don Quick,39
+Routt,12,Attorney General,,REP,Cynthia Coffman,30
+Routt,12,County Assessor,,REP,Gary Peterson,28
+Routt,12,County Clerk & Recorder,,DEM,Kim Bonner,48
+Routt,12,County Commissioner,3,DEM,Steve Ivancie,50
+Routt,12,County Commissioner,3,REP,Cari Hermacinski,35
+Routt,12,County Coroner,,DEM,Darrel Levingston,43
+Routt,12,County Coroner,,REP,Rob Ryg,40
+Routt,12,County Sheriff,,REP,J Garrett Wiggins,38
+Routt,12,County Treasurer,,DEM,Nikki Knoebel,41
+Routt,12,County Treasurer,,REP,Brita Horn,33
+Routt,12,Governor,,DEM,John Hickenlooper,54
+Routt,12,Governor,,REP,Mike Kopp,3
+Routt,12,Governor,,REP,Scott Gessler,17
+Routt,12,Governor,,REP,Tom Tancredo,10
+Routt,12,Governor,,REP,Bob Beauprez,16
+Routt,12,Registered Voters,,DEM,,279
+Routt,12,Registered Voters,,REP,,156
+Routt,12,Registered Voters,,AMN CONST,,1
+Routt,12,Secretary of State,,DEM,Joe Neguse,37
+Routt,12,Secretary of State,,REP,Wayne W Williams,31
+Routt,12,Secretary of State,,AMN CONST,Amanda Campbell,0
+Routt,12,State Board of Education,3,DEM,Henry C Roman,37
+Routt,12,State Board of Education,3,REP,Barbara Ann Smith,8
+Routt,12,State Board of Education,3,REP,Marcia Neal,18
+Routt,12,State Representative,26,DEM,Diane Mitsch Bush,51
+Routt,12,State Representative,26,REP,Dave Moloney,21
+Routt,12,State Representative,26,REP,Chuck McConnell,24
+Routt,12,State Treasurer,,DEM,Betsy Markey,41
+Routt,12,State Treasurer,,REP,Walker Stapleton,31
+Routt,12,U.S. House,3,DEM,Abel J Tapia,35
+Routt,12,U.S. House,3,REP,Scott R Tipton,29
+Routt,12,U.S. House,3,REP,David Cox,12
+Routt,12,U.S. Senate,,DEM,Mark Udall,52
+Routt,12,U.S. Senate,,REP,Cory Gardner,27
+Routt,13,Attorney General,,DEM,Don Quick,41
+Routt,13,Attorney General,,REP,Cynthia Coffman,32
+Routt,13,County Assessor,,REP,Gary Peterson,35
+Routt,13,County Clerk & Recorder,,DEM,Kim Bonner,51
+Routt,13,County Commissioner,3,DEM,Steve Ivancie,54
+Routt,13,County Commissioner,3,REP,Cari Hermacinski,33
+Routt,13,County Coroner,,DEM,Darrel Levingston,49
+Routt,13,County Coroner,,REP,Rob Ryg,39
+Routt,13,County Sheriff,,REP,J Garrett Wiggins,39
+Routt,13,County Treasurer,,DEM,Nikki Knoebel,45
+Routt,13,County Treasurer,,REP,Brita Horn,35
+Routt,13,Governor,,DEM,John Hickenlooper,59
+Routt,13,Governor,,REP,Mike Kopp,4
+Routt,13,Governor,,REP,Scott Gessler,12
+Routt,13,Governor,,REP,Tom Tancredo,13
+Routt,13,Governor,,REP,Bob Beauprez,13
+Routt,13,Registered Voters,,DEM,,497
+Routt,13,Registered Voters,,REP,,195
+Routt,13,Registered Voters,,AMN CONST,,4
+Routt,13,Secretary of State,,DEM,Joe Neguse,41
+Routt,13,Secretary of State,,REP,Wayne W Williams,32
+Routt,13,Secretary of State,,AMN CONST,Amanda Campbell,0
+Routt,13,State Board of Education,3,DEM,Henry C Roman,41
+Routt,13,State Board of Education,3,REP,Barbara Ann Smith,7
+Routt,13,State Board of Education,3,REP,Marcia Neal,8
+Routt,13,State Representative,26,DEM,Diane Mitsch Bush,57
+Routt,13,State Representative,26,REP,Dave Moloney,18
+Routt,13,State Representative,26,REP,Chuck McConnell,21
+Routt,13,State Treasurer,,DEM,Betsy Markey,48
+Routt,13,State Treasurer,,REP,Walker Stapleton,32
+Routt,13,U.S. House,3,DEM,Abel J Tapia,42
+Routt,13,U.S. House,3,REP,Scott R Tipton,34
+Routt,13,U.S. House,3,REP,David Cox,8
+Routt,13,U.S. Senate,,DEM,Mark Udall,55
+Routt,13,U.S. Senate,,REP,Cory Gardner,33
+Routt,14,Attorney General,,DEM,Don Quick,48
+Routt,14,Attorney General,,REP,Cynthia Coffman,43
+Routt,14,County Assessor,,REP,Gary Peterson,46
+Routt,14,County Clerk & Recorder,,DEM,Kim Bonner,53
+Routt,14,County Commissioner,3,DEM,Steve Ivancie,52
+Routt,14,County Commissioner,3,REP,Cari Hermacinski,45
+Routt,14,County Coroner,,DEM,Darrel Levingston,52
+Routt,14,County Coroner,,REP,Rob Ryg,48
+Routt,14,County Sheriff,,REP,J Garrett Wiggins,48
+Routt,14,County Treasurer,,DEM,Nikki Knoebel,49
+Routt,14,County Treasurer,,REP,Brita Horn,43
+Routt,14,Governor,,DEM,John Hickenlooper,58
+Routt,14,Governor,,REP,Mike Kopp,7
+Routt,14,Governor,,REP,Scott Gessler,21
+Routt,14,Governor,,REP,Tom Tancredo,13
+Routt,14,Governor,,REP,Bob Beauprez,15
+Routt,14,Registered Voters,,DEM,,350
+Routt,14,Registered Voters,,REP,,219
+Routt,14,Registered Voters,,AMN CONST,,1
+Routt,14,Secretary of State,,DEM,Joe Neguse,51
+Routt,14,Secretary of State,,REP,Wayne W Williams,41
+Routt,14,Secretary of State,,AMN CONST,Amanda Campbell,1
+Routt,14,State Board of Education,3,DEM,Henry C Roman,48
+Routt,14,State Board of Education,3,REP,Barbara Ann Smith,13
+Routt,14,State Board of Education,3,REP,Marcia Neal,26
+Routt,14,State Representative,26,DEM,Diane Mitsch Bush,57
+Routt,14,State Representative,26,REP,Dave Moloney,35
+Routt,14,State Representative,26,REP,Chuck McConnell,23
+Routt,14,State Treasurer,,DEM,Betsy Markey,50
+Routt,14,State Treasurer,,REP,Walker Stapleton,43
+Routt,14,U.S. House,3,DEM,Abel J Tapia,51
+Routt,14,U.S. House,3,REP,Scott R Tipton,44
+Routt,14,U.S. House,3,REP,David Cox,10
+Routt,14,U.S. Senate,,DEM,Mark Udall,57
+Routt,14,U.S. Senate,,REP,Cory Gardner,42
+Routt,15,Attorney General,,DEM,Don Quick,67
+Routt,15,Attorney General,,REP,Cynthia Coffman,91
+Routt,15,County Assessor,,REP,Gary Peterson,93
+Routt,15,County Clerk & Recorder,,DEM,Kim Bonner,70
+Routt,15,County Commissioner,3,DEM,Steve Ivancie,69
+Routt,15,County Commissioner,3,REP,Cari Hermacinski,100
+Routt,15,County Coroner,,DEM,Darrel Levingston,68
+Routt,15,County Coroner,,REP,Rob Ryg,102
+Routt,15,County Sheriff,,REP,J Garrett Wiggins,104
+Routt,15,County Treasurer,,DEM,Nikki Knoebel,69
+Routt,15,County Treasurer,,REP,Brita Horn,96
+Routt,15,Governor,,DEM,John Hickenlooper,74
+Routt,15,Governor,,REP,Mike Kopp,12
+Routt,15,Governor,,REP,Scott Gessler,44
+Routt,15,Governor,,REP,Tom Tancredo,25
+Routt,15,Governor,,REP,Bob Beauprez,40
+Routt,15,Registered Voters,,DEM,,364
+Routt,15,Registered Voters,,REP,,417
+Routt,15,Registered Voters,,AMN CONST,,2
+Routt,15,Secretary of State,,DEM,Joe Neguse,65
+Routt,15,Secretary of State,,REP,Wayne W Williams,91
+Routt,15,Secretary of State,,AMN CONST,Amanda Campbell,0
+Routt,15,State Board of Education,3,DEM,Henry C Roman,65
+Routt,15,State Board of Education,3,REP,Barbara Ann Smith,37
+Routt,15,State Board of Education,3,REP,Marcia Neal,42
+Routt,15,State Representative,26,DEM,Diane Mitsch Bush,75
+Routt,15,State Representative,26,REP,Dave Moloney,43
+Routt,15,State Representative,26,REP,Chuck McConnell,74
+Routt,15,State Treasurer,,DEM,Betsy Markey,68
+Routt,15,State Treasurer,,REP,Walker Stapleton,92
+Routt,15,U.S. House,3,DEM,Abel J Tapia,64
+Routt,15,U.S. House,3,REP,Scott R Tipton,100
+Routt,15,U.S. House,3,REP,David Cox,16
+Routt,15,U.S. Senate,,DEM,Mark Udall,73
+Routt,15,U.S. Senate,,REP,Cory Gardner,96
+Routt,16,Attorney General,,DEM,Don Quick,47
+Routt,16,Attorney General,,REP,Cynthia Coffman,104
+Routt,16,County Assessor,,REP,Gary Peterson,101
+Routt,16,County Clerk & Recorder,,DEM,Kim Bonner,53
+Routt,16,County Commissioner,3,DEM,Steve Ivancie,49
+Routt,16,County Commissioner,3,REP,Cari Hermacinski,107
+Routt,16,County Coroner,,DEM,Darrel Levingston,45
+Routt,16,County Coroner,,REP,Rob Ryg,108
+Routt,16,County Sheriff,,REP,J Garrett Wiggins,107
+Routt,16,County Treasurer,,DEM,Nikki Knoebel,47
+Routt,16,County Treasurer,,REP,Brita Horn,101
+Routt,16,Governor,,DEM,John Hickenlooper,51
+Routt,16,Governor,,REP,Mike Kopp,17
+Routt,16,Governor,,REP,Scott Gessler,45
+Routt,16,Governor,,REP,Tom Tancredo,22
+Routt,16,Governor,,REP,Bob Beauprez,39
+Routt,16,Registered Voters,,DEM,,363
+Routt,16,Registered Voters,,REP,,393
+Routt,16,Registered Voters,,AMN CONST,,2
+Routt,16,Secretary of State,,DEM,Joe Neguse,46
+Routt,16,Secretary of State,,REP,Wayne W Williams,103
+Routt,16,Secretary of State,,AMN CONST,Amanda Campbell,0
+Routt,16,State Board of Education,3,DEM,Henry C Roman,46
+Routt,16,State Board of Education,3,REP,Barbara Ann Smith,36
+Routt,16,State Board of Education,3,REP,Marcia Neal,49
+Routt,16,State Representative,26,DEM,Diane Mitsch Bush,50
+Routt,16,State Representative,26,REP,Dave Moloney,47
+Routt,16,State Representative,26,REP,Chuck McConnell,73
+Routt,16,State Treasurer,,DEM,Betsy Markey,50
+Routt,16,State Treasurer,,REP,Walker Stapleton,105
+Routt,16,U.S. House,3,DEM,Abel J Tapia,45
+Routt,16,U.S. House,3,REP,Scott R Tipton,98
+Routt,16,U.S. House,3,REP,David Cox,18
+Routt,16,U.S. Senate,,DEM,Mark Udall,51
+Routt,16,U.S. Senate,,REP,Cory Gardner,100
+Routt,17,Attorney General,,DEM,Don Quick,30
+Routt,17,Attorney General,,REP,Cynthia Coffman,29
+Routt,17,County Assessor,,REP,Gary Peterson,31
+Routt,17,County Clerk & Recorder,,DEM,Kim Bonner,33
+Routt,17,County Commissioner,3,DEM,Steve Ivancie,30
+Routt,17,County Commissioner,3,REP,Cari Hermacinski,30
+Routt,17,County Coroner,,DEM,Darrel Levingston,33
+Routt,17,County Coroner,,REP,Rob Ryg,35
+Routt,17,County Sheriff,,REP,J Garrett Wiggins,35
+Routt,17,County Treasurer,,DEM,Nikki Knoebel,29
+Routt,17,County Treasurer,,REP,Brita Horn,31
+Routt,17,Governor,,DEM,John Hickenlooper,34
+Routt,17,Governor,,REP,Mike Kopp,9
+Routt,17,Governor,,REP,Scott Gessler,9
+Routt,17,Governor,,REP,Tom Tancredo,7
+Routt,17,Governor,,REP,Bob Beauprez,12
+Routt,17,Registered Voters,,DEM,,408
+Routt,17,Registered Voters,,REP,,250
+Routt,17,Registered Voters,,AMN CONST,,5
+Routt,17,Secretary of State,,DEM,Joe Neguse,29
+Routt,17,Secretary of State,,REP,Wayne W Williams,28
+Routt,17,Secretary of State,,AMN CONST,Amanda Campbell,0
+Routt,17,State Board of Education,3,DEM,Henry C Roman,27
+Routt,17,State Board of Education,3,REP,Barbara Ann Smith,15
+Routt,17,State Board of Education,3,REP,Marcia Neal,13
+Routt,17,State Representative,26,DEM,Diane Mitsch Bush,33
+Routt,17,State Representative,26,REP,Dave Moloney,19
+Routt,17,State Representative,26,REP,Chuck McConnell,19
+Routt,17,State Treasurer,,DEM,Betsy Markey,31
+Routt,17,State Treasurer,,REP,Walker Stapleton,30
+Routt,17,U.S. House,3,DEM,Abel J Tapia,30
+Routt,17,U.S. House,3,REP,Scott R Tipton,27
+Routt,17,U.S. House,3,REP,David Cox,9
+Routt,17,U.S. Senate,,DEM,Mark Udall,33
+Routt,17,U.S. Senate,,REP,Cory Gardner,31
+Routt,18,Attorney General,,DEM,Don Quick,48
+Routt,18,Attorney General,,REP,Cynthia Coffman,57
+Routt,18,County Assessor,,REP,Gary Peterson,61
+Routt,18,County Clerk & Recorder,,DEM,Kim Bonner,54
+Routt,18,County Commissioner,3,DEM,Steve Ivancie,55
+Routt,18,County Commissioner,3,REP,Cari Hermacinski,61
+Routt,18,County Coroner,,DEM,Darrel Levingston,54
+Routt,18,County Coroner,,REP,Rob Ryg,60
+Routt,18,County Sheriff,,REP,J Garrett Wiggins,65
+Routt,18,County Treasurer,,DEM,Nikki Knoebel,55
+Routt,18,County Treasurer,,REP,Brita Horn,63
+Routt,18,Governor,,DEM,John Hickenlooper,59
+Routt,18,Governor,,REP,Mike Kopp,10
+Routt,18,Governor,,REP,Scott Gessler,26
+Routt,18,Governor,,REP,Tom Tancredo,16
+Routt,18,Governor,,REP,Bob Beauprez,16
+Routt,18,Registered Voters,,DEM,,460
+Routt,18,Registered Voters,,REP,,352
+Routt,18,Registered Voters,,AMN CONST,,5
+Routt,18,Secretary of State,,DEM,Joe Neguse,53
+Routt,18,Secretary of State,,REP,Wayne W Williams,57
+Routt,18,Secretary of State,,AMN CONST,Amanda Campbell,0
+Routt,18,State Board of Education,3,DEM,Henry C Roman,49
+Routt,18,State Board of Education,3,REP,Barbara Ann Smith,25
+Routt,18,State Board of Education,3,REP,Marcia Neal,26
+Routt,18,State Representative,26,DEM,Diane Mitsch Bush,57
+Routt,18,State Representative,26,REP,Dave Moloney,34
+Routt,18,State Representative,26,REP,Chuck McConnell,30
+Routt,18,State Treasurer,,DEM,Betsy Markey,51
+Routt,18,State Treasurer,,REP,Walker Stapleton,57
+Routt,18,U.S. House,3,DEM,Abel J Tapia,51
+Routt,18,U.S. House,3,REP,Scott R Tipton,53
+Routt,18,U.S. House,3,REP,David Cox,13
+Routt,18,U.S. Senate,,DEM,Mark Udall,57
+Routt,18,U.S. Senate,,REP,Cory Gardner,64

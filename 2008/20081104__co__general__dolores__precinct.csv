@@ -22,18 +22,18 @@ Dolores,1,U. S. Senate,,"Douglas ""Dayhorse"" Campbell ",ACP,4,263,0,4
 Dolores,1,U. S. Senate,,Gary Cooper ,,0,263,0,0
 Dolores,1,U. S. Senate,,Bruce E Lohmiller ,,0,263,0,0
 Dolores,1,U. S. Senate,,Buddy Moore ,,0,263,0,0
-Dolores,1,U. S. House,3,John T. Salazar ,DEM,154,263,88,66
-Dolores,1,U. S. House,3,Wayne Wolf,REP,36,263,17,19
-Dolores,1,State Board of Education,3,Jill L. Brake ,DEM,122,263,72,50
-Dolores,1,State Board of Education,3,Marcia Neal ,REP,52,263,22,30
-Dolores,1,State House,58,Scott R. Tipton ,REP,57,263,30,27
-Dolores,1,State House,58,Noelle Hagan ,DEM,124,263,70,54
-Dolores,1,District Attorney,22,James Wilson ,REP,51,263,21,30
-Dolores,1,District Attorney,22,Mark (Mac) Myers ,DEM,125,263,75,50
-Dolores,1,County Commissioner,2,Ernest (Ernie) R. Williams ,DEM,106,263,56,50
-Dolores,1,County Commissioner,2,Ricardo Archuleta ,U_AF,65,263,39,26
-Dolores,1,County Commissioner,3,Douglas R. Stowe ,REP,58,263,33,25
-Dolores,1,County Commissioner,3,Tim Huskey ,DEM,123,263,69,54
+Dolores,1,U. S. House,3.0,John T. Salazar ,DEM,154,263,88,66
+Dolores,1,U. S. House,3.0,Wayne Wolf,REP,36,263,17,19
+Dolores,1,State Board of Education,3.0,Jill L. Brake ,DEM,122,263,72,50
+Dolores,1,State Board of Education,3.0,Marcia Neal ,REP,52,263,22,30
+Dolores,1,State House,58.0,Scott R. Tipton ,REP,57,263,30,27
+Dolores,1,State House,58.0,Noelle Hagan ,DEM,124,263,70,54
+Dolores,1,District Attorney,22.0,James Wilson ,REP,51,263,21,30
+Dolores,1,District Attorney,22.0,Mark (Mac) Myers ,DEM,125,263,75,50
+Dolores,1,County Commissioner,2.0,Ernest (Ernie) R. Williams ,DEM,106,263,56,50
+Dolores,1,County Commissioner,2.0,Ricardo Archuleta ,U_AF,65,263,39,26
+Dolores,1,County Commissioner,3.0,Douglas R. Stowe ,REP,58,263,33,25
+Dolores,1,County Commissioner,3.0,Tim Huskey ,DEM,123,263,69,54
 Dolores,1,Shall Justice Allison H. Eid of the ,,Yes ,,107,263,58,49
 Dolores,1,Colorado Supreme Court be retained in office?,,No ,,39,263,15,24
 Dolores,1,Shall Justice Gregory J. Hobbs Jr. of the ,,Yes ,,98,263,54,44
@@ -111,18 +111,18 @@ Dolores,2,U. S. Senate,,"Douglas ""Dayhorse"" Campbell ",ACP ,7,288,3,4
 Dolores,2,U. S. Senate,,Gary Cooper ,,0,288,0,0
 Dolores,2,U. S. Senate,,Bruce E Lohmiller ,,0,288,0,0
 Dolores,2,U. S. Senate,,Buddy Moore ,,0,288,0,0
-Dolores,2,U. S. House,3,John T. Salazar ,DEM,109,288,63,46
-Dolores,2,U. S. House,3,Wayne Wolf,REP,108,288,53,55
-Dolores,2,State Board of Education,3,Jill L. Brake ,DEM,71,288,39,32
-Dolores,2,State Board of Education,3,Marcia Neal ,REP,131,288,64,67
-Dolores,2,State House,58,Scott R. Tipton ,REP,161,288,86,75
-Dolores,2,State House,58,Noelle Hagan ,DEM,55,288,27,28
-Dolores,2,District Attorney,22,James Wilson ,REP,123,288,65,58
-Dolores,2,District Attorney,22,Mark (Mac) Myers ,DEM,84,288,44,40
-Dolores,2,County Commissioner,2,Ernest (Ernie) R. Williams ,DEM,129,288,77,52
-Dolores,2,County Commissioner,2,Ricardo Archuleta ,UAF ,94,288,44,50
-Dolores,2,County Commissioner,3,Douglas R. Stowe ,REP,144,288,73,71
-Dolores,2,County Commissioner,3,Tim Huskey ,DEM,75,288,43,32
+Dolores,2,U. S. House,3.0,John T. Salazar ,DEM,109,288,63,46
+Dolores,2,U. S. House,3.0,Wayne Wolf,REP,108,288,53,55
+Dolores,2,State Board of Education,3.0,Jill L. Brake ,DEM,71,288,39,32
+Dolores,2,State Board of Education,3.0,Marcia Neal ,REP,131,288,64,67
+Dolores,2,State House,58.0,Scott R. Tipton ,REP,161,288,86,75
+Dolores,2,State House,58.0,Noelle Hagan ,DEM,55,288,27,28
+Dolores,2,District Attorney,22.0,James Wilson ,REP,123,288,65,58
+Dolores,2,District Attorney,22.0,Mark (Mac) Myers ,DEM,84,288,44,40
+Dolores,2,County Commissioner,2.0,Ernest (Ernie) R. Williams ,DEM,129,288,77,52
+Dolores,2,County Commissioner,2.0,Ricardo Archuleta ,UAF ,94,288,44,50
+Dolores,2,County Commissioner,3.0,Douglas R. Stowe ,REP,144,288,73,71
+Dolores,2,County Commissioner,3.0,Tim Huskey ,DEM,75,288,43,32
 Dolores,2,Shall Justice Allison H. Eid of the ,,Yes ,,103,288,57,46
 Dolores,2,Colorado Supreme Court be retained in office? ,,No ,,78,288,35,43
 Dolores,2,Shall Justice Gregory J. Hobbs Jr. of the ,,Yes ,,87,288,46,41
@@ -200,18 +200,18 @@ Dolores,3,U. S. Senate,,"Douglas ""Dayhorse"" Campbell ",ACP ,4,365,1,3
 Dolores,3,U. S. Senate,,Gary Cooper ,,0,365,0,0
 Dolores,3,U. S. Senate,,Bruce E Lohmiller ,,0,365,0,0
 Dolores,3,U. S. Senate,,Buddy Moore ,,0,365,0,0
-Dolores,3,U.S. House,3,John T. Salazar ,DEM,139,365,93,46
-Dolores,3,U.S. House,3,Wayne Wolf,REP,149,365,93,56
-Dolores,3,State Board of Education,3,Jill L. Brake ,DEM,105,365,73,32
-Dolores,3,State Board of Education,3,Marcia Neal ,REP,161,365,103,58
-Dolores,3,State House,58,Scott R. Tipton ,REP,213,365,138,75
-Dolores,3,State House,58,Noelle Hagan ,DEM,80,365,49,31
-Dolores,3,District Attorney,22,James Wilson ,REP,129,365,76,53
-Dolores,3,District Attorney,22,Mark (Mac) Myers ,DEM,144,365,99,45
-Dolores,3,County Commissioner,2,Ernest (Ernie) R. Williams ,DEM,213,365,141,72
-Dolores,3,County Commissioner,2,Ricardo Archuleta ,UAF ,77,365,45,32
-Dolores,3,County Commissioner,3,Douglas R. Stowe ,REP,184,365,117,67
-Dolores,3,County Commissioner,3,Tim Huskey ,DEM,114,365,74,40
+Dolores,3,U.S. House,3.0,John T. Salazar ,DEM,139,365,93,46
+Dolores,3,U.S. House,3.0,Wayne Wolf,REP,149,365,93,56
+Dolores,3,State Board of Education,3.0,Jill L. Brake ,DEM,105,365,73,32
+Dolores,3,State Board of Education,3.0,Marcia Neal ,REP,161,365,103,58
+Dolores,3,State House,58.0,Scott R. Tipton ,REP,213,365,138,75
+Dolores,3,State House,58.0,Noelle Hagan ,DEM,80,365,49,31
+Dolores,3,District Attorney,22.0,James Wilson ,REP,129,365,76,53
+Dolores,3,District Attorney,22.0,Mark (Mac) Myers ,DEM,144,365,99,45
+Dolores,3,County Commissioner,2.0,Ernest (Ernie) R. Williams ,DEM,213,365,141,72
+Dolores,3,County Commissioner,2.0,Ricardo Archuleta ,UAF ,77,365,45,32
+Dolores,3,County Commissioner,3.0,Douglas R. Stowe ,REP,184,365,117,67
+Dolores,3,County Commissioner,3.0,Tim Huskey ,DEM,114,365,74,40
 Dolores,3,Shall Justice Allison H. Eid of the ,,Yes ,,126,365,84,42
 Dolores,3,Colorado Supreme Court be retained in office? ,,No ,,102,365,60,42
 Dolores,3,Shall Justice Gregory J. Hobbs Jr. of the ,,Yes ,,127,365,85,42
@@ -289,18 +289,18 @@ Dolores,4,U. S. Senate,,"Douglas ""Dayhorse"" Campbell ",ACP ,23,599,14,9
 Dolores,4,U. S. Senate,,Gary Cooper ,,0,599,0,0
 Dolores,4,U. S. Senate,,Bruce E Lohmiller ,,0,599,0,0
 Dolores,4,U. S. Senate,,Buddy Moore ,,0,599,0,0
-Dolores,4,U.S. House,3,John T. Salazar ,DEM,232,599,153,79
-Dolores,4,U.S. House,3,Wayne Wolf,REP,211,599,131,80
-Dolores,4,State Board of Education,3,Jill L. Brake ,DEM,127,599,91,36
-Dolores,4,State Board of Education,3,Marcia Neal ,REP,256,599,145,111
-Dolores,4,State House,58,Scott R. Tipton ,REP,314,599,190,124
-Dolores,4,State House,58,Noelle Hagan ,DEM,123,599,89,34
-Dolores,4,District Attorney,22,James Wilson ,REP,222,599,137,85
-Dolores,4,District Attorney,22,Mark (Mac) Myers ,DEM,187,599,123,64
-Dolores,4,County Commissioner,2,Ernest (Ernie) R. Williams ,DEM,301,599,202,99
-Dolores,4,County Commissioner,2,Ricardo Archuleta ,UAF ,140,599,83,57
-Dolores,4,County Commissioner,3,Douglas R. Stowe ,REP,271,599,164,107
-Dolores,4,County Commissioner,3,Tim Huskey ,DEM,186,599,129,57
+Dolores,4,U.S. House,3.0,John T. Salazar ,DEM,232,599,153,79
+Dolores,4,U.S. House,3.0,Wayne Wolf,REP,211,599,131,80
+Dolores,4,State Board of Education,3.0,Jill L. Brake ,DEM,127,599,91,36
+Dolores,4,State Board of Education,3.0,Marcia Neal ,REP,256,599,145,111
+Dolores,4,State House,58.0,Scott R. Tipton ,REP,314,599,190,124
+Dolores,4,State House,58.0,Noelle Hagan ,DEM,123,599,89,34
+Dolores,4,District Attorney,22.0,James Wilson ,REP,222,599,137,85
+Dolores,4,District Attorney,22.0,Mark (Mac) Myers ,DEM,187,599,123,64
+Dolores,4,County Commissioner,2.0,Ernest (Ernie) R. Williams ,DEM,301,599,202,99
+Dolores,4,County Commissioner,2.0,Ricardo Archuleta ,UAF ,140,599,83,57
+Dolores,4,County Commissioner,3.0,Douglas R. Stowe ,REP,271,599,164,107
+Dolores,4,County Commissioner,3.0,Tim Huskey ,DEM,186,599,129,57
 Dolores,4,Shall Justice Allison H. Eid of the ,,Yes ,,218,599,139,79
 Dolores,4,Colorado Supreme Court be retained in office? ,,No ,,135,599,85,50
 Dolores,4,Shall Justice Gregory J. Hobbs Jr. of the ,,Yes ,,215,599,135,80
@@ -361,7 +361,7 @@ Dolores,Provisional ,President,,Chuck Baldwin I Darrell L. Castle ,CNP ,0,0,0,0
 Dolores,Provisional ,President,,Bob Barr I Wayne A. Root ,LIB ,0,0,0,0
 Dolores,Provisional ,President,,Cynthia McKinney I Rosa A. Clemente,GRN ,0,0,0,0
 Dolores,Provisional ,President,,Jonathan E. Allen I Jeffrey D. Stath,HQK ,0,0,0,0
-Dolores,�ۢ Provisiona I ,President,,Gene C. Amondson I Leroy J. Pletten,PRO ,0,0,0,0
+Dolores,ÃÂÃÂÃÂ¢ Provisiona I ,President,,Gene C. Amondson I Leroy J. Pletten,PRO ,0,0,0,0
 Dolores,Provisional ,President,,James Harris I Alyson Kennedy ,SWP ,0,0,0,0
 Dolores,Provisional ,President,,Charles Jay I Dan Sallis Jr. ,BTP ,0,0,0,0
 Dolores,Provisional ,President,,Alan Keyes I Brian Rohrbough ,AlP ,0,0,0,0
@@ -378,18 +378,18 @@ Dolores,Provisional ,U. S. Senate,,"Douglas ""Dayhorse"" Campbell ",ACP ,1,0,1,0
 Dolores,Provisional ,U. S. Senate,,Gary Cooper ,,0,0,0,0
 Dolores,Provisional ,U. S. Senate,,Bruce E Lohmiller ,,0,0,0,0
 Dolores,Provisional ,U. S. Senate,,Buddy Moore ,,0,0,0,0
-Dolores,Provisional ,U.S. House,3,John T. Salazar ,DEM,16,0,16,0
-Dolores,Provisional ,U.S. House,3,Wayne Wolf,REP,11,0,11,0
-Dolores,Provisional ,State Board of Education,3,Jill L. Brake ,DEM,11,0,11,0
-Dolores,Provisional ,State Board of Education,3,Marcia Neal ,REP,16,0,16,0
-Dolores,Provisional ,State House,58,Scott R. Tipton ,REP,17,0,17,0
-Dolores,Provisional ,State House,58,Noelle Hagan ,DEM,10,0,10,0
-Dolores,Provisional ,District Attorney,22,James Wilson ,REP,11,0,11,0
-Dolores,Provisional ,District Attorney,22,Mark (Mac) Myers ,DEM,15,0,15,0
-Dolores,Provisional ,County Commissioner,2,Ernest (Ernie) R. Williams ,DEM,18,0,18,0
-Dolores,Provisional ,County Commissioner,2,Ricardo Archuleta ,UAF ,8,0,8,0
-Dolores,Provisional ,County Commissioner,3,Douglas R. Stowe ,REP,16,0,16,0
-Dolores,Provisional ,County Commissioner,3,Tim Huskey ,DEM,10,0,10,0
+Dolores,Provisional ,U.S. House,3.0,John T. Salazar ,DEM,16,0,16,0
+Dolores,Provisional ,U.S. House,3.0,Wayne Wolf,REP,11,0,11,0
+Dolores,Provisional ,State Board of Education,3.0,Jill L. Brake ,DEM,11,0,11,0
+Dolores,Provisional ,State Board of Education,3.0,Marcia Neal ,REP,16,0,16,0
+Dolores,Provisional ,State House,58.0,Scott R. Tipton ,REP,17,0,17,0
+Dolores,Provisional ,State House,58.0,Noelle Hagan ,DEM,10,0,10,0
+Dolores,Provisional ,District Attorney,22.0,James Wilson ,REP,11,0,11,0
+Dolores,Provisional ,District Attorney,22.0,Mark (Mac) Myers ,DEM,15,0,15,0
+Dolores,Provisional ,County Commissioner,2.0,Ernest (Ernie) R. Williams ,DEM,18,0,18,0
+Dolores,Provisional ,County Commissioner,2.0,Ricardo Archuleta ,UAF ,8,0,8,0
+Dolores,Provisional ,County Commissioner,3.0,Douglas R. Stowe ,REP,16,0,16,0
+Dolores,Provisional ,County Commissioner,3.0,Tim Huskey ,DEM,10,0,10,0
 Dolores,Provisional ,Shall Justice Allison H. Eid of the ,,Yes ,,15,0,15,0
 Dolores,Provisional ,Colorado Supreme Court be retained in office? ,,No ,,7,0,7,0
 Dolores,Provisional ,Shall Justice Gregory J. Hobbs Jr. of the ,,Yes ,,12,0,12,0

@@ -1,5 +1,4 @@
-county,precinct,office,district,party,candidate,votes,Active Voters,"Total 
-Ballots",Total Under Votes,Total Over Votes
+county,precinct,office,district,party,candidate,votes,Active Voters,Total Ballots,Total Under Votes,Total Over Votes
 Boulder,2163307100,U.S. Senate,,DEM,Mark Udall,467,1118,827,5,0
 Boulder,2163307100,U.S. Senate,,REP,Cory Gardner,314,1118,827,5,0
 Boulder,2163307100,U.S. Senate,,LBR,Gaylon Kent,18,1118,827,5,0

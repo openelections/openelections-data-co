@@ -1694,13 +1694,13 @@ Arapahoe,360,U.S. Senator,,Republican,Robert Blaha,8
 Arapahoe,360,U.S. Senator,,Republican,Jack Graham,5
 Arapahoe,360,U.S. Senator,,Republican,Jon Keyser,7
 Arapahoe,360,U.S. Senator,,Republican,Write-in,0
-Arapahoe,361,U.S. Senator,,Democrat,Michael Bennet,
-Arapahoe,361,U.S. Senator,,Republican,Darryl Glenn,
-Arapahoe,361,U.S. Senator,,Republican,Ryan L. Frazier,
-Arapahoe,361,U.S. Senator,,Republican,Robert Blaha,
-Arapahoe,361,U.S. Senator,,Republican,Jack Graham,
-Arapahoe,361,U.S. Senator,,Republican,Jon Keyser,
-Arapahoe,361,U.S. Senator,,Republican,Write-in,
+Arapahoe,361,U.S. Senator,,Democrat,Michael Bennet,***
+Arapahoe,361,U.S. Senator,,Republican,Darryl Glenn,***
+Arapahoe,361,U.S. Senator,,Republican,Ryan L. Frazier,***
+Arapahoe,361,U.S. Senator,,Republican,Robert Blaha,***
+Arapahoe,361,U.S. Senator,,Republican,Jack Graham,***
+Arapahoe,361,U.S. Senator,,Republican,Jon Keyser,***
+Arapahoe,361,U.S. Senator,,Republican,Write-in,***
 Arapahoe,362,U.S. Senator,,Democrat,Michael Bennet,54
 Arapahoe,362,U.S. Senator,,Republican,Darryl Glenn,67
 Arapahoe,362,U.S. Senator,,Republican,Ryan L. Frazier,18
@@ -3276,9 +3276,9 @@ Arapahoe,359,State Senate,29,Republican,Sebastian Chunn,0
 Arapahoe,360,State Senate,29,Democrat,Rhonda Fields,18
 Arapahoe,360,State Senate,29,Democrat,Su Ryden,11
 Arapahoe,360,State Senate,29,Republican,Sebastian Chunn,22
-Arapahoe,361,State Senate,29,Democrat,Rhonda Fields,
-Arapahoe,361,State Senate,29,Democrat,Su Ryden,
-Arapahoe,361,State Senate,29,Republican,Sebastian Chunn,
+Arapahoe,361,State Senate,29,Democrat,Rhonda Fields,***
+Arapahoe,361,State Senate,29,Democrat,Su Ryden,***
+Arapahoe,361,State Senate,29,Republican,Sebastian Chunn,***
 Arapahoe,362,State Senate,29,Democrat,Rhonda Fields,37
 Arapahoe,362,State Senate,29,Democrat,Su Ryden,25
 Arapahoe,362,State Senate,29,Republican,Sebastian Chunn,138
@@ -4334,8 +4334,8 @@ Arapahoe,359,State House,56,Democrat,Matt Snider,0
 Arapahoe,359,State House,56,Republican,Phil Covarrubias,0
 Arapahoe,360,State House,36,Democrat,Mike Weissman,28
 Arapahoe,360,State House,36,Republican,Richard J. Bowman,22
-Arapahoe,361,State House,36,Democrat,Mike Weissman,
-Arapahoe,361,State House,36,Republican,Richard J. Bowman,
+Arapahoe,361,State House,36,Democrat,Mike Weissman,***
+Arapahoe,361,State House,36,Republican,Richard J. Bowman,***
 Arapahoe,362,State House,56,Democrat,Matt Snider,50
 Arapahoe,362,State House,56,Republican,Phil Covarrubias,134
 Arapahoe,363,State House,56,Democrat,Matt Snider,35
@@ -5200,8 +5200,8 @@ Arapahoe,359,U.S. House,4,Democrat,Bob Seay,0
 Arapahoe,359,U.S. House,4,Republican,Ken Buck,0
 Arapahoe,360,U.S. House,6,Democrat,Morgan Carroll,25
 Arapahoe,360,U.S. House,6,Republican,Mike Coffman,21
-Arapahoe,361,U.S. House,4,Democrat,Bob Seay,
-Arapahoe,361,U.S. House,4,Republican,Ken Buck,
+Arapahoe,361,U.S. House,4,Democrat,Bob Seay,***
+Arapahoe,361,U.S. House,4,Republican,Ken Buck,***
 Arapahoe,362,U.S. House,4,Democrat,Bob Seay,50
 Arapahoe,362,U.S. House,4,Republican,Ken Buck,155
 Arapahoe,363,U.S. House,4,Democrat,Bob Seay,38

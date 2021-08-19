@@ -1,4 +1,7 @@
-# openelections-data-co [![Build Status](https://github.com/openelections/openelections-data-co/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-co/actions)
+[![Build Status](https://github.com/openelections/openelections-data-co/actions/workflows/data_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-co/actions/workflows/data_tests.yml?query=branch%3Amaster)
+[![Build Status](https://github.com/openelections/openelections-data-co/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-co/actions/workflows/format_tests.yml?query=branch%3Amaster)
+
+# openelections-data-co
 Pre-processed election results for Colorado elections.
 
 [OpenElections](http://www.openelections.net) is a non-profit effort to collect and publish standardized data from election results at the federal and state level. Part of our process is to convert precinct-level results from PDF documents into spreadsheet-readable files (CSVs).

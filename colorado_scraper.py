@@ -57,7 +57,7 @@ def scrape_election(year,general,list_of_offices,outfile):
 							# district is the number of the table you are looking at, unless there is only one table, in which case omit district
 							try:
 								district=districts[i-1]
-							except:
+							except IndexError:
 								district=''
 
 							# tdata is one table with columns:
@@ -73,12 +73,12 @@ def scrape_election(year,general,list_of_offices,outfile):
 									party_finder=re.compile('\((...)\)')
 									try:
 										party=party_finder.findall(tdata[0][i+1])[0]
-									except:
+									except IndexError:
 										party=''
 									candidate_finder=re.compile('(.*?) \(')
 									try:
 										candidate=candidate_finder.findall(tdata[0][i+1])[0]
-									except:
+									except IndexError:
 										candidate=tdata[0][i+1]
 									candidate=unicodedata.normalize('NFKD',candidate).encode('ascii','replace').replace('?','')
 									if candidate=='Total':
@@ -104,7 +104,7 @@ def scrape_election(year,general,list_of_offices,outfile):
 					# district is the number of the table you are looking at, unless there is only one table, in which case omit district
 					try:
 						district=districts[i]
-					except:
+					except IndexError:
 						district=''
 
 					# tdata is one table with columns:
@@ -120,12 +120,12 @@ def scrape_election(year,general,list_of_offices,outfile):
 							party_finder=re.compile('\((...)\)')
 							try:
 								party=party_finder.findall(tdata[0][i+3])[0]
-							except:
+							except IndexError:
 								party=''
 							candidate_finder=re.compile('(.*?) \(')
 							try:
 								candidate=candidate_finder.findall(tdata[0][i+3])[0]
-							except:
+							except IndexError:
 								candidate=tdata[0][i+3]
 							candidate=unicodedata.normalize('NFKD',candidate).encode('ascii','replace').replace('?','')
 							if candidate=='Total':

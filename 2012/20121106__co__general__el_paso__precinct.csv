@@ -198,7 +198,6 @@ El Paso,803,Voters,,,Cast,1832
 El Paso,804,Voters,,,Cast,1807
 El Paso,828,Voters,,,Cast,387
 El Paso,839,Voters,,,Cast,684
-El Paso,,Voters,,,Cast,292698
 El Paso,101,President,,AC,Virgil Goode,4
 El Paso,102,President,,AC,Virgil Goode,2
 El Paso,103,President,,AC,Virgil Goode,0
@@ -5194,7 +5193,6 @@ El Paso,742,State Rep18,HD18,D,Pete Lee,607
 El Paso,743,State Rep18,HD18,D,Pete Lee,602
 El Paso,744,State Rep18,HD18,D,Pete Lee,488
 El Paso,745,State Rep18,HD18,D,Pete Lee,67
-El Paso,,State Rep18,HD18,D,Pete Lee,
 El Paso,107,State Rep18,HD18,R,Jennifer George,459
 El Paso,108,State Rep18,HD18,R,Jennifer George,494
 El Paso,109,State Rep18,HD18,R,Jennifer George,87
@@ -5223,7 +5221,6 @@ El Paso,742,State Rep18,HD18,R,Jennifer George,264
 El Paso,743,State Rep18,HD18,R,Jennifer George,327
 El Paso,744,State Rep18,HD18,R,Jennifer George,431
 El Paso,745,State Rep18,HD18,R,Jennifer George,136
-El Paso,,State Rep18,HD18,R,Jennifer George,
 El Paso,107,State Rep18,HD18,ACP,Amy Fedde,22
 El Paso,108,State Rep18,HD18,ACP,Amy Fedde,20
 El Paso,109,State Rep18,HD18,ACP,Amy Fedde,5
@@ -5252,7 +5249,6 @@ El Paso,742,State Rep18,HD18,ACP,Amy Fedde,12
 El Paso,743,State Rep18,HD18,ACP,Amy Fedde,19
 El Paso,744,State Rep18,HD18,ACP,Amy Fedde,13
 El Paso,745,State Rep18,HD18,ACP,Amy Fedde,0
-El Paso,,State Rep18,HD18,ACP,Amy Fedde,
 El Paso,107,State Rep18,HD18,LBT,Robert Melamed,56
 El Paso,108,State Rep18,HD18,LBT,Robert Melamed,42
 El Paso,109,State Rep18,HD18,LBT,Robert Melamed,8
@@ -5281,7 +5277,6 @@ El Paso,742,State Rep18,HD18,LBT,Robert Melamed,56
 El Paso,743,State Rep18,HD18,LBT,Robert Melamed,52
 El Paso,744,State Rep18,HD18,LBT,Robert Melamed,32
 El Paso,745,State Rep18,HD18,LBT,Robert Melamed,12
-El Paso,,State Rep18,HD18,LBT,Robert Melamed,
 El Paso,210,State Rep19,HD19,R,Amy Stephens,1449
 El Paso,211,State Rep19,HD19,R,Amy Stephens,1433
 El Paso,212,State Rep19,HD19,R,Amy Stephens,1092
@@ -5321,7 +5316,6 @@ El Paso,560,State Rep19,HD19,R,Amy Stephens,608
 El Paso,651,State Rep19,HD19,R,Amy Stephens,212
 El Paso,653,State Rep19,HD19,R,Amy Stephens,119
 El Paso,828,State Rep19,HD19,R,Amy Stephens,275
-El Paso,,State Rep19,HD19,R,Amy Stephens,
 El Paso,210,State Rep19,HD19,ACP,Tim Biolch,80
 El Paso,211,State Rep19,HD19,ACP,Tim Biolch,70
 El Paso,212,State Rep19,HD19,ACP,Tim Biolch,49
@@ -5361,7 +5355,6 @@ El Paso,560,State Rep19,HD19,ACP,Tim Biolch,84
 El Paso,651,State Rep19,HD19,ACP,Tim Biolch,43
 El Paso,653,State Rep19,HD19,ACP,Tim Biolch,5
 El Paso,828,State Rep19,HD19,ACP,Tim Biolch,34
-El Paso,,State Rep19,HD19,ACP,Tim Biolch,
 El Paso,210,State Rep19,HD19,LBT,Alan Bassett,185
 El Paso,211,State Rep19,HD19,LBT,Alan Bassett,174
 El Paso,212,State Rep19,HD19,LBT,Alan Bassett,138
@@ -5401,7 +5394,6 @@ El Paso,560,State Rep19,HD19,LBT,Alan Bassett,85
 El Paso,651,State Rep19,HD19,LBT,Alan Bassett,40
 El Paso,653,State Rep19,HD19,LBT,Alan Bassett,18
 El Paso,828,State Rep19,HD19,LBT,Alan Bassett,31
-El Paso,,State Rep19,HD19,LBT,Alan Bassett,
 El Paso,101,State Rep20,HD20,D,Michael Goldsborough,537
 El Paso,102,State Rep20,HD20,D,Michael Goldsborough,515
 El Paso,103,State Rep20,HD20,D,Michael Goldsborough,478
@@ -5459,7 +5451,6 @@ El Paso,729,State Rep20,HD20,R,Bob Gardner,1194
 El Paso,730,State Rep20,HD20,R,Bob Gardner,1160
 El Paso,740,State Rep20,HD20,R,Bob Gardner,747
 El Paso,741,State Rep20,HD20,R,Bob Gardner,231
-El Paso,,State Rep20,HD20,R,Bob Gardner,
 El Paso,632,State Rep21,HD21,R,Lois Landgraf,291
 El Paso,633,State Rep21,HD21,R,Lois Landgraf,1168
 El Paso,634,State Rep21,HD21,R,Lois Landgraf,1077
@@ -5495,7 +5486,6 @@ El Paso,802,State Rep21,HD21,ACP,Sean Halstead,305
 El Paso,803,State Rep21,HD21,ACP,Sean Halstead,262
 El Paso,804,State Rep21,HD21,ACP,Sean Halstead,234
 El Paso,839,State Rep21,HD21,ACP,Sean Halstead,49
-El Paso,,State Rep21,HD21,ACP,Sean Halstead,
 El Paso,632,State Rep21,HD21,LBT,Laticia Burns,118
 El Paso,633,State Rep21,HD21,LBT,Laticia Burns,326
 El Paso,634,State Rep21,HD21,LBT,Laticia Burns,302
@@ -5513,4 +5503,3 @@ El Paso,802,State Rep21,HD21,LBT,Laticia Burns,330
 El Paso,803,State Rep21,HD21,LBT,Laticia Burns,314
 El Paso,804,State Rep21,HD21,LBT,Laticia Burns,262
 El Paso,839,State Rep21,HD21,LBT,Laticia Burns,90
-El Paso,,State Rep21,HD21,LBT,Laticia Burns,

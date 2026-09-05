@@ -1,0 +1,2398 @@
+county,office,district,party,candidate,votes
+ADAMS,U.S. Senate,,DEM,Julie Gonzales,32004
+ADAMS,U.S. Senate,,DEM,John Hickenlooper,31783
+ALAMOSA,U.S. Senate,,DEM,Julie Gonzales,763
+ALAMOSA,U.S. Senate,,DEM,John Hickenlooper,969
+ARAPAHOE,U.S. Senate,,DEM,Julie Gonzales,42707
+ARAPAHOE,U.S. Senate,,DEM,John Hickenlooper,52705
+ARCHULETA,U.S. Senate,,DEM,Julie Gonzales,627
+ARCHULETA,U.S. Senate,,DEM,John Hickenlooper,1193
+BACA,U.S. Senate,,DEM,Julie Gonzales,65
+BACA,U.S. Senate,,DEM,John Hickenlooper,87
+BENT,U.S. Senate,,DEM,Julie Gonzales,119
+BENT,U.S. Senate,,DEM,John Hickenlooper,203
+BOULDER,U.S. Senate,,DEM,Julie Gonzales,41430
+BOULDER,U.S. Senate,,DEM,John Hickenlooper,43566
+BROOMFIELD,U.S. Senate,,DEM,Julie Gonzales,7909
+BROOMFIELD,U.S. Senate,,DEM,John Hickenlooper,8598
+CHAFFEE,U.S. Senate,,DEM,Julie Gonzales,1911
+CHAFFEE,U.S. Senate,,DEM,John Hickenlooper,2807
+CHEYENNE,U.S. Senate,,DEM,Julie Gonzales,11
+CHEYENNE,U.S. Senate,,DEM,John Hickenlooper,37
+CLEAR CREEK,U.S. Senate,,DEM,Julie Gonzales,732
+CLEAR CREEK,U.S. Senate,,DEM,John Hickenlooper,1029
+CONEJOS,U.S. Senate,,DEM,Julie Gonzales,448
+CONEJOS,U.S. Senate,,DEM,John Hickenlooper,673
+COSTILLA,U.S. Senate,,DEM,Julie Gonzales,462
+COSTILLA,U.S. Senate,,DEM,John Hickenlooper,506
+CROWLEY,U.S. Senate,,DEM,Julie Gonzales,92
+CROWLEY,U.S. Senate,,DEM,John Hickenlooper,139
+CUSTER,U.S. Senate,,DEM,Julie Gonzales,267
+CUSTER,U.S. Senate,,DEM,John Hickenlooper,390
+DELTA,U.S. Senate,,DEM,Julie Gonzales,1376
+DELTA,U.S. Senate,,DEM,John Hickenlooper,1942
+DENVER,U.S. Senate,,DEM,Julie Gonzales,85897
+DENVER,U.S. Senate,,DEM,John Hickenlooper,72270
+DOLORES,U.S. Senate,,DEM,Julie Gonzales,53
+DOLORES,U.S. Senate,,DEM,John Hickenlooper,97
+DOUGLAS,U.S. Senate,,DEM,Julie Gonzales,21253
+DOUGLAS,U.S. Senate,,DEM,John Hickenlooper,30636
+EAGLE,U.S. Senate,,DEM,Julie Gonzales,2453
+EAGLE,U.S. Senate,,DEM,John Hickenlooper,4963
+EL PASO,U.S. Senate,,DEM,Julie Gonzales,37733
+EL PASO,U.S. Senate,,DEM,John Hickenlooper,39464
+ELBERT,U.S. Senate,,DEM,Julie Gonzales,906
+ELBERT,U.S. Senate,,DEM,John Hickenlooper,1461
+FREMONT,U.S. Senate,,DEM,Julie Gonzales,1626
+FREMONT,U.S. Senate,,DEM,John Hickenlooper,2499
+GARFIELD,U.S. Senate,,DEM,Julie Gonzales,2649
+GARFIELD,U.S. Senate,,DEM,John Hickenlooper,4091
+GILPIN,U.S. Senate,,DEM,Julie Gonzales,530
+GILPIN,U.S. Senate,,DEM,John Hickenlooper,643
+GRAND,U.S. Senate,,DEM,Julie Gonzales,935
+GRAND,U.S. Senate,,DEM,John Hickenlooper,1462
+GUNNISON,U.S. Senate,,DEM,Julie Gonzales,1351
+GUNNISON,U.S. Senate,,DEM,John Hickenlooper,1848
+HINSDALE,U.S. Senate,,DEM,Julie Gonzales,32
+HINSDALE,U.S. Senate,,DEM,John Hickenlooper,71
+HUERFANO,U.S. Senate,,DEM,Julie Gonzales,585
+HUERFANO,U.S. Senate,,DEM,John Hickenlooper,652
+JACKSON,U.S. Senate,,DEM,Julie Gonzales,10
+JACKSON,U.S. Senate,,DEM,John Hickenlooper,23
+JEFFERSON,U.S. Senate,,DEM,Julie Gonzales,52771
+JEFFERSON,U.S. Senate,,DEM,John Hickenlooper,61132
+KIOWA,U.S. Senate,,DEM,Julie Gonzales,18
+KIOWA,U.S. Senate,,DEM,John Hickenlooper,28
+KIT CARSON,U.S. Senate,,DEM,Julie Gonzales,87
+KIT CARSON,U.S. Senate,,DEM,John Hickenlooper,181
+LA PLATA,U.S. Senate,,DEM,Julie Gonzales,4431
+LA PLATA,U.S. Senate,,DEM,John Hickenlooper,6076
+LAKE,U.S. Senate,,DEM,Julie Gonzales,546
+LAKE,U.S. Senate,,DEM,John Hickenlooper,622
+LARIMER,U.S. Senate,,DEM,Julie Gonzales,31215
+LARIMER,U.S. Senate,,DEM,John Hickenlooper,32881
+LAS ANIMAS,U.S. Senate,,DEM,Julie Gonzales,883
+LAS ANIMAS,U.S. Senate,,DEM,John Hickenlooper,1273
+LINCOLN,U.S. Senate,,DEM,Julie Gonzales,79
+LINCOLN,U.S. Senate,,DEM,John Hickenlooper,140
+LOGAN,U.S. Senate,,DEM,Julie Gonzales,356
+LOGAN,U.S. Senate,,DEM,John Hickenlooper,773
+MESA,U.S. Senate,,DEM,Julie Gonzales,7456
+MESA,U.S. Senate,,DEM,John Hickenlooper,9468
+MINERAL,U.S. Senate,,DEM,Julie Gonzales,70
+MINERAL,U.S. Senate,,DEM,John Hickenlooper,118
+MOFFAT,U.S. Senate,,DEM,Julie Gonzales,188
+MOFFAT,U.S. Senate,,DEM,John Hickenlooper,311
+MONTEZUMA,U.S. Senate,,DEM,Julie Gonzales,1277
+MONTEZUMA,U.S. Senate,,DEM,John Hickenlooper,1569
+MONTROSE,U.S. Senate,,DEM,Julie Gonzales,2061
+MONTROSE,U.S. Senate,,DEM,John Hickenlooper,2368
+MORGAN,U.S. Senate,,DEM,Julie Gonzales,614
+MORGAN,U.S. Senate,,DEM,John Hickenlooper,900
+OTERO,U.S. Senate,,DEM,Julie Gonzales,616
+OTERO,U.S. Senate,,DEM,John Hickenlooper,984
+OURAY,U.S. Senate,,DEM,Julie Gonzales,505
+OURAY,U.S. Senate,,DEM,John Hickenlooper,783
+PARK,U.S. Senate,,DEM,Julie Gonzales,956
+PARK,U.S. Senate,,DEM,John Hickenlooper,1382
+PHILLIPS,U.S. Senate,,DEM,Julie Gonzales,74
+PHILLIPS,U.S. Senate,,DEM,John Hickenlooper,122
+PITKIN,U.S. Senate,,DEM,Julie Gonzales,1038
+PITKIN,U.S. Senate,,DEM,John Hickenlooper,2888
+PROWERS,U.S. Senate,,DEM,Julie Gonzales,215
+PROWERS,U.S. Senate,,DEM,John Hickenlooper,368
+PUEBLO,U.S. Senate,,DEM,Julie Gonzales,9483
+PUEBLO,U.S. Senate,,DEM,John Hickenlooper,13399
+RIO BLANCO,U.S. Senate,,DEM,Julie Gonzales,56
+RIO BLANCO,U.S. Senate,,DEM,John Hickenlooper,95
+RIO GRANDE,U.S. Senate,,DEM,Julie Gonzales,490
+RIO GRANDE,U.S. Senate,,DEM,John Hickenlooper,732
+ROUTT,U.S. Senate,,DEM,Julie Gonzales,1450
+ROUTT,U.S. Senate,,DEM,John Hickenlooper,3138
+SAGUACHE,U.S. Senate,,DEM,Julie Gonzales,496
+SAGUACHE,U.S. Senate,,DEM,John Hickenlooper,531
+SAN JUAN,U.S. Senate,,DEM,Julie Gonzales,66
+SAN JUAN,U.S. Senate,,DEM,John Hickenlooper,77
+SAN MIGUEL,U.S. Senate,,DEM,Julie Gonzales,630
+SAN MIGUEL,U.S. Senate,,DEM,John Hickenlooper,910
+SEDGWICK,U.S. Senate,,DEM,Julie Gonzales,46
+SEDGWICK,U.S. Senate,,DEM,John Hickenlooper,78
+SUMMIT,U.S. Senate,,DEM,Julie Gonzales,1858
+SUMMIT,U.S. Senate,,DEM,John Hickenlooper,3347
+TELLER,U.S. Senate,,DEM,Julie Gonzales,1112
+TELLER,U.S. Senate,,DEM,John Hickenlooper,1678
+WASHINGTON,U.S. Senate,,DEM,Julie Gonzales,55
+WASHINGTON,U.S. Senate,,DEM,John Hickenlooper,118
+WELD,U.S. Senate,,DEM,Julie Gonzales,14257
+WELD,U.S. Senate,,DEM,John Hickenlooper,17362
+YUMA,U.S. Senate,,DEM,Julie Gonzales,97
+YUMA,U.S. Senate,,DEM,John Hickenlooper,231
+ARAPAHOE,U.S. House,1,DEM,Melat Kiros,667
+ARAPAHOE,U.S. House,1,DEM,Diana DeGette,565
+ARAPAHOE,U.S. House,1,DEM,Wanda James,93
+DENVER,U.S. House,1,DEM,Melat Kiros,83188
+DENVER,U.S. House,1,DEM,Diana DeGette,62150
+DENVER,U.S. House,1,DEM,Wanda James,10982
+JEFFERSON,U.S. House,1,DEM,Melat Kiros,0
+JEFFERSON,U.S. House,1,DEM,Diana DeGette,0
+JEFFERSON,U.S. House,1,DEM,Wanda James,0
+BOULDER,U.S. House,2,DEM,Joe Neguse,75179
+BROOMFIELD,U.S. House,2,DEM,Joe Neguse,0
+CLEAR CREEK,U.S. House,2,DEM,Joe Neguse,1555
+EAGLE,U.S. House,2,DEM,Joe Neguse,4920
+GILPIN,U.S. House,2,DEM,Joe Neguse,1036
+GRAND,U.S. House,2,DEM,Joe Neguse,2118
+JACKSON,U.S. House,2,DEM,Joe Neguse,30
+JEFFERSON,U.S. House,2,DEM,Joe Neguse,340
+LARIMER,U.S. House,2,DEM,Joe Neguse,38921
+ROUTT,U.S. House,2,DEM,Joe Neguse,3901
+SUMMIT,U.S. House,2,DEM,Joe Neguse,4463
+WELD,U.S. House,2,DEM,Joe Neguse,3683
+ALAMOSA,U.S. House,3,DEM,Alex Kelloff,815
+ALAMOSA,U.S. House,3,DEM,Dwayne L. Romero,837
+ARCHULETA,U.S. House,3,DEM,Alex Kelloff,845
+ARCHULETA,U.S. House,3,DEM,Dwayne L. Romero,850
+CONEJOS,U.S. House,3,DEM,Alex Kelloff,381
+CONEJOS,U.S. House,3,DEM,Dwayne L. Romero,708
+COSTILLA,U.S. House,3,DEM,Alex Kelloff,253
+COSTILLA,U.S. House,3,DEM,Dwayne L. Romero,637
+DELTA,U.S. House,3,DEM,Alex Kelloff,1632
+DELTA,U.S. House,3,DEM,Dwayne L. Romero,1411
+DOLORES,U.S. House,3,DEM,Alex Kelloff,75
+DOLORES,U.S. House,3,DEM,Dwayne L. Romero,59
+EAGLE,U.S. House,3,DEM,Alex Kelloff,548
+EAGLE,U.S. House,3,DEM,Dwayne L. Romero,987
+GARFIELD,U.S. House,3,DEM,Alex Kelloff,2710
+GARFIELD,U.S. House,3,DEM,Dwayne L. Romero,3567
+GUNNISON,U.S. House,3,DEM,Alex Kelloff,1500
+GUNNISON,U.S. House,3,DEM,Dwayne L. Romero,1361
+HINSDALE,U.S. House,3,DEM,Alex Kelloff,31
+HINSDALE,U.S. House,3,DEM,Dwayne L. Romero,52
+HUERFANO,U.S. House,3,DEM,Alex Kelloff,486
+HUERFANO,U.S. House,3,DEM,Dwayne L. Romero,669
+LA PLATA,U.S. House,3,DEM,Alex Kelloff,4422
+LA PLATA,U.S. House,3,DEM,Dwayne L. Romero,5357
+LAS ANIMAS,U.S. House,3,DEM,Alex Kelloff,797
+LAS ANIMAS,U.S. House,3,DEM,Dwayne L. Romero,1202
+MESA,U.S. House,3,DEM,Alex Kelloff,8394
+MESA,U.S. House,3,DEM,Dwayne L. Romero,7361
+MINERAL,U.S. House,3,DEM,Alex Kelloff,89
+MINERAL,U.S. House,3,DEM,Dwayne L. Romero,85
+MOFFAT,U.S. House,3,DEM,Alex Kelloff,196
+MOFFAT,U.S. House,3,DEM,Dwayne L. Romero,258
+MONTEZUMA,U.S. House,3,DEM,Alex Kelloff,1385
+MONTEZUMA,U.S. House,3,DEM,Dwayne L. Romero,1291
+MONTROSE,U.S. House,3,DEM,Alex Kelloff,1977
+MONTROSE,U.S. House,3,DEM,Dwayne L. Romero,2134
+OTERO,U.S. House,3,DEM,Alex Kelloff,530
+OTERO,U.S. House,3,DEM,Dwayne L. Romero,989
+OURAY,U.S. House,3,DEM,Alex Kelloff,640
+OURAY,U.S. House,3,DEM,Dwayne L. Romero,533
+PITKIN,U.S. House,3,DEM,Alex Kelloff,1269
+PITKIN,U.S. House,3,DEM,Dwayne L. Romero,2516
+PUEBLO,U.S. House,3,DEM,Alex Kelloff,8458
+PUEBLO,U.S. House,3,DEM,Dwayne L. Romero,13279
+RIO BLANCO,U.S. House,3,DEM,Alex Kelloff,77
+RIO BLANCO,U.S. House,3,DEM,Dwayne L. Romero,60
+RIO GRANDE,U.S. House,3,DEM,Alex Kelloff,549
+RIO GRANDE,U.S. House,3,DEM,Dwayne L. Romero,606
+SAGUACHE,U.S. House,3,DEM,Alex Kelloff,524
+SAGUACHE,U.S. House,3,DEM,Dwayne L. Romero,397
+SAN JUAN,U.S. House,3,DEM,Alex Kelloff,72
+SAN JUAN,U.S. House,3,DEM,Dwayne L. Romero,53
+SAN MIGUEL,U.S. House,3,DEM,Alex Kelloff,739
+SAN MIGUEL,U.S. House,3,DEM,Dwayne L. Romero,589
+ADAMS,U.S. House,4,DEM,Eileen Laubacher,781
+ADAMS,U.S. House,4,DEM,Jenna Preston (Write-In),8
+ARAPAHOE,U.S. House,4,DEM,Eileen Laubacher,3812
+ARAPAHOE,U.S. House,4,DEM,Jenna Preston (Write-In),44
+BACA,U.S. House,4,DEM,Eileen Laubacher,107
+BACA,U.S. House,4,DEM,Jenna Preston (Write-In),0
+BENT,U.S. House,4,DEM,Eileen Laubacher,268
+BENT,U.S. House,4,DEM,Jenna Preston (Write-In),0
+CHEYENNE,U.S. House,4,DEM,Eileen Laubacher,35
+CHEYENNE,U.S. House,4,DEM,Jenna Preston (Write-In),0
+CROWLEY,U.S. House,4,DEM,Eileen Laubacher,190
+CROWLEY,U.S. House,4,DEM,Jenna Preston (Write-In),2
+DOUGLAS,U.S. House,4,DEM,Eileen Laubacher,42986
+DOUGLAS,U.S. House,4,DEM,Jenna Preston (Write-In),302
+EL PASO,U.S. House,4,DEM,Eileen Laubacher,424
+EL PASO,U.S. House,4,DEM,Jenna Preston (Write-In),1
+ELBERT,U.S. House,4,DEM,Eileen Laubacher,2022
+ELBERT,U.S. House,4,DEM,Jenna Preston (Write-In),15
+KIOWA,U.S. House,4,DEM,Eileen Laubacher,36
+KIOWA,U.S. House,4,DEM,Jenna Preston (Write-In),0
+KIT CARSON,U.S. House,4,DEM,Eileen Laubacher,206
+KIT CARSON,U.S. House,4,DEM,Jenna Preston (Write-In),0
+LARIMER,U.S. House,4,DEM,Eileen Laubacher,13637
+LARIMER,U.S. House,4,DEM,Jenna Preston (Write-In),140
+LINCOLN,U.S. House,4,DEM,Eileen Laubacher,173
+LINCOLN,U.S. House,4,DEM,Jenna Preston (Write-In),3
+LOGAN,U.S. House,4,DEM,Eileen Laubacher,911
+LOGAN,U.S. House,4,DEM,Jenna Preston (Write-In),1
+MORGAN,U.S. House,4,DEM,Eileen Laubacher,1221
+MORGAN,U.S. House,4,DEM,Jenna Preston (Write-In),11
+PHILLIPS,U.S. House,4,DEM,Eileen Laubacher,142
+PHILLIPS,U.S. House,4,DEM,Jenna Preston (Write-In),0
+PROWERS,U.S. House,4,DEM,Eileen Laubacher,466
+PROWERS,U.S. House,4,DEM,Jenna Preston (Write-In),1
+SEDGWICK,U.S. House,4,DEM,Eileen Laubacher,101
+SEDGWICK,U.S. House,4,DEM,Jenna Preston (Write-In),0
+WASHINGTON,U.S. House,4,DEM,Eileen Laubacher,135
+WASHINGTON,U.S. House,4,DEM,Jenna Preston (Write-In),1
+WELD,U.S. House,4,DEM,Eileen Laubacher,4573
+WELD,U.S. House,4,DEM,Jenna Preston (Write-In),36
+YUMA,U.S. House,4,DEM,Eileen Laubacher,257
+YUMA,U.S. House,4,DEM,Jenna Preston (Write-In),1
+EL PASO,U.S. House,5,DEM,Jessica Killin,45511
+EL PASO,U.S. House,5,DEM,Joe Reagan,28864
+ADAMS,U.S. House,6,DEM,Jason Crow,4201
+ARAPAHOE,U.S. House,6,DEM,Jason Crow,79253
+DENVER,U.S. House,6,DEM,Jason Crow,287
+DOUGLAS,U.S. House,6,DEM,Jason Crow,1043
+JEFFERSON,U.S. House,6,DEM,Jason Crow,9423
+ADAMS,U.S. House,7,DEM,Brittany Pettersen,457
+BROOMFIELD,U.S. House,7,DEM,Brittany Pettersen,13828
+CHAFFEE,U.S. House,7,DEM,Brittany Pettersen,3995
+CUSTER,U.S. House,7,DEM,Brittany Pettersen,569
+EL PASO,U.S. House,7,DEM,Brittany Pettersen,97
+FREMONT,U.S. House,7,DEM,Brittany Pettersen,3576
+JEFFERSON,U.S. House,7,DEM,Brittany Pettersen,85902
+LAKE,U.S. House,7,DEM,Brittany Pettersen,917
+PARK,U.S. House,7,DEM,Brittany Pettersen,2011
+TELLER,U.S. House,7,DEM,Brittany Pettersen,2355
+WELD,U.S. House,7,DEM,Brittany Pettersen,0
+ADAMS,U.S. House,8,DEM,Manny Rutinel,35640
+ADAMS,U.S. House,8,DEM,Evan Munsing,2579
+ADAMS,U.S. House,8,DEM,Shannon Bird,17969
+LARIMER,U.S. House,8,DEM,Manny Rutinel,1698
+LARIMER,U.S. House,8,DEM,Evan Munsing,110
+LARIMER,U.S. House,8,DEM,Shannon Bird,1162
+WELD,U.S. House,8,DEM,Manny Rutinel,13097
+WELD,U.S. House,8,DEM,Evan Munsing,1028
+WELD,U.S. House,8,DEM,Shannon Bird,6991
+ADAMS,Governor,,DEM,Phil Weiser,33814
+ADAMS,Governor,,DEM,Michael Bennet,29518
+ALAMOSA,Governor,,DEM,Phil Weiser,954
+ALAMOSA,Governor,,DEM,Michael Bennet,779
+ARAPAHOE,Governor,,DEM,Phil Weiser,53836
+ARAPAHOE,Governor,,DEM,Michael Bennet,41069
+ARCHULETA,Governor,,DEM,Phil Weiser,795
+ARCHULETA,Governor,,DEM,Michael Bennet,1017
+BACA,Governor,,DEM,Phil Weiser,46
+BACA,Governor,,DEM,Michael Bennet,102
+BENT,Governor,,DEM,Phil Weiser,88
+BENT,Governor,,DEM,Michael Bennet,236
+BOULDER,Governor,,DEM,Phil Weiser,52520
+BOULDER,Governor,,DEM,Michael Bennet,31980
+BROOMFIELD,Governor,,DEM,Phil Weiser,9426
+BROOMFIELD,Governor,,DEM,Michael Bennet,6944
+CHAFFEE,Governor,,DEM,Phil Weiser,2312
+CHAFFEE,Governor,,DEM,Michael Bennet,2369
+CHEYENNE,Governor,,DEM,Phil Weiser,18
+CHEYENNE,Governor,,DEM,Michael Bennet,29
+CLEAR CREEK,Governor,,DEM,Phil Weiser,887
+CLEAR CREEK,Governor,,DEM,Michael Bennet,873
+CONEJOS,Governor,,DEM,Phil Weiser,400
+CONEJOS,Governor,,DEM,Michael Bennet,710
+COSTILLA,Governor,,DEM,Phil Weiser,369
+COSTILLA,Governor,,DEM,Michael Bennet,596
+CROWLEY,Governor,,DEM,Phil Weiser,83
+CROWLEY,Governor,,DEM,Michael Bennet,147
+CUSTER,Governor,,DEM,Phil Weiser,317
+CUSTER,Governor,,DEM,Michael Bennet,338
+DELTA,Governor,,DEM,Phil Weiser,1623
+DELTA,Governor,,DEM,Michael Bennet,1685
+DENVER,Governor,,DEM,Phil Weiser,103298
+DENVER,Governor,,DEM,Michael Bennet,52342
+DOLORES,Governor,,DEM,Phil Weiser,61
+DOLORES,Governor,,DEM,Michael Bennet,87
+DOUGLAS,Governor,,DEM,Phil Weiser,27538
+DOUGLAS,Governor,,DEM,Michael Bennet,24180
+EAGLE,Governor,,DEM,Phil Weiser,3971
+EAGLE,Governor,,DEM,Michael Bennet,3419
+EL PASO,Governor,,DEM,Phil Weiser,39441
+EL PASO,Governor,,DEM,Michael Bennet,37290
+ELBERT,Governor,,DEM,Phil Weiser,1114
+ELBERT,Governor,,DEM,Michael Bennet,1242
+FREMONT,Governor,,DEM,Phil Weiser,1720
+FREMONT,Governor,,DEM,Michael Bennet,2389
+GARFIELD,Governor,,DEM,Phil Weiser,3580
+GARFIELD,Governor,,DEM,Michael Bennet,3127
+GILPIN,Governor,,DEM,Phil Weiser,688
+GILPIN,Governor,,DEM,Michael Bennet,476
+GRAND,Governor,,DEM,Phil Weiser,1242
+GRAND,Governor,,DEM,Michael Bennet,1155
+GUNNISON,Governor,,DEM,Phil Weiser,1564
+GUNNISON,Governor,,DEM,Michael Bennet,1621
+HINSDALE,Governor,,DEM,Phil Weiser,53
+HINSDALE,Governor,,DEM,Michael Bennet,49
+HUERFANO,Governor,,DEM,Phil Weiser,492
+HUERFANO,Governor,,DEM,Michael Bennet,728
+JACKSON,Governor,,DEM,Phil Weiser,12
+JACKSON,Governor,,DEM,Michael Bennet,21
+JEFFERSON,Governor,,DEM,Phil Weiser,64592
+JEFFERSON,Governor,,DEM,Michael Bennet,48758
+KIOWA,Governor,,DEM,Phil Weiser,8
+KIOWA,Governor,,DEM,Michael Bennet,36
+KIT CARSON,Governor,,DEM,Phil Weiser,108
+KIT CARSON,Governor,,DEM,Michael Bennet,163
+LA PLATA,Governor,,DEM,Phil Weiser,7340
+LA PLATA,Governor,,DEM,Michael Bennet,3172
+LAKE,Governor,,DEM,Phil Weiser,533
+LAKE,Governor,,DEM,Michael Bennet,624
+LARIMER,Governor,,DEM,Phil Weiser,36695
+LARIMER,Governor,,DEM,Michael Bennet,26822
+LAS ANIMAS,Governor,,DEM,Phil Weiser,829
+LAS ANIMAS,Governor,,DEM,Michael Bennet,1316
+LINCOLN,Governor,,DEM,Phil Weiser,75
+LINCOLN,Governor,,DEM,Michael Bennet,141
+LOGAN,Governor,,DEM,Phil Weiser,490
+LOGAN,Governor,,DEM,Michael Bennet,637
+MESA,Governor,,DEM,Phil Weiser,9919
+MESA,Governor,,DEM,Michael Bennet,6924
+MINERAL,Governor,,DEM,Phil Weiser,79
+MINERAL,Governor,,DEM,Michael Bennet,108
+MOFFAT,Governor,,DEM,Phil Weiser,234
+MOFFAT,Governor,,DEM,Michael Bennet,270
+MONTEZUMA,Governor,,DEM,Phil Weiser,1678
+MONTEZUMA,Governor,,DEM,Michael Bennet,1152
+MONTROSE,Governor,,DEM,Phil Weiser,2757
+MONTROSE,Governor,,DEM,Michael Bennet,1659
+MORGAN,Governor,,DEM,Phil Weiser,708
+MORGAN,Governor,,DEM,Michael Bennet,790
+OTERO,Governor,,DEM,Phil Weiser,507
+OTERO,Governor,,DEM,Michael Bennet,1091
+OURAY,Governor,,DEM,Phil Weiser,708
+OURAY,Governor,,DEM,Michael Bennet,581
+PARK,Governor,,DEM,Phil Weiser,1135
+PARK,Governor,,DEM,Michael Bennet,1188
+PHILLIPS,Governor,,DEM,Phil Weiser,78
+PHILLIPS,Governor,,DEM,Michael Bennet,119
+PITKIN,Governor,,DEM,Phil Weiser,1901
+PITKIN,Governor,,DEM,Michael Bennet,1984
+PROWERS,Governor,,DEM,Phil Weiser,225
+PROWERS,Governor,,DEM,Michael Bennet,360
+PUEBLO,Governor,,DEM,Phil Weiser,8760
+PUEBLO,Governor,,DEM,Michael Bennet,13952
+RIO BLANCO,Governor,,DEM,Phil Weiser,57
+RIO BLANCO,Governor,,DEM,Michael Bennet,92
+RIO GRANDE,Governor,,DEM,Phil Weiser,546
+RIO GRANDE,Governor,,DEM,Michael Bennet,666
+ROUTT,Governor,,DEM,Phil Weiser,1918
+ROUTT,Governor,,DEM,Michael Bennet,2663
+SAGUACHE,Governor,,DEM,Phil Weiser,579
+SAGUACHE,Governor,,DEM,Michael Bennet,432
+SAN JUAN,Governor,,DEM,Phil Weiser,64
+SAN JUAN,Governor,,DEM,Michael Bennet,79
+SAN MIGUEL,Governor,,DEM,Phil Weiser,738
+SAN MIGUEL,Governor,,DEM,Michael Bennet,785
+SEDGWICK,Governor,,DEM,Phil Weiser,56
+SEDGWICK,Governor,,DEM,Michael Bennet,67
+SUMMIT,Governor,,DEM,Phil Weiser,2298
+SUMMIT,Governor,,DEM,Michael Bennet,2878
+TELLER,Governor,,DEM,Phil Weiser,1291
+TELLER,Governor,,DEM,Michael Bennet,1492
+WASHINGTON,Governor,,DEM,Phil Weiser,67
+WASHINGTON,Governor,,DEM,Michael Bennet,102
+WELD,Governor,,DEM,Phil Weiser,16093
+WELD,Governor,,DEM,Michael Bennet,15311
+YUMA,Governor,,DEM,Phil Weiser,131
+YUMA,Governor,,DEM,Michael Bennet,206
+ADAMS,Secretary of State,,DEM,Amanda Gonzalez,40487
+ADAMS,Secretary of State,,DEM,Jessie Danielson,19757
+ALAMOSA,Secretary of State,,DEM,Amanda Gonzalez,1229
+ALAMOSA,Secretary of State,,DEM,Jessie Danielson,396
+ARAPAHOE,Secretary of State,,DEM,Amanda Gonzalez,55715
+ARAPAHOE,Secretary of State,,DEM,Jessie Danielson,32665
+ARCHULETA,Secretary of State,,DEM,Amanda Gonzalez,992
+ARCHULETA,Secretary of State,,DEM,Jessie Danielson,679
+BACA,Secretary of State,,DEM,Amanda Gonzalez,75
+BACA,Secretary of State,,DEM,Jessie Danielson,56
+BENT,Secretary of State,,DEM,Amanda Gonzalez,211
+BENT,Secretary of State,,DEM,Jessie Danielson,93
+BOULDER,Secretary of State,,DEM,Amanda Gonzalez,47911
+BOULDER,Secretary of State,,DEM,Jessie Danielson,27907
+BROOMFIELD,Secretary of State,,DEM,Amanda Gonzalez,9364
+BROOMFIELD,Secretary of State,,DEM,Jessie Danielson,5899
+CHAFFEE,Secretary of State,,DEM,Amanda Gonzalez,2584
+CHAFFEE,Secretary of State,,DEM,Jessie Danielson,1559
+CHEYENNE,Secretary of State,,DEM,Amanda Gonzalez,19
+CHEYENNE,Secretary of State,,DEM,Jessie Danielson,21
+CLEAR CREEK,Secretary of State,,DEM,Amanda Gonzalez,978
+CLEAR CREEK,Secretary of State,,DEM,Jessie Danielson,570
+CONEJOS,Secretary of State,,DEM,Amanda Gonzalez,893
+CONEJOS,Secretary of State,,DEM,Jessie Danielson,189
+COSTILLA,Secretary of State,,DEM,Amanda Gonzalez,746
+COSTILLA,Secretary of State,,DEM,Jessie Danielson,159
+CROWLEY,Secretary of State,,DEM,Amanda Gonzalez,154
+CROWLEY,Secretary of State,,DEM,Jessie Danielson,61
+CUSTER,Secretary of State,,DEM,Amanda Gonzalez,353
+CUSTER,Secretary of State,,DEM,Jessie Danielson,247
+DELTA,Secretary of State,,DEM,Amanda Gonzalez,1863
+DELTA,Secretary of State,,DEM,Jessie Danielson,1117
+DENVER,Secretary of State,,DEM,Amanda Gonzalez,97946
+DENVER,Secretary of State,,DEM,Jessie Danielson,47401
+DOLORES,Secretary of State,,DEM,Amanda Gonzalez,70
+DOLORES,Secretary of State,,DEM,Jessie Danielson,59
+DOUGLAS,Secretary of State,,DEM,Amanda Gonzalez,29239
+DOUGLAS,Secretary of State,,DEM,Jessie Danielson,18428
+EAGLE,Secretary of State,,DEM,Amanda Gonzalez,3488
+EAGLE,Secretary of State,,DEM,Jessie Danielson,2842
+EL PASO,Secretary of State,,DEM,Amanda Gonzalez,46123
+EL PASO,Secretary of State,,DEM,Jessie Danielson,26628
+ELBERT,Secretary of State,,DEM,Amanda Gonzalez,1331
+ELBERT,Secretary of State,,DEM,Jessie Danielson,846
+FREMONT,Secretary of State,,DEM,Amanda Gonzalez,2462
+FREMONT,Secretary of State,,DEM,Jessie Danielson,1348
+GARFIELD,Secretary of State,,DEM,Amanda Gonzalez,3537
+GARFIELD,Secretary of State,,DEM,Jessie Danielson,2484
+GILPIN,Secretary of State,,DEM,Amanda Gonzalez,653
+GILPIN,Secretary of State,,DEM,Jessie Danielson,405
+GRAND,Secretary of State,,DEM,Amanda Gonzalez,1280
+GRAND,Secretary of State,,DEM,Jessie Danielson,823
+GUNNISON,Secretary of State,,DEM,Amanda Gonzalez,1627
+GUNNISON,Secretary of State,,DEM,Jessie Danielson,1149
+HINSDALE,Secretary of State,,DEM,Amanda Gonzalez,62
+HINSDALE,Secretary of State,,DEM,Jessie Danielson,14
+HUERFANO,Secretary of State,,DEM,Amanda Gonzalez,818
+HUERFANO,Secretary of State,,DEM,Jessie Danielson,327
+JACKSON,Secretary of State,,DEM,Amanda Gonzalez,19
+JACKSON,Secretary of State,,DEM,Jessie Danielson,12
+JEFFERSON,Secretary of State,,DEM,Amanda Gonzalez,69566
+JEFFERSON,Secretary of State,,DEM,Jessie Danielson,36504
+KIOWA,Secretary of State,,DEM,Amanda Gonzalez,20
+KIOWA,Secretary of State,,DEM,Jessie Danielson,17
+KIT CARSON,Secretary of State,,DEM,Amanda Gonzalez,141
+KIT CARSON,Secretary of State,,DEM,Jessie Danielson,96
+LA PLATA,Secretary of State,,DEM,Amanda Gonzalez,6089
+LA PLATA,Secretary of State,,DEM,Jessie Danielson,3607
+LAKE,Secretary of State,,DEM,Amanda Gonzalez,608
+LAKE,Secretary of State,,DEM,Jessie Danielson,423
+LARIMER,Secretary of State,,DEM,Amanda Gonzalez,36559
+LARIMER,Secretary of State,,DEM,Jessie Danielson,21711
+LAS ANIMAS,Secretary of State,,DEM,Amanda Gonzalez,1369
+LAS ANIMAS,Secretary of State,,DEM,Jessie Danielson,603
+LINCOLN,Secretary of State,,DEM,Amanda Gonzalez,110
+LINCOLN,Secretary of State,,DEM,Jessie Danielson,89
+LOGAN,Secretary of State,,DEM,Amanda Gonzalez,550
+LOGAN,Secretary of State,,DEM,Jessie Danielson,450
+MESA,Secretary of State,,DEM,Amanda Gonzalez,9767
+MESA,Secretary of State,,DEM,Jessie Danielson,5825
+MINERAL,Secretary of State,,DEM,Amanda Gonzalez,85
+MINERAL,Secretary of State,,DEM,Jessie Danielson,76
+MOFFAT,Secretary of State,,DEM,Amanda Gonzalez,297
+MOFFAT,Secretary of State,,DEM,Jessie Danielson,163
+MONTEZUMA,Secretary of State,,DEM,Amanda Gonzalez,1643
+MONTEZUMA,Secretary of State,,DEM,Jessie Danielson,990
+MONTROSE,Secretary of State,,DEM,Amanda Gonzalez,2558
+MONTROSE,Secretary of State,,DEM,Jessie Danielson,1533
+MORGAN,Secretary of State,,DEM,Amanda Gonzalez,884
+MORGAN,Secretary of State,,DEM,Jessie Danielson,497
+OTERO,Secretary of State,,DEM,Amanda Gonzalez,1061
+OTERO,Secretary of State,,DEM,Jessie Danielson,451
+OURAY,Secretary of State,,DEM,Amanda Gonzalez,648
+OURAY,Secretary of State,,DEM,Jessie Danielson,497
+PARK,Secretary of State,,DEM,Amanda Gonzalez,1354
+PARK,Secretary of State,,DEM,Jessie Danielson,798
+PHILLIPS,Secretary of State,,DEM,Amanda Gonzalez,101
+PHILLIPS,Secretary of State,,DEM,Jessie Danielson,67
+PITKIN,Secretary of State,,DEM,Amanda Gonzalez,1743
+PITKIN,Secretary of State,,DEM,Jessie Danielson,1429
+PROWERS,Secretary of State,,DEM,Amanda Gonzalez,345
+PROWERS,Secretary of State,,DEM,Jessie Danielson,191
+PUEBLO,Secretary of State,,DEM,Amanda Gonzalez,14768
+PUEBLO,Secretary of State,,DEM,Jessie Danielson,6782
+RIO BLANCO,Secretary of State,,DEM,Amanda Gonzalez,79
+RIO BLANCO,Secretary of State,,DEM,Jessie Danielson,56
+RIO GRANDE,Secretary of State,,DEM,Amanda Gonzalez,805
+RIO GRANDE,Secretary of State,,DEM,Jessie Danielson,349
+ROUTT,Secretary of State,,DEM,Amanda Gonzalez,2133
+ROUTT,Secretary of State,,DEM,Jessie Danielson,1678
+SAGUACHE,Secretary of State,,DEM,Amanda Gonzalez,618
+SAGUACHE,Secretary of State,,DEM,Jessie Danielson,329
+SAN JUAN,Secretary of State,,DEM,Amanda Gonzalez,79
+SAN JUAN,Secretary of State,,DEM,Jessie Danielson,45
+SAN MIGUEL,Secretary of State,,DEM,Amanda Gonzalez,832
+SAN MIGUEL,Secretary of State,,DEM,Jessie Danielson,482
+SEDGWICK,Secretary of State,,DEM,Amanda Gonzalez,74
+SEDGWICK,Secretary of State,,DEM,Jessie Danielson,33
+SUMMIT,Secretary of State,,DEM,Amanda Gonzalez,2478
+SUMMIT,Secretary of State,,DEM,Jessie Danielson,1842
+TELLER,Secretary of State,,DEM,Amanda Gonzalez,1601
+TELLER,Secretary of State,,DEM,Jessie Danielson,939
+WASHINGTON,Secretary of State,,DEM,Amanda Gonzalez,102
+WASHINGTON,Secretary of State,,DEM,Jessie Danielson,52
+WELD,Secretary of State,,DEM,Amanda Gonzalez,18838
+WELD,Secretary of State,,DEM,Jessie Danielson,10501
+YUMA,Secretary of State,,DEM,Amanda Gonzalez,168
+YUMA,Secretary of State,,DEM,Jessie Danielson,112
+ADAMS,State Treasurer,,DEM,Jeff Bridges,51547
+ALAMOSA,State Treasurer,,DEM,Jeff Bridges,1343
+ARAPAHOE,State Treasurer,,DEM,Jeff Bridges,79972
+ARCHULETA,State Treasurer,,DEM,Jeff Bridges,1450
+BACA,State Treasurer,,DEM,Jeff Bridges,109
+BENT,State Treasurer,,DEM,Jeff Bridges,260
+BOULDER,State Treasurer,,DEM,Jeff Bridges,66302
+BROOMFIELD,State Treasurer,,DEM,Jeff Bridges,13388
+CHAFFEE,State Treasurer,,DEM,Jeff Bridges,3520
+CHEYENNE,State Treasurer,,DEM,Jeff Bridges,32
+CLEAR CREEK,State Treasurer,,DEM,Jeff Bridges,1385
+CONEJOS,State Treasurer,,DEM,Jeff Bridges,907
+COSTILLA,State Treasurer,,DEM,Jeff Bridges,697
+CROWLEY,State Treasurer,,DEM,Jeff Bridges,184
+CUSTER,State Treasurer,,DEM,Jeff Bridges,510
+DELTA,State Treasurer,,DEM,Jeff Bridges,2448
+DENVER,State Treasurer,,DEM,Jeff Bridges,123170
+DOLORES,State Treasurer,,DEM,Jeff Bridges,107
+DOUGLAS,State Treasurer,,DEM,Jeff Bridges,42563
+EAGLE,State Treasurer,,DEM,Jeff Bridges,5684
+EL PASO,State Treasurer,,DEM,Jeff Bridges,64905
+ELBERT,State Treasurer,,DEM,Jeff Bridges,1949
+FREMONT,State Treasurer,,DEM,Jeff Bridges,3429
+GARFIELD,State Treasurer,,DEM,Jeff Bridges,5009
+GILPIN,State Treasurer,,DEM,Jeff Bridges,925
+GRAND,State Treasurer,,DEM,Jeff Bridges,1857
+GUNNISON,State Treasurer,,DEM,Jeff Bridges,2344
+HINSDALE,State Treasurer,,DEM,Jeff Bridges,56
+HUERFANO,State Treasurer,,DEM,Jeff Bridges,921
+JACKSON,State Treasurer,,DEM,Jeff Bridges,28
+JEFFERSON,State Treasurer,,DEM,Jeff Bridges,88554
+KIOWA,State Treasurer,,DEM,Jeff Bridges,33
+KIT CARSON,State Treasurer,,DEM,Jeff Bridges,214
+LA PLATA,State Treasurer,,DEM,Jeff Bridges,8212
+LAKE,State Treasurer,,DEM,Jeff Bridges,850
+LARIMER,State Treasurer,,DEM,Jeff Bridges,50369
+LAS ANIMAS,State Treasurer,,DEM,Jeff Bridges,1710
+LINCOLN,State Treasurer,,DEM,Jeff Bridges,171
+LOGAN,State Treasurer,,DEM,Jeff Bridges,866
+MESA,State Treasurer,,DEM,Jeff Bridges,13509
+MINERAL,State Treasurer,,DEM,Jeff Bridges,130
+MOFFAT,State Treasurer,,DEM,Jeff Bridges,399
+MONTEZUMA,State Treasurer,,DEM,Jeff Bridges,2317
+MONTROSE,State Treasurer,,DEM,Jeff Bridges,3417
+MORGAN,State Treasurer,,DEM,Jeff Bridges,1220
+OTERO,State Treasurer,,DEM,Jeff Bridges,1288
+OURAY,State Treasurer,,DEM,Jeff Bridges,934
+PARK,State Treasurer,,DEM,Jeff Bridges,1914
+PHILLIPS,State Treasurer,,DEM,Jeff Bridges,141
+PITKIN,State Treasurer,,DEM,Jeff Bridges,2818
+PROWERS,State Treasurer,,DEM,Jeff Bridges,463
+PUEBLO,State Treasurer,,DEM,Jeff Bridges,19151
+RIO BLANCO,State Treasurer,,DEM,Jeff Bridges,118
+RIO GRANDE,State Treasurer,,DEM,Jeff Bridges,973
+ROUTT,State Treasurer,,DEM,Jeff Bridges,3344
+SAGUACHE,State Treasurer,,DEM,Jeff Bridges,761
+SAN JUAN,State Treasurer,,DEM,Jeff Bridges,91
+SAN MIGUEL,State Treasurer,,DEM,Jeff Bridges,1094
+SEDGWICK,State Treasurer,,DEM,Jeff Bridges,89
+SUMMIT,State Treasurer,,DEM,Jeff Bridges,3728
+TELLER,State Treasurer,,DEM,Jeff Bridges,2246
+WASHINGTON,State Treasurer,,DEM,Jeff Bridges,129
+WELD,State Treasurer,,DEM,Jeff Bridges,25125
+YUMA,State Treasurer,,DEM,Jeff Bridges,254
+ADAMS,Attorney General,,DEM,Jena Griswold,28181
+ADAMS,Attorney General,,DEM,David Seligman,13227
+ADAMS,Attorney General,,DEM,Michael Dougherty,10986
+ADAMS,Attorney General,,DEM,Hetal Doshi,10080
+ALAMOSA,Attorney General,,DEM,Jena Griswold,859
+ALAMOSA,Attorney General,,DEM,David Seligman,225
+ALAMOSA,Attorney General,,DEM,Michael Dougherty,349
+ALAMOSA,Attorney General,,DEM,Hetal Doshi,235
+ARAPAHOE,Attorney General,,DEM,Jena Griswold,41014
+ARAPAHOE,Attorney General,,DEM,David Seligman,18507
+ARAPAHOE,Attorney General,,DEM,Michael Dougherty,17420
+ARAPAHOE,Attorney General,,DEM,Hetal Doshi,16520
+ARCHULETA,Attorney General,,DEM,Jena Griswold,1013
+ARCHULETA,Attorney General,,DEM,David Seligman,201
+ARCHULETA,Attorney General,,DEM,Michael Dougherty,285
+ARCHULETA,Attorney General,,DEM,Hetal Doshi,257
+BACA,Attorney General,,DEM,Jena Griswold,81
+BACA,Attorney General,,DEM,David Seligman,25
+BACA,Attorney General,,DEM,Michael Dougherty,24
+BACA,Attorney General,,DEM,Hetal Doshi,16
+BENT,Attorney General,,DEM,Jena Griswold,210
+BENT,Attorney General,,DEM,David Seligman,27
+BENT,Attorney General,,DEM,Michael Dougherty,44
+BENT,Attorney General,,DEM,Hetal Doshi,37
+BOULDER,Attorney General,,DEM,Jena Griswold,25696
+BOULDER,Attorney General,,DEM,David Seligman,16329
+BOULDER,Attorney General,,DEM,Michael Dougherty,30250
+BOULDER,Attorney General,,DEM,Hetal Doshi,10715
+BROOMFIELD,Attorney General,,DEM,Jena Griswold,6636
+BROOMFIELD,Attorney General,,DEM,David Seligman,3032
+BROOMFIELD,Attorney General,,DEM,Michael Dougherty,3769
+BROOMFIELD,Attorney General,,DEM,Hetal Doshi,2740
+CHAFFEE,Attorney General,,DEM,Jena Griswold,1987
+CHAFFEE,Attorney General,,DEM,David Seligman,492
+CHAFFEE,Attorney General,,DEM,Michael Dougherty,820
+CHAFFEE,Attorney General,,DEM,Hetal Doshi,1273
+CHEYENNE,Attorney General,,DEM,Jena Griswold,18
+CHEYENNE,Attorney General,,DEM,David Seligman,4
+CHEYENNE,Attorney General,,DEM,Michael Dougherty,20
+CHEYENNE,Attorney General,,DEM,Hetal Doshi,5
+CLEAR CREEK,Attorney General,,DEM,Jena Griswold,809
+CLEAR CREEK,Attorney General,,DEM,David Seligman,226
+CLEAR CREEK,Attorney General,,DEM,Michael Dougherty,333
+CLEAR CREEK,Attorney General,,DEM,Hetal Doshi,314
+CONEJOS,Attorney General,,DEM,Jena Griswold,670
+CONEJOS,Attorney General,,DEM,David Seligman,117
+CONEJOS,Attorney General,,DEM,Michael Dougherty,188
+CONEJOS,Attorney General,,DEM,Hetal Doshi,93
+COSTILLA,Attorney General,,DEM,Jena Griswold,567
+COSTILLA,Attorney General,,DEM,David Seligman,83
+COSTILLA,Attorney General,,DEM,Michael Dougherty,150
+COSTILLA,Attorney General,,DEM,Hetal Doshi,80
+CROWLEY,Attorney General,,DEM,Jena Griswold,161
+CROWLEY,Attorney General,,DEM,David Seligman,13
+CROWLEY,Attorney General,,DEM,Michael Dougherty,19
+CROWLEY,Attorney General,,DEM,Hetal Doshi,31
+CUSTER,Attorney General,,DEM,Jena Griswold,417
+CUSTER,Attorney General,,DEM,David Seligman,48
+CUSTER,Attorney General,,DEM,Michael Dougherty,95
+CUSTER,Attorney General,,DEM,Hetal Doshi,74
+DELTA,Attorney General,,DEM,Jena Griswold,1928
+DELTA,Attorney General,,DEM,David Seligman,376
+DELTA,Attorney General,,DEM,Michael Dougherty,487
+DELTA,Attorney General,,DEM,Hetal Doshi,418
+DENVER,Attorney General,,DEM,Jena Griswold,52156
+DENVER,Attorney General,,DEM,David Seligman,45170
+DENVER,Attorney General,,DEM,Michael Dougherty,26100
+DENVER,Attorney General,,DEM,Hetal Doshi,30381
+DOLORES,Attorney General,,DEM,Jena Griswold,78
+DOLORES,Attorney General,,DEM,David Seligman,12
+DOLORES,Attorney General,,DEM,Michael Dougherty,34
+DOLORES,Attorney General,,DEM,Hetal Doshi,16
+DOUGLAS,Attorney General,,DEM,Jena Griswold,23418
+DOUGLAS,Attorney General,,DEM,David Seligman,7627
+DOUGLAS,Attorney General,,DEM,Michael Dougherty,10684
+DOUGLAS,Attorney General,,DEM,Hetal Doshi,8927
+EAGLE,Attorney General,,DEM,Jena Griswold,3608
+EAGLE,Attorney General,,DEM,David Seligman,949
+EAGLE,Attorney General,,DEM,Michael Dougherty,1368
+EAGLE,Attorney General,,DEM,Hetal Doshi,1097
+EL PASO,Attorney General,,DEM,Jena Griswold,42195
+EL PASO,Attorney General,,DEM,David Seligman,13203
+EL PASO,Attorney General,,DEM,Michael Dougherty,8742
+EL PASO,Attorney General,,DEM,Hetal Doshi,11577
+ELBERT,Attorney General,,DEM,Jena Griswold,1223
+ELBERT,Attorney General,,DEM,David Seligman,287
+ELBERT,Attorney General,,DEM,Michael Dougherty,451
+ELBERT,Attorney General,,DEM,Hetal Doshi,363
+FREMONT,Attorney General,,DEM,Jena Griswold,2734
+FREMONT,Attorney General,,DEM,David Seligman,439
+FREMONT,Attorney General,,DEM,Michael Dougherty,444
+FREMONT,Attorney General,,DEM,Hetal Doshi,443
+GARFIELD,Attorney General,,DEM,Jena Griswold,3497
+GARFIELD,Attorney General,,DEM,David Seligman,902
+GARFIELD,Attorney General,,DEM,Michael Dougherty,1048
+GARFIELD,Attorney General,,DEM,Hetal Doshi,1039
+GILPIN,Attorney General,,DEM,Jena Griswold,498
+GILPIN,Attorney General,,DEM,David Seligman,169
+GILPIN,Attorney General,,DEM,Michael Dougherty,261
+GILPIN,Attorney General,,DEM,Hetal Doshi,198
+GRAND,Attorney General,,DEM,Jena Griswold,1227
+GRAND,Attorney General,,DEM,David Seligman,289
+GRAND,Attorney General,,DEM,Michael Dougherty,450
+GRAND,Attorney General,,DEM,Hetal Doshi,340
+GUNNISON,Attorney General,,DEM,Jena Griswold,1563
+GUNNISON,Attorney General,,DEM,David Seligman,487
+GUNNISON,Attorney General,,DEM,Michael Dougherty,525
+GUNNISON,Attorney General,,DEM,Hetal Doshi,452
+HINSDALE,Attorney General,,DEM,Jena Griswold,54
+HINSDALE,Attorney General,,DEM,David Seligman,4
+HINSDALE,Attorney General,,DEM,Michael Dougherty,33
+HINSDALE,Attorney General,,DEM,Hetal Doshi,5
+HUERFANO,Attorney General,,DEM,Jena Griswold,832
+HUERFANO,Attorney General,,DEM,David Seligman,91
+HUERFANO,Attorney General,,DEM,Michael Dougherty,153
+HUERFANO,Attorney General,,DEM,Hetal Doshi,116
+JACKSON,Attorney General,,DEM,Jena Griswold,17
+JACKSON,Attorney General,,DEM,David Seligman,2
+JACKSON,Attorney General,,DEM,Michael Dougherty,8
+JACKSON,Attorney General,,DEM,Hetal Doshi,5
+JEFFERSON,Attorney General,,DEM,Jena Griswold,47459
+JEFFERSON,Attorney General,,DEM,David Seligman,21300
+JEFFERSON,Attorney General,,DEM,Michael Dougherty,22882
+JEFFERSON,Attorney General,,DEM,Hetal Doshi,19521
+KIOWA,Attorney General,,DEM,Jena Griswold,21
+KIOWA,Attorney General,,DEM,David Seligman,8
+KIOWA,Attorney General,,DEM,Michael Dougherty,11
+KIOWA,Attorney General,,DEM,Hetal Doshi,3
+KIT CARSON,Attorney General,,DEM,Jena Griswold,165
+KIT CARSON,Attorney General,,DEM,David Seligman,26
+KIT CARSON,Attorney General,,DEM,Michael Dougherty,56
+KIT CARSON,Attorney General,,DEM,Hetal Doshi,14
+LA PLATA,Attorney General,,DEM,Jena Griswold,4256
+LA PLATA,Attorney General,,DEM,David Seligman,1312
+LA PLATA,Attorney General,,DEM,Michael Dougherty,2840
+LA PLATA,Attorney General,,DEM,Hetal Doshi,1772
+LAKE,Attorney General,,DEM,Jena Griswold,559
+LAKE,Attorney General,,DEM,David Seligman,195
+LAKE,Attorney General,,DEM,Michael Dougherty,201
+LAKE,Attorney General,,DEM,Hetal Doshi,153
+LARIMER,Attorney General,,DEM,Jena Griswold,28510
+LARIMER,Attorney General,,DEM,David Seligman,12839
+LARIMER,Attorney General,,DEM,Michael Dougherty,10501
+LARIMER,Attorney General,,DEM,Hetal Doshi,10368
+LAS ANIMAS,Attorney General,,DEM,Jena Griswold,1404
+LAS ANIMAS,Attorney General,,DEM,David Seligman,160
+LAS ANIMAS,Attorney General,,DEM,Michael Dougherty,294
+LAS ANIMAS,Attorney General,,DEM,Hetal Doshi,219
+LINCOLN,Attorney General,,DEM,Jena Griswold,120
+LINCOLN,Attorney General,,DEM,David Seligman,28
+LINCOLN,Attorney General,,DEM,Michael Dougherty,34
+LINCOLN,Attorney General,,DEM,Hetal Doshi,30
+LOGAN,Attorney General,,DEM,Jena Griswold,612
+LOGAN,Attorney General,,DEM,David Seligman,119
+LOGAN,Attorney General,,DEM,Michael Dougherty,232
+LOGAN,Attorney General,,DEM,Hetal Doshi,115
+MESA,Attorney General,,DEM,Jena Griswold,10076
+MESA,Attorney General,,DEM,David Seligman,1962
+MESA,Attorney General,,DEM,Michael Dougherty,2394
+MESA,Attorney General,,DEM,Hetal Doshi,2155
+MINERAL,Attorney General,,DEM,Jena Griswold,100
+MINERAL,Attorney General,,DEM,David Seligman,27
+MINERAL,Attorney General,,DEM,Michael Dougherty,33
+MINERAL,Attorney General,,DEM,Hetal Doshi,20
+MOFFAT,Attorney General,,DEM,Jena Griswold,265
+MOFFAT,Attorney General,,DEM,David Seligman,70
+MOFFAT,Attorney General,,DEM,Michael Dougherty,92
+MOFFAT,Attorney General,,DEM,Hetal Doshi,59
+MONTEZUMA,Attorney General,,DEM,Jena Griswold,1570
+MONTEZUMA,Attorney General,,DEM,David Seligman,364
+MONTEZUMA,Attorney General,,DEM,Michael Dougherty,451
+MONTEZUMA,Attorney General,,DEM,Hetal Doshi,367
+MONTROSE,Attorney General,,DEM,Jena Griswold,2703
+MONTROSE,Attorney General,,DEM,David Seligman,532
+MONTROSE,Attorney General,,DEM,Michael Dougherty,608
+MONTROSE,Attorney General,,DEM,Hetal Doshi,480
+MORGAN,Attorney General,,DEM,Jena Griswold,765
+MORGAN,Attorney General,,DEM,David Seligman,217
+MORGAN,Attorney General,,DEM,Michael Dougherty,314
+MORGAN,Attorney General,,DEM,Hetal Doshi,173
+OTERO,Attorney General,,DEM,Jena Griswold,1077
+OTERO,Attorney General,,DEM,David Seligman,132
+OTERO,Attorney General,,DEM,Michael Dougherty,247
+OTERO,Attorney General,,DEM,Hetal Doshi,114
+OURAY,Attorney General,,DEM,Jena Griswold,661
+OURAY,Attorney General,,DEM,David Seligman,153
+OURAY,Attorney General,,DEM,Michael Dougherty,234
+OURAY,Attorney General,,DEM,Hetal Doshi,192
+PARK,Attorney General,,DEM,Jena Griswold,1236
+PARK,Attorney General,,DEM,David Seligman,278
+PARK,Attorney General,,DEM,Michael Dougherty,410
+PARK,Attorney General,,DEM,Hetal Doshi,358
+PHILLIPS,Attorney General,,DEM,Jena Griswold,95
+PHILLIPS,Attorney General,,DEM,David Seligman,34
+PHILLIPS,Attorney General,,DEM,Michael Dougherty,42
+PHILLIPS,Attorney General,,DEM,Hetal Doshi,14
+PITKIN,Attorney General,,DEM,Jena Griswold,2096
+PITKIN,Attorney General,,DEM,David Seligman,344
+PITKIN,Attorney General,,DEM,Michael Dougherty,655
+PITKIN,Attorney General,,DEM,Hetal Doshi,483
+PROWERS,Attorney General,,DEM,Jena Griswold,333
+PROWERS,Attorney General,,DEM,David Seligman,72
+PROWERS,Attorney General,,DEM,Michael Dougherty,99
+PROWERS,Attorney General,,DEM,Hetal Doshi,62
+PUEBLO,Attorney General,,DEM,Jena Griswold,14872
+PUEBLO,Attorney General,,DEM,David Seligman,2573
+PUEBLO,Attorney General,,DEM,Michael Dougherty,2898
+PUEBLO,Attorney General,,DEM,Hetal Doshi,2074
+RIO BLANCO,Attorney General,,DEM,Jena Griswold,66
+RIO BLANCO,Attorney General,,DEM,David Seligman,21
+RIO BLANCO,Attorney General,,DEM,Michael Dougherty,33
+RIO BLANCO,Attorney General,,DEM,Hetal Doshi,22
+RIO GRANDE,Attorney General,,DEM,Jena Griswold,625
+RIO GRANDE,Attorney General,,DEM,David Seligman,137
+RIO GRANDE,Attorney General,,DEM,Michael Dougherty,267
+RIO GRANDE,Attorney General,,DEM,Hetal Doshi,159
+ROUTT,Attorney General,,DEM,Jena Griswold,2299
+ROUTT,Attorney General,,DEM,David Seligman,645
+ROUTT,Attorney General,,DEM,Michael Dougherty,736
+ROUTT,Attorney General,,DEM,Hetal Doshi,654
+SAGUACHE,Attorney General,,DEM,Jena Griswold,420
+SAGUACHE,Attorney General,,DEM,David Seligman,98
+SAGUACHE,Attorney General,,DEM,Michael Dougherty,362
+SAGUACHE,Attorney General,,DEM,Hetal Doshi,109
+SAN JUAN,Attorney General,,DEM,Jena Griswold,57
+SAN JUAN,Attorney General,,DEM,David Seligman,24
+SAN JUAN,Attorney General,,DEM,Michael Dougherty,31
+SAN JUAN,Attorney General,,DEM,Hetal Doshi,24
+SAN MIGUEL,Attorney General,,DEM,Jena Griswold,792
+SAN MIGUEL,Attorney General,,DEM,David Seligman,178
+SAN MIGUEL,Attorney General,,DEM,Michael Dougherty,249
+SAN MIGUEL,Attorney General,,DEM,Hetal Doshi,233
+SEDGWICK,Attorney General,,DEM,Jena Griswold,62
+SEDGWICK,Attorney General,,DEM,David Seligman,9
+SEDGWICK,Attorney General,,DEM,Michael Dougherty,31
+SEDGWICK,Attorney General,,DEM,Hetal Doshi,18
+SUMMIT,Attorney General,,DEM,Jena Griswold,2313
+SUMMIT,Attorney General,,DEM,David Seligman,667
+SUMMIT,Attorney General,,DEM,Michael Dougherty,1123
+SUMMIT,Attorney General,,DEM,Hetal Doshi,778
+TELLER,Attorney General,,DEM,Jena Griswold,1771
+TELLER,Attorney General,,DEM,David Seligman,296
+TELLER,Attorney General,,DEM,Michael Dougherty,361
+TELLER,Attorney General,,DEM,Hetal Doshi,294
+WASHINGTON,Attorney General,,DEM,Jena Griswold,93
+WASHINGTON,Attorney General,,DEM,David Seligman,24
+WASHINGTON,Attorney General,,DEM,Michael Dougherty,31
+WASHINGTON,Attorney General,,DEM,Hetal Doshi,16
+WELD,Attorney General,,DEM,Jena Griswold,14806
+WELD,Attorney General,,DEM,David Seligman,5389
+WELD,Attorney General,,DEM,Michael Dougherty,5906
+WELD,Attorney General,,DEM,Hetal Doshi,4746
+YUMA,Attorney General,,DEM,Jena Griswold,189
+YUMA,Attorney General,,DEM,David Seligman,38
+YUMA,Attorney General,,DEM,Michael Dougherty,73
+YUMA,Attorney General,,DEM,Hetal Doshi,23
+ARAPAHOE,Director of State Board of Education,1,DEM,Lisa Escárcega,1036
+DENVER,Director of State Board of Education,1,DEM,Lisa Escárcega,123415
+JEFFERSON,Director of State Board of Education,1,DEM,Lisa Escárcega,0
+ALAMOSA,Director of State Board of Education,3,DEM,Barb Clementi,1330
+ARCHULETA,Director of State Board of Education,3,DEM,Barb Clementi,1454
+CONEJOS,Director of State Board of Education,3,DEM,Barb Clementi,889
+COSTILLA,Director of State Board of Education,3,DEM,Barb Clementi,678
+DELTA,Director of State Board of Education,3,DEM,Barb Clementi,2504
+DOLORES,Director of State Board of Education,3,DEM,Barb Clementi,100
+EAGLE,Director of State Board of Education,3,DEM,Barb Clementi,1219
+GARFIELD,Director of State Board of Education,3,DEM,Barb Clementi,4920
+GUNNISON,Director of State Board of Education,3,DEM,Barb Clementi,2324
+HINSDALE,Director of State Board of Education,3,DEM,Barb Clementi,52
+HUERFANO,Director of State Board of Education,3,DEM,Barb Clementi,926
+LA PLATA,Director of State Board of Education,3,DEM,Barb Clementi,8290
+LAS ANIMAS,Director of State Board of Education,3,DEM,Barb Clementi,1696
+MESA,Director of State Board of Education,3,DEM,Barb Clementi,13512
+MINERAL,Director of State Board of Education,3,DEM,Barb Clementi,126
+MOFFAT,Director of State Board of Education,3,DEM,Barb Clementi,382
+MONTEZUMA,Director of State Board of Education,3,DEM,Barb Clementi,2331
+MONTROSE,Director of State Board of Education,3,DEM,Barb Clementi,3341
+OTERO,Director of State Board of Education,3,DEM,Barb Clementi,1259
+OURAY,Director of State Board of Education,3,DEM,Barb Clementi,917
+PITKIN,Director of State Board of Education,3,DEM,Barb Clementi,2775
+PUEBLO,Director of State Board of Education,3,DEM,Barb Clementi,19335
+RIO BLANCO,Director of State Board of Education,3,DEM,Barb Clementi,117
+RIO GRANDE,Director of State Board of Education,3,DEM,Barb Clementi,978
+SAGUACHE,Director of State Board of Education,3,DEM,Barb Clementi,760
+SAN JUAN,Director of State Board of Education,3,DEM,Barb Clementi,92
+SAN MIGUEL,Director of State Board of Education,3,DEM,Barb Clementi,1066
+ADAMS,Director of State Board of Education,7,DEM,Karla Esser,440
+BROOMFIELD,Director of State Board of Education,7,DEM,Karla Esser,13154
+CHAFFEE,Director of State Board of Education,7,DEM,Karla Esser,3417
+CUSTER,Director of State Board of Education,7,DEM,Karla Esser,503
+EL PASO,Director of State Board of Education,7,DEM,Karla Esser,91
+FREMONT,Director of State Board of Education,7,DEM,Karla Esser,3384
+JEFFERSON,Director of State Board of Education,7,DEM,Karla Esser,78954
+LAKE,Director of State Board of Education,7,DEM,Karla Esser,813
+PARK,Director of State Board of Education,7,DEM,Karla Esser,1879
+TELLER,Director of State Board of Education,7,DEM,Karla Esser,2232
+WELD,Director of State Board of Education,7,DEM,Karla Esser,0
+BOULDER,Regent of the University of Colorado,2,DEM,Kuber Lalchandani,22619
+BOULDER,Regent of the University of Colorado,2,DEM,Edie Hooton,29692
+BOULDER,Regent of the University of Colorado,2,DEM,Murray Smith,20475
+BROOMFIELD,Regent of the University of Colorado,2,DEM,Kuber Lalchandani,0
+BROOMFIELD,Regent of the University of Colorado,2,DEM,Edie Hooton,0
+BROOMFIELD,Regent of the University of Colorado,2,DEM,Murray Smith,0
+CLEAR CREEK,Regent of the University of Colorado,2,DEM,Kuber Lalchandani,352
+CLEAR CREEK,Regent of the University of Colorado,2,DEM,Edie Hooton,540
+CLEAR CREEK,Regent of the University of Colorado,2,DEM,Murray Smith,423
+EAGLE,Regent of the University of Colorado,2,DEM,Kuber Lalchandani,994
+EAGLE,Regent of the University of Colorado,2,DEM,Edie Hooton,1668
+EAGLE,Regent of the University of Colorado,2,DEM,Murray Smith,1433
+GILPIN,Regent of the University of Colorado,2,DEM,Kuber Lalchandani,223
+GILPIN,Regent of the University of Colorado,2,DEM,Edie Hooton,361
+GILPIN,Regent of the University of Colorado,2,DEM,Murray Smith,300
+GRAND,Regent of the University of Colorado,2,DEM,Kuber Lalchandani,443
+GRAND,Regent of the University of Colorado,2,DEM,Edie Hooton,710
+GRAND,Regent of the University of Colorado,2,DEM,Murray Smith,576
+JACKSON,Regent of the University of Colorado,2,DEM,Kuber Lalchandani,3
+JACKSON,Regent of the University of Colorado,2,DEM,Edie Hooton,11
+JACKSON,Regent of the University of Colorado,2,DEM,Murray Smith,13
+JEFFERSON,Regent of the University of Colorado,2,DEM,Kuber Lalchandani,90
+JEFFERSON,Regent of the University of Colorado,2,DEM,Edie Hooton,114
+JEFFERSON,Regent of the University of Colorado,2,DEM,Murray Smith,116
+LARIMER,Regent of the University of Colorado,2,DEM,Kuber Lalchandani,9094
+LARIMER,Regent of the University of Colorado,2,DEM,Edie Hooton,13385
+LARIMER,Regent of the University of Colorado,2,DEM,Murray Smith,12221
+ROUTT,Regent of the University of Colorado,2,DEM,Kuber Lalchandani,778
+ROUTT,Regent of the University of Colorado,2,DEM,Edie Hooton,1255
+ROUTT,Regent of the University of Colorado,2,DEM,Murray Smith,948
+SUMMIT,Regent of the University of Colorado,2,DEM,Kuber Lalchandani,850
+SUMMIT,Regent of the University of Colorado,2,DEM,Edie Hooton,1417
+SUMMIT,Regent of the University of Colorado,2,DEM,Murray Smith,1177
+WELD,Regent of the University of Colorado,2,DEM,Kuber Lalchandani,993
+WELD,Regent of the University of Colorado,2,DEM,Edie Hooton,1403
+WELD,Regent of the University of Colorado,2,DEM,Murray Smith,1109
+ADAMS,Regent of the University of Colorado,6,DEM,Ilana Spiegel,4112
+ARAPAHOE,Regent of the University of Colorado,6,DEM,Ilana Spiegel,73292
+DENVER,Regent of the University of Colorado,6,DEM,Ilana Spiegel,262
+DOUGLAS,Regent of the University of Colorado,6,DEM,Ilana Spiegel,910
+JEFFERSON,Regent of the University of Colorado,6,DEM,Ilana Spiegel,8372
+ADAMS,Regent of the University of Colorado,7,DEM,Nolbert Chavez,441
+BROOMFIELD,Regent of the University of Colorado,7,DEM,Nolbert Chavez,13078
+CHAFFEE,Regent of the University of Colorado,7,DEM,Nolbert Chavez,3382
+CUSTER,Regent of the University of Colorado,7,DEM,Nolbert Chavez,502
+EL PASO,Regent of the University of Colorado,7,DEM,Nolbert Chavez,91
+FREMONT,Regent of the University of Colorado,7,DEM,Nolbert Chavez,3340
+JEFFERSON,Regent of the University of Colorado,7,DEM,Nolbert Chavez,78510
+LAKE,Regent of the University of Colorado,7,DEM,Nolbert Chavez,800
+PARK,Regent of the University of Colorado,7,DEM,Nolbert Chavez,1864
+TELLER,Regent of the University of Colorado,7,DEM,Nolbert Chavez,2203
+WELD,Regent of the University of Colorado,7,DEM,Nolbert Chavez,0
+LOGAN,State Senator,1,DEM,Jamie Jeffery,880
+MORGAN,State Senator,1,DEM,Jamie Jeffery,1219
+PHILLIPS,State Senator,1,DEM,Jamie Jeffery,143
+SEDGWICK,State Senator,1,DEM,Jamie Jeffery,91
+WASHINGTON,State Senator,1,DEM,Jamie Jeffery,132
+WELD,State Senator,1,DEM,Jamie Jeffery,6211
+YUMA,State Senator,1,DEM,Jamie Jeffery,254
+PUEBLO,State Senator,3,DEM,Aaron Gutierrez,12445
+PUEBLO,State Senator,3,DEM,Taylor Voss,9740
+CHAFFEE,State Senator,4,DEM,Justin Kurth,3429
+CUSTER,State Senator,4,DEM,Justin Kurth,506
+DOUGLAS,State Senator,4,DEM,Justin Kurth,1977
+FREMONT,State Senator,4,DEM,Justin Kurth,3415
+JEFFERSON,State Senator,4,DEM,Justin Kurth,4723
+LAKE,State Senator,4,DEM,Justin Kurth,808
+PARK,State Senator,4,DEM,Justin Kurth,1877
+TELLER,State Senator,4,DEM,Justin Kurth,2223
+CLEAR CREEK,State Senator,8,DEM,Dylan Roberts,1386
+EAGLE,State Senator,8,DEM,Dylan Roberts,4979
+GARFIELD,State Senator,8,DEM,Dylan Roberts,309
+GILPIN,State Senator,8,DEM,Dylan Roberts,920
+GRAND,State Senator,8,DEM,Dylan Roberts,1900
+JACKSON,State Senator,8,DEM,Dylan Roberts,29
+MOFFAT,State Senator,8,DEM,Dylan Roberts,406
+RIO BLANCO,State Senator,8,DEM,Dylan Roberts,120
+ROUTT,State Senator,8,DEM,Dylan Roberts,4015
+SUMMIT,State Senator,8,DEM,Dylan Roberts,3929
+EL PASO,State Senator,9,DEM,William Delano Moses II,17270
+EL PASO,State Senator,11,DEM,Tony Exum Sr,11519
+BOULDER,State Senator,15,DEM,Janice Marchman,5114
+LARIMER,State Senator,15,DEM,Janice Marchman,17838
+BOULDER,State Senator,17,DEM,Katie Wallace,28183
+BROOMFIELD,State Senator,17,DEM,Katie Wallace,0
+WELD,State Senator,17,DEM,Katie Wallace,3271
+JEFFERSON,State Senator,20,DEM,Sheila Lieder,25585
+ADAMS,State Senator,21,DEM,Adrienne Benavidez,10550
+ADAMS,State Senator,21,DEM,Alex Ryckman,5907
+ARAPAHOE,State Senator,21,DEM,Adrienne Benavidez,233
+ARAPAHOE,State Senator,21,DEM,Alex Ryckman,152
+JEFFERSON,State Senator,22,DEM,Monica Duran,23454
+ADAMS,State Senator,24,DEM,Kyle Mullica,17928
+ADAMS,State Senator,25,DEM,William Lindsleit,11854
+BROOMFIELD,State Senator,25,DEM,William Lindsleit,13317
+WELD,State Senator,25,DEM,William Lindsleit,0
+ARAPAHOE,State Senator,27,DEM,Tom Sullivan,20340
+DOUGLAS,State Senator,27,DEM,Tom Sullivan,859
+ARAPAHOE,State Senator,29,DEM,Iman M. Jodeh,18117
+DOUGLAS,State Senator,30,DEM,Kevin Leung,21989
+DENVER,State Senator,31,DEM,Matt Ball,35419
+ARAPAHOE,State Senator,32,DEM,Emily Sirota,1110
+DENVER,State Senator,32,DEM,Emily Sirota,24591
+JEFFERSON,State Senator,32,DEM,Emily Sirota,0
+DENVER,State Senator,34,DEM,Chela Garcia Irlando,22015
+DENVER,State Senator,34,DEM,Andrés Carrera,9754
+BACA,State Senator,35,DEM,Duane L. Gurule,106
+BENT,State Senator,35,DEM,Duane L. Gurule,254
+CHEYENNE,State Senator,35,DEM,Duane L. Gurule,31
+CROWLEY,State Senator,35,DEM,Duane L. Gurule,193
+EL PASO,State Senator,35,DEM,Duane L. Gurule,4373
+ELBERT,State Senator,35,DEM,Duane L. Gurule,1936
+HUERFANO,State Senator,35,DEM,Duane L. Gurule,934
+KIOWA,State Senator,35,DEM,Duane L. Gurule,34
+KIT CARSON,State Senator,35,DEM,Duane L. Gurule,202
+LAS ANIMAS,State Senator,35,DEM,Duane L. Gurule,1714
+LINCOLN,State Senator,35,DEM,Duane L. Gurule,173
+OTERO,State Senator,35,DEM,Duane L. Gurule,1254
+PROWERS,State Senator,35,DEM,Duane L. Gurule,465
+DENVER,State Representative,1,DEM,Javier Mabrey,10908
+JEFFERSON,State Representative,1,DEM,Javier Mabrey,0
+DENVER,State Representative,2,DEM,Scott Baldermann,18916
+ARAPAHOE,State Representative,3,DEM,Gena Ozols,6656
+DENVER,State Representative,3,DEM,Gena Ozols,5119
+DENVER,State Representative,4,DEM,Cecelia Espenoza,15021
+DENVER,State Representative,5,DEM,Justine Sandoval,11994
+DENVER,State Representative,5,DEM,Sterling Thomas Simms,3623
+DENVER,State Representative,6,DEM,Sean Camacho,10123
+DENVER,State Representative,6,DEM,Iris Halpern,12420
+DENVER,State Representative,7,DEM,Jennifer Bacon,9888
+DENVER,State Representative,8,DEM,Lindsay Gilchrist,20449
+ARAPAHOE,State Representative,9,DEM,Monica VanBuskirk,1933
+ARAPAHOE,State Representative,9,DEM,Neal Walia,1523
+DENVER,State Representative,9,DEM,Monica VanBuskirk,7639
+DENVER,State Representative,9,DEM,Neal Walia,5147
+BOULDER,State Representative,10,DEM,Junie Joseph,14385
+BOULDER,State Representative,11,DEM,Karen McCormick,15480
+BOULDER,State Representative,12,DEM,Kyle Brown,19596
+BROOMFIELD,State Representative,12,DEM,Kyle Brown,0
+CHAFFEE,State Representative,13,DEM,Chris Floyd,2197
+CHAFFEE,State Representative,13,DEM,Consuelo Redhorse,1863
+GRAND,State Representative,13,DEM,Chris Floyd,993
+GRAND,State Representative,13,DEM,Consuelo Redhorse,1122
+JACKSON,State Representative,13,DEM,Chris Floyd,19
+JACKSON,State Representative,13,DEM,Consuelo Redhorse,13
+LAKE,State Representative,13,DEM,Chris Floyd,550
+LAKE,State Representative,13,DEM,Consuelo Redhorse,603
+PARK,State Representative,13,DEM,Chris Floyd,934
+PARK,State Representative,13,DEM,Consuelo Redhorse,1258
+SUMMIT,State Representative,13,DEM,Chris Floyd,2353
+SUMMIT,State Representative,13,DEM,Consuelo Redhorse,2358
+EL PASO,State Representative,14,DEM,Sarah Emery,10317
+EL PASO,State Representative,15,DEM,Jeff K. Livingston,7481
+EL PASO,State Representative,16,DEM,Steph Vigil,9541
+EL PASO,State Representative,17,DEM,Chauncy Johnson,2232
+EL PASO,State Representative,17,DEM,Regina English,3701
+EL PASO,State Representative,18,DEM,Amy T Paschal,10951
+TELLER,State Representative,18,DEM,Amy T Paschal,3
+BOULDER,State Representative,19,DEM,Anil Pesaramelli,2631
+BOULDER,State Representative,19,DEM,Jillaire McMillan,3271
+BOULDER,State Representative,19,DEM,Colton Jonjak Phahn,1100
+WELD,State Representative,19,DEM,Anil Pesaramelli,2782
+WELD,State Representative,19,DEM,Jillaire McMillan,4443
+WELD,State Representative,19,DEM,Colton Jonjak Phahn,1565
+EL PASO,State Representative,21,DEM,Michelle Tweed,4735
+EL PASO,State Representative,22,DEM,Michael Pierson,8003
+JEFFERSON,State Representative,23,DEM,Alexis Hoffkling,13881
+ADAMS,State Representative,24,DEM,Lisa Feret,431
+JEFFERSON,State Representative,24,DEM,Lisa Feret,13819
+JEFFERSON,State Representative,25,DEM,Tammy Story,14252
+EAGLE,State Representative,26,DEM,Meghan Lukens,4946
+MOFFAT,State Representative,26,DEM,Meghan Lukens,431
+RIO BLANCO,State Representative,26,DEM,Meghan Lukens,125
+ROUTT,State Representative,26,DEM,Meghan Lukens,4100
+JEFFERSON,State Representative,27,DEM,Danielle Varda,14042
+JEFFERSON,State Representative,28,DEM,David Rein,11962
+ADAMS,State Representative,29,DEM,Lori Goldstein,7034
+JEFFERSON,State Representative,29,DEM,Lori Goldstein,6514
+JEFFERSON,State Representative,30,DEM,Rebekah Stewart,11739
+ADAMS,State Representative,31,DEM,"Jacqueline ""Jacque"" Phillips",4089
+ADAMS,State Representative,31,DEM,Gabriel Cervantes,4892
+ADAMS,State Representative,32,DEM,Chris VanDijk,7380
+ADAMS,State Representative,33,DEM,Heidi Henkel,1461
+ADAMS,State Representative,33,DEM,Kenny Van Nguyen,1395
+BROOMFIELD,State Representative,33,DEM,Heidi Henkel,7195
+BROOMFIELD,State Representative,33,DEM,Kenny Van Nguyen,8866
+WELD,State Representative,33,DEM,Heidi Henkel,0
+WELD,State Representative,33,DEM,Kenny Van Nguyen,0
+ADAMS,State Representative,34,DEM,Jenny Willford,10454
+ADAMS,State Representative,35,DEM,Lorena Garcia,7986
+JEFFERSON,State Representative,35,DEM,Lorena Garcia,596
+ADAMS,State Representative,36,DEM,Michael Carter,4160
+ARAPAHOE,State Representative,36,DEM,Michael Carter,4318
+ARAPAHOE,State Representative,37,DEM,Chad Clifford,11980
+ARAPAHOE,State Representative,38,DEM,Gretchen Rydin,12497
+JEFFERSON,State Representative,38,DEM,Gretchen Rydin,1685
+DOUGLAS,State Representative,39,DEM,Christian Schilder,10758
+ARAPAHOE,State Representative,40,DEM,Naquetta Ricks,10869
+ARAPAHOE,State Representative,41,DEM,Jamie Jackson,6549
+ARAPAHOE,State Representative,41,DEM,Anne Keke,5479
+ARAPAHOE,State Representative,42,DEM,Mandy Lindsay,2422
+ARAPAHOE,State Representative,42,DEM,Sarah Amelia Woodson,4825
+DOUGLAS,State Representative,43,DEM,"Robert ""Bob"" Marshall",12041
+DOUGLAS,State Representative,44,DEM,Richard Bowness,8523
+DOUGLAS,State Representative,45,DEM,Michael Clarkson,9682
+PUEBLO,State Representative,46,DEM,Tisha Mauro,11521
+BACA,State Representative,47,DEM,Vic Meyers,111
+BENT,State Representative,47,DEM,Vic Meyers,266
+CROWLEY,State Representative,47,DEM,Vic Meyers,191
+HUERFANO,State Representative,47,DEM,Vic Meyers,836
+KIOWA,State Representative,47,DEM,Vic Meyers,34
+LAS ANIMAS,State Representative,47,DEM,Vic Meyers,1704
+OTERO,State Representative,47,DEM,Vic Meyers,1223
+PROWERS,State Representative,47,DEM,Vic Meyers,467
+PUEBLO,State Representative,47,DEM,Vic Meyers,2281
+ADAMS,State Representative,48,DEM,Dez Packard,3999
+WELD,State Representative,48,DEM,Dez Packard,2343
+BOULDER,State Representative,49,DEM,Lesley Smith,10092
+CLEAR CREEK,State Representative,49,DEM,Lesley Smith,1377
+GILPIN,State Representative,49,DEM,Lesley Smith,913
+LARIMER,State Representative,49,DEM,Lesley Smith,4484
+WELD,State Representative,50,DEM,Tommy Butler,4316
+LARIMER,State Representative,51,DEM,Jacki Marsh,11691
+LARIMER,State Representative,52,DEM,Yara Zokaie,14271
+LARIMER,State Representative,53,DEM,Andy Bossenecker,12243
+DELTA,State Representative,54,DEM,Mallory Martin,1451
+MESA,State Representative,54,DEM,Mallory Martin,5034
+MESA,State Representative,55,DEM,Brittini Packard,8418
+EAGLE,State Representative,57,DEM,Elizabeth Velasco,1245
+GARFIELD,State Representative,57,DEM,Elizabeth Velasco,5411
+PITKIN,State Representative,57,DEM,Elizabeth Velasco,2948
+DELTA,State Representative,58,DEM,Susannah Smith,1023
+DOLORES,State Representative,58,DEM,Susannah Smith,99
+GUNNISON,State Representative,58,DEM,Susannah Smith,2282
+HINSDALE,State Representative,58,DEM,Susannah Smith,48
+MONTEZUMA,State Representative,58,DEM,Susannah Smith,463
+MONTROSE,State Representative,58,DEM,Susannah Smith,3277
+OURAY,State Representative,58,DEM,Susannah Smith,901
+SAN MIGUEL,State Representative,58,DEM,Susannah Smith,1053
+ARCHULETA,State Representative,59,DEM,Katie Stewart,1475
+LA PLATA,State Representative,59,DEM,Katie Stewart,8627
+MONTEZUMA,State Representative,59,DEM,Katie Stewart,1925
+SAN JUAN,State Representative,59,DEM,Katie Stewart,96
+CHAFFEE,State Representative,60,DEM,Kathryn Kester Green,301
+CUSTER,State Representative,60,DEM,Kathryn Kester Green,505
+FREMONT,State Representative,60,DEM,Kathryn Kester Green,3383
+PUEBLO,State Representative,60,DEM,Kathryn Kester Green,1337
+TELLER,State Representative,60,DEM,Kathryn Kester Green,2213
+ARAPAHOE,State Representative,61,DEM,Eliza Hamrick,10768
+DOUGLAS,State Representative,61,DEM,Eliza Hamrick,940
+ALAMOSA,State Representative,62,DEM,Matthew Martinez,1516
+CONEJOS,State Representative,62,DEM,Matthew Martinez,1007
+COSTILLA,State Representative,62,DEM,Matthew Martinez,774
+HUERFANO,State Representative,62,DEM,Matthew Martinez,97
+MINERAL,State Representative,62,DEM,Matthew Martinez,131
+PUEBLO,State Representative,62,DEM,Matthew Martinez,4426
+RIO GRANDE,State Representative,62,DEM,Matthew Martinez,1060
+SAGUACHE,State Representative,62,DEM,Matthew Martinez,821
+LARIMER,State Representative,64,DEM,Maureen (Mo) Dower,2005
+WELD,State Representative,64,DEM,Maureen (Mo) Dower,6457
+ADAMS,U.S. Senate,,REP,Mark Baisley,24261
+ALAMOSA,U.S. Senate,,REP,Mark Baisley,1309
+ARAPAHOE,U.S. Senate,,REP,Mark Baisley,36374
+ARCHULETA,U.S. Senate,,REP,Mark Baisley,2072
+BACA,U.S. Senate,,REP,Mark Baisley,807
+BENT,U.S. Senate,,REP,Mark Baisley,585
+BOULDER,U.S. Senate,,REP,Mark Baisley,11461
+BROOMFIELD,U.S. Senate,,REP,Mark Baisley,5255
+CHAFFEE,U.S. Senate,,REP,Mark Baisley,2178
+CHEYENNE,U.S. Senate,,REP,Mark Baisley,425
+CLEAR CREEK,U.S. Senate,,REP,Mark Baisley,719
+CONEJOS,U.S. Senate,,REP,Mark Baisley,990
+COSTILLA,U.S. Senate,,REP,Mark Baisley,271
+CROWLEY,U.S. Senate,,REP,Mark Baisley,525
+CUSTER,U.S. Senate,,REP,Mark Baisley,1055
+DELTA,U.S. Senate,,REP,Mark Baisley,5276
+DENVER,U.S. Senate,,REP,Mark Baisley,15239
+DOLORES,U.S. Senate,,REP,Mark Baisley,371
+DOUGLAS,U.S. Senate,,REP,Mark Baisley,45616
+EAGLE,U.S. Senate,,REP,Mark Baisley,2292
+EL PASO,U.S. Senate,,REP,Mark Baisley,76577
+ELBERT,U.S. Senate,,REP,Mark Baisley,6299
+FREMONT,U.S. Senate,,REP,Mark Baisley,7534
+GARFIELD,U.S. Senate,,REP,Mark Baisley,5780
+GILPIN,U.S. Senate,,REP,Mark Baisley,586
+GRAND,U.S. Senate,,REP,Mark Baisley,1692
+GUNNISON,U.S. Senate,,REP,Mark Baisley,953
+HINSDALE,U.S. Senate,,REP,Mark Baisley,137
+HUERFANO,U.S. Senate,,REP,Mark Baisley,860
+JACKSON,U.S. Senate,,REP,Mark Baisley,308
+JEFFERSON,U.S. Senate,,REP,Mark Baisley,43676
+KIOWA,U.S. Senate,,REP,Mark Baisley,307
+KIT CARSON,U.S. Senate,,REP,Mark Baisley,1257
+LA PLATA,U.S. Senate,,REP,Mark Baisley,4473
+LAKE,U.S. Senate,,REP,Mark Baisley,396
+LARIMER,U.S. Senate,,REP,Mark Baisley,27559
+LAS ANIMAS,U.S. Senate,,REP,Mark Baisley,1435
+LINCOLN,U.S. Senate,,REP,Mark Baisley,826
+LOGAN,U.S. Senate,,REP,Mark Baisley,3052
+MESA,U.S. Senate,,REP,Mark Baisley,21586
+MINERAL,U.S. Senate,,REP,Mark Baisley,137
+MOFFAT,U.S. Senate,,REP,Mark Baisley,1904
+MONTEZUMA,U.S. Senate,,REP,Mark Baisley,3673
+MONTROSE,U.S. Senate,,REP,Mark Baisley,6319
+MORGAN,U.S. Senate,,REP,Mark Baisley,3047
+OTERO,U.S. Senate,,REP,Mark Baisley,2083
+OURAY,U.S. Senate,,REP,Mark Baisley,566
+PARK,U.S. Senate,,REP,Mark Baisley,2834
+PHILLIPS,U.S. Senate,,REP,Mark Baisley,857
+PITKIN,U.S. Senate,,REP,Mark Baisley,667
+PROWERS,U.S. Senate,,REP,Mark Baisley,1275
+PUEBLO,U.S. Senate,,REP,Mark Baisley,13275
+RIO BLANCO,U.S. Senate,,REP,Mark Baisley,1461
+RIO GRANDE,U.S. Senate,,REP,Mark Baisley,1552
+ROUTT,U.S. Senate,,REP,Mark Baisley,1270
+SAGUACHE,U.S. Senate,,REP,Mark Baisley,461
+SAN JUAN,U.S. Senate,,REP,Mark Baisley,73
+SAN MIGUEL,U.S. Senate,,REP,Mark Baisley,249
+SEDGWICK,U.S. Senate,,REP,Mark Baisley,482
+SUMMIT,U.S. Senate,,REP,Mark Baisley,1199
+TELLER,U.S. Senate,,REP,Mark Baisley,4392
+WASHINGTON,U.S. Senate,,REP,Mark Baisley,1205
+WELD,U.S. Senate,,REP,Mark Baisley,32053
+YUMA,U.S. Senate,,REP,Mark Baisley,1942
+ARAPAHOE,U.S. House,1,REP,Christy Peterson,160
+DENVER,U.S. House,1,REP,Christy Peterson,14849
+JEFFERSON,U.S. House,1,REP,Christy Peterson,1
+BOULDER,U.S. House,2,REP,Kelley Anne Dennison,7475
+BOULDER,U.S. House,2,REP,Christina Blunt (Ducommun),4754
+BROOMFIELD,U.S. House,2,REP,Kelley Anne Dennison,0
+BROOMFIELD,U.S. House,2,REP,Christina Blunt (Ducommun),0
+CLEAR CREEK,U.S. House,2,REP,Kelley Anne Dennison,450
+CLEAR CREEK,U.S. House,2,REP,Christina Blunt (Ducommun),285
+EAGLE,U.S. House,2,REP,Kelley Anne Dennison,1088
+EAGLE,U.S. House,2,REP,Christina Blunt (Ducommun),888
+GILPIN,U.S. House,2,REP,Kelley Anne Dennison,349
+GILPIN,U.S. House,2,REP,Christina Blunt (Ducommun),241
+GRAND,U.S. House,2,REP,Kelley Anne Dennison,1006
+GRAND,U.S. House,2,REP,Christina Blunt (Ducommun),801
+JACKSON,U.S. House,2,REP,Kelley Anne Dennison,200
+JACKSON,U.S. House,2,REP,Christina Blunt (Ducommun),107
+JEFFERSON,U.S. House,2,REP,Kelley Anne Dennison,97
+JEFFERSON,U.S. House,2,REP,Christina Blunt (Ducommun),76
+LARIMER,U.S. House,2,REP,Kelley Anne Dennison,8385
+LARIMER,U.S. House,2,REP,Christina Blunt (Ducommun),6586
+ROUTT,U.S. House,2,REP,Kelley Anne Dennison,872
+ROUTT,U.S. House,2,REP,Christina Blunt (Ducommun),527
+SUMMIT,U.S. House,2,REP,Kelley Anne Dennison,670
+SUMMIT,U.S. House,2,REP,Christina Blunt (Ducommun),559
+WELD,U.S. House,2,REP,Kelley Anne Dennison,992
+WELD,U.S. House,2,REP,Christina Blunt (Ducommun),842
+ALAMOSA,U.S. House,3,REP,Ron Hanks,584
+ALAMOSA,U.S. House,3,REP,Jeff Hurd,1010
+ARCHULETA,U.S. House,3,REP,Ron Hanks,1056
+ARCHULETA,U.S. House,3,REP,Jeff Hurd,1466
+CONEJOS,U.S. House,3,REP,Ron Hanks,449
+CONEJOS,U.S. House,3,REP,Jeff Hurd,754
+COSTILLA,U.S. House,3,REP,Ron Hanks,120
+COSTILLA,U.S. House,3,REP,Jeff Hurd,199
+DELTA,U.S. House,3,REP,Ron Hanks,2035
+DELTA,U.S. House,3,REP,Jeff Hurd,4227
+DOLORES,U.S. House,3,REP,Ron Hanks,234
+DOLORES,U.S. House,3,REP,Jeff Hurd,252
+EAGLE,U.S. House,3,REP,Ron Hanks,118
+EAGLE,U.S. House,3,REP,Jeff Hurd,359
+GARFIELD,U.S. House,3,REP,Ron Hanks,2301
+GARFIELD,U.S. House,3,REP,Jeff Hurd,4783
+GUNNISON,U.S. House,3,REP,Ron Hanks,446
+GUNNISON,U.S. House,3,REP,Jeff Hurd,807
+HINSDALE,U.S. House,3,REP,Ron Hanks,81
+HINSDALE,U.S. House,3,REP,Jeff Hurd,106
+HUERFANO,U.S. House,3,REP,Ron Hanks,335
+HUERFANO,U.S. House,3,REP,Jeff Hurd,657
+LA PLATA,U.S. House,3,REP,Ron Hanks,1825
+LA PLATA,U.S. House,3,REP,Jeff Hurd,3564
+LAS ANIMAS,U.S. House,3,REP,Ron Hanks,523
+LAS ANIMAS,U.S. House,3,REP,Jeff Hurd,1117
+MESA,U.S. House,3,REP,Ron Hanks,8399
+MESA,U.S. House,3,REP,Jeff Hurd,17848
+MINERAL,U.S. House,3,REP,Ron Hanks,68
+MINERAL,U.S. House,3,REP,Jeff Hurd,112
+MOFFAT,U.S. House,3,REP,Ron Hanks,927
+MOFFAT,U.S. House,3,REP,Jeff Hurd,1441
+MONTEZUMA,U.S. House,3,REP,Ron Hanks,1745
+MONTEZUMA,U.S. House,3,REP,Jeff Hurd,2808
+MONTROSE,U.S. House,3,REP,Ron Hanks,3047
+MONTROSE,U.S. House,3,REP,Jeff Hurd,4602
+OTERO,U.S. House,3,REP,Ron Hanks,667
+OTERO,U.S. House,3,REP,Jeff Hurd,1741
+OURAY,U.S. House,3,REP,Ron Hanks,283
+OURAY,U.S. House,3,REP,Jeff Hurd,428
+PITKIN,U.S. House,3,REP,Ron Hanks,232
+PITKIN,U.S. House,3,REP,Jeff Hurd,586
+PUEBLO,U.S. House,3,REP,Ron Hanks,4660
+PUEBLO,U.S. House,3,REP,Jeff Hurd,10482
+RIO BLANCO,U.S. House,3,REP,Ron Hanks,578
+RIO BLANCO,U.S. House,3,REP,Jeff Hurd,1335
+RIO GRANDE,U.S. House,3,REP,Ron Hanks,636
+RIO GRANDE,U.S. House,3,REP,Jeff Hurd,1194
+SAGUACHE,U.S. House,3,REP,Ron Hanks,209
+SAGUACHE,U.S. House,3,REP,Jeff Hurd,360
+SAN JUAN,U.S. House,3,REP,Ron Hanks,36
+SAN JUAN,U.S. House,3,REP,Jeff Hurd,67
+SAN MIGUEL,U.S. House,3,REP,Ron Hanks,121
+SAN MIGUEL,U.S. House,3,REP,Jeff Hurd,231
+ADAMS,U.S. House,4,REP,Lauren Boebert,1878
+ARAPAHOE,U.S. House,4,REP,Lauren Boebert,2919
+BACA,U.S. House,4,REP,Lauren Boebert,829
+BENT,U.S. House,4,REP,Lauren Boebert,622
+CHEYENNE,U.S. House,4,REP,Lauren Boebert,435
+CROWLEY,U.S. House,4,REP,Lauren Boebert,539
+DOUGLAS,U.S. House,4,REP,Lauren Boebert,42055
+EL PASO,U.S. House,4,REP,Lauren Boebert,1766
+ELBERT,U.S. House,4,REP,Lauren Boebert,6266
+KIOWA,U.S. House,4,REP,Lauren Boebert,341
+KIT CARSON,U.S. House,4,REP,Lauren Boebert,1304
+LARIMER,U.S. House,4,REP,Lauren Boebert,11572
+LINCOLN,U.S. House,4,REP,Lauren Boebert,860
+LOGAN,U.S. House,4,REP,Lauren Boebert,3010
+MORGAN,U.S. House,4,REP,Lauren Boebert,3102
+PHILLIPS,U.S. House,4,REP,Lauren Boebert,851
+PROWERS,U.S. House,4,REP,Lauren Boebert,1346
+SEDGWICK,U.S. House,4,REP,Lauren Boebert,507
+WASHINGTON,U.S. House,4,REP,Lauren Boebert,1224
+WELD,U.S. House,4,REP,Lauren Boebert,9243
+YUMA,U.S. House,4,REP,Lauren Boebert,1982
+EL PASO,U.S. House,5,REP,Jeff Crank,76547
+ADAMS,U.S. House,6,REP,Jason Clark,905
+ARAPAHOE,U.S. House,6,REP,Jason Clark,30670
+DENVER,U.S. House,6,REP,Jason Clark,46
+DOUGLAS,U.S. House,6,REP,Jason Clark,773
+JEFFERSON,U.S. House,6,REP,Jason Clark,6043
+ADAMS,U.S. House,7,REP,Tim Bennett,105
+BROOMFIELD,U.S. House,7,REP,Tim Bennett,5084
+CHAFFEE,U.S. House,7,REP,Tim Bennett,2089
+CUSTER,U.S. House,7,REP,Tim Bennett,1029
+EL PASO,U.S. House,7,REP,Tim Bennett,63
+FREMONT,U.S. House,7,REP,Tim Bennett,7291
+JEFFERSON,U.S. House,7,REP,Tim Bennett,35875
+LAKE,U.S. House,7,REP,Tim Bennett,383
+PARK,U.S. House,7,REP,Tim Bennett,2689
+TELLER,U.S. House,7,REP,Tim Bennett,4198
+WELD,U.S. House,7,REP,Tim Bennett,0
+ADAMS,U.S. House,8,REP,Gabe Evans,23839
+LARIMER,U.S. House,8,REP,Gabe Evans,2222
+WELD,U.S. House,8,REP,Gabe Evans,21951
+ADAMS,Governor,,REP,Scott Bottoms,5856
+ADAMS,Governor,,REP,Victor Marx,12545
+ADAMS,Governor,,REP,Barb Kirkmeyer,12092
+ADAMS,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",7
+ALAMOSA,Governor,,REP,Scott Bottoms,374
+ALAMOSA,Governor,,REP,Victor Marx,568
+ALAMOSA,Governor,,REP,Barb Kirkmeyer,675
+ALAMOSA,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+ARAPAHOE,Governor,,REP,Scott Bottoms,8272
+ARAPAHOE,Governor,,REP,Victor Marx,14385
+ARAPAHOE,Governor,,REP,Barb Kirkmeyer,18981
+ARAPAHOE,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",10
+ARCHULETA,Governor,,REP,Scott Bottoms,821
+ARCHULETA,Governor,,REP,Victor Marx,982
+ARCHULETA,Governor,,REP,Barb Kirkmeyer,714
+ARCHULETA,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+BACA,Governor,,REP,Scott Bottoms,202
+BACA,Governor,,REP,Victor Marx,506
+BACA,Governor,,REP,Barb Kirkmeyer,279
+BACA,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+BENT,Governor,,REP,Scott Bottoms,118
+BENT,Governor,,REP,Victor Marx,417
+BENT,Governor,,REP,Barb Kirkmeyer,174
+BENT,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+BOULDER,Governor,,REP,Scott Bottoms,2730
+BOULDER,Governor,,REP,Victor Marx,4435
+BOULDER,Governor,,REP,Barb Kirkmeyer,6848
+BOULDER,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",3
+BROOMFIELD,Governor,,REP,Scott Bottoms,1020
+BROOMFIELD,Governor,,REP,Victor Marx,2040
+BROOMFIELD,Governor,,REP,Barb Kirkmeyer,3067
+BROOMFIELD,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",4
+CHAFFEE,Governor,,REP,Scott Bottoms,454
+CHAFFEE,Governor,,REP,Victor Marx,1324
+CHAFFEE,Governor,,REP,Barb Kirkmeyer,879
+CHAFFEE,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+CHEYENNE,Governor,,REP,Scott Bottoms,71
+CHEYENNE,Governor,,REP,Victor Marx,195
+CHEYENNE,Governor,,REP,Barb Kirkmeyer,268
+CHEYENNE,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+CLEAR CREEK,Governor,,REP,Scott Bottoms,202
+CLEAR CREEK,Governor,,REP,Victor Marx,271
+CLEAR CREEK,Governor,,REP,Barb Kirkmeyer,356
+CLEAR CREEK,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+CONEJOS,Governor,,REP,Scott Bottoms,392
+CONEJOS,Governor,,REP,Victor Marx,351
+CONEJOS,Governor,,REP,Barb Kirkmeyer,487
+CONEJOS,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+COSTILLA,Governor,,REP,Scott Bottoms,102
+COSTILLA,Governor,,REP,Victor Marx,122
+COSTILLA,Governor,,REP,Barb Kirkmeyer,84
+COSTILLA,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",1
+CROWLEY,Governor,,REP,Scott Bottoms,125
+CROWLEY,Governor,,REP,Victor Marx,353
+CROWLEY,Governor,,REP,Barb Kirkmeyer,149
+CROWLEY,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+CUSTER,Governor,,REP,Scott Bottoms,473
+CUSTER,Governor,,REP,Victor Marx,509
+CUSTER,Governor,,REP,Barb Kirkmeyer,298
+CUSTER,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",1
+DELTA,Governor,,REP,Scott Bottoms,1224
+DELTA,Governor,,REP,Victor Marx,3366
+DELTA,Governor,,REP,Barb Kirkmeyer,1690
+DELTA,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",1
+DENVER,Governor,,REP,Scott Bottoms,3323
+DENVER,Governor,,REP,Victor Marx,5474
+DENVER,Governor,,REP,Barb Kirkmeyer,9085
+DENVER,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",5
+DOLORES,Governor,,REP,Scott Bottoms,149
+DOLORES,Governor,,REP,Victor Marx,217
+DOLORES,Governor,,REP,Barb Kirkmeyer,110
+DOLORES,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+DOUGLAS,Governor,,REP,Scott Bottoms,9999
+DOUGLAS,Governor,,REP,Victor Marx,19315
+DOUGLAS,Governor,,REP,Barb Kirkmeyer,21950
+DOUGLAS,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",1
+EAGLE,Governor,,REP,Scott Bottoms,600
+EAGLE,Governor,,REP,Victor Marx,1089
+EAGLE,Governor,,REP,Barb Kirkmeyer,1056
+EAGLE,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+EL PASO,Governor,,REP,Scott Bottoms,20626
+EL PASO,Governor,,REP,Victor Marx,36268
+EL PASO,Governor,,REP,Barb Kirkmeyer,28807
+EL PASO,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",14
+ELBERT,Governor,,REP,Scott Bottoms,1517
+ELBERT,Governor,,REP,Victor Marx,3248
+ELBERT,Governor,,REP,Barb Kirkmeyer,2497
+ELBERT,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+FREMONT,Governor,,REP,Scott Bottoms,2169
+FREMONT,Governor,,REP,Victor Marx,4462
+FREMONT,Governor,,REP,Barb Kirkmeyer,2090
+FREMONT,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",1
+GARFIELD,Governor,,REP,Scott Bottoms,1669
+GARFIELD,Governor,,REP,Victor Marx,2965
+GARFIELD,Governor,,REP,Barb Kirkmeyer,2440
+GARFIELD,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",2
+GILPIN,Governor,,REP,Scott Bottoms,130
+GILPIN,Governor,,REP,Victor Marx,278
+GILPIN,Governor,,REP,Barb Kirkmeyer,263
+GILPIN,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",2
+GRAND,Governor,,REP,Scott Bottoms,374
+GRAND,Governor,,REP,Victor Marx,1046
+GRAND,Governor,,REP,Barb Kirkmeyer,735
+GRAND,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",1
+GUNNISON,Governor,,REP,Scott Bottoms,284
+GUNNISON,Governor,,REP,Victor Marx,525
+GUNNISON,Governor,,REP,Barb Kirkmeyer,448
+GUNNISON,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+HINSDALE,Governor,,REP,Scott Bottoms,46
+HINSDALE,Governor,,REP,Victor Marx,60
+HINSDALE,Governor,,REP,Barb Kirkmeyer,71
+HINSDALE,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+HUERFANO,Governor,,REP,Scott Bottoms,235
+HUERFANO,Governor,,REP,Victor Marx,506
+HUERFANO,Governor,,REP,Barb Kirkmeyer,274
+HUERFANO,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+JACKSON,Governor,,REP,Scott Bottoms,63
+JACKSON,Governor,,REP,Victor Marx,208
+JACKSON,Governor,,REP,Barb Kirkmeyer,174
+JACKSON,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+JEFFERSON,Governor,,REP,Scott Bottoms,9722
+JEFFERSON,Governor,,REP,Victor Marx,18975
+JEFFERSON,Governor,,REP,Barb Kirkmeyer,24124
+JEFFERSON,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",14
+KIOWA,Governor,,REP,Scott Bottoms,101
+KIOWA,Governor,,REP,Victor Marx,161
+KIOWA,Governor,,REP,Barb Kirkmeyer,164
+KIOWA,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+KIT CARSON,Governor,,REP,Scott Bottoms,456
+KIT CARSON,Governor,,REP,Victor Marx,442
+KIT CARSON,Governor,,REP,Barb Kirkmeyer,621
+KIT CARSON,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+LA PLATA,Governor,,REP,Scott Bottoms,1331
+LA PLATA,Governor,,REP,Victor Marx,2094
+LA PLATA,Governor,,REP,Barb Kirkmeyer,1892
+LA PLATA,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",1
+LAKE,Governor,,REP,Scott Bottoms,109
+LAKE,Governor,,REP,Victor Marx,222
+LAKE,Governor,,REP,Barb Kirkmeyer,152
+LAKE,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+LARIMER,Governor,,REP,Scott Bottoms,6659
+LARIMER,Governor,,REP,Victor Marx,11881
+LARIMER,Governor,,REP,Barb Kirkmeyer,15153
+LARIMER,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",8
+LAS ANIMAS,Governor,,REP,Scott Bottoms,311
+LAS ANIMAS,Governor,,REP,Victor Marx,923
+LAS ANIMAS,Governor,,REP,Barb Kirkmeyer,421
+LAS ANIMAS,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+LINCOLN,Governor,,REP,Scott Bottoms,172
+LINCOLN,Governor,,REP,Victor Marx,472
+LINCOLN,Governor,,REP,Barb Kirkmeyer,377
+LINCOLN,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+LOGAN,Governor,,REP,Scott Bottoms,618
+LOGAN,Governor,,REP,Victor Marx,1505
+LOGAN,Governor,,REP,Barb Kirkmeyer,1498
+LOGAN,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",4
+MESA,Governor,,REP,Scott Bottoms,5765
+MESA,Governor,,REP,Victor Marx,12416
+MESA,Governor,,REP,Barb Kirkmeyer,7658
+MESA,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",3
+MINERAL,Governor,,REP,Scott Bottoms,40
+MINERAL,Governor,,REP,Victor Marx,76
+MINERAL,Governor,,REP,Barb Kirkmeyer,73
+MINERAL,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+MOFFAT,Governor,,REP,Scott Bottoms,672
+MOFFAT,Governor,,REP,Victor Marx,1043
+MOFFAT,Governor,,REP,Barb Kirkmeyer,683
+MOFFAT,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+MONTEZUMA,Governor,,REP,Scott Bottoms,1515
+MONTEZUMA,Governor,,REP,Victor Marx,1721
+MONTEZUMA,Governor,,REP,Barb Kirkmeyer,1242
+MONTEZUMA,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+MONTROSE,Governor,,REP,Scott Bottoms,1862
+MONTROSE,Governor,,REP,Victor Marx,3668
+MONTROSE,Governor,,REP,Barb Kirkmeyer,2082
+MONTROSE,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+MORGAN,Governor,,REP,Scott Bottoms,648
+MORGAN,Governor,,REP,Victor Marx,1470
+MORGAN,Governor,,REP,Barb Kirkmeyer,1472
+MORGAN,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+OTERO,Governor,,REP,Scott Bottoms,554
+OTERO,Governor,,REP,Victor Marx,1241
+OTERO,Governor,,REP,Barb Kirkmeyer,645
+OTERO,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+OURAY,Governor,,REP,Scott Bottoms,228
+OURAY,Governor,,REP,Victor Marx,262
+OURAY,Governor,,REP,Barb Kirkmeyer,209
+OURAY,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+PARK,Governor,,REP,Scott Bottoms,745
+PARK,Governor,,REP,Victor Marx,1443
+PARK,Governor,,REP,Barb Kirkmeyer,1169
+PARK,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",1
+PHILLIPS,Governor,,REP,Scott Bottoms,241
+PHILLIPS,Governor,,REP,Victor Marx,395
+PHILLIPS,Governor,,REP,Barb Kirkmeyer,397
+PHILLIPS,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+PITKIN,Governor,,REP,Scott Bottoms,169
+PITKIN,Governor,,REP,Victor Marx,255
+PITKIN,Governor,,REP,Barb Kirkmeyer,368
+PITKIN,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+PROWERS,Governor,,REP,Scott Bottoms,299
+PROWERS,Governor,,REP,Victor Marx,870
+PROWERS,Governor,,REP,Barb Kirkmeyer,484
+PROWERS,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",1
+PUEBLO,Governor,,REP,Scott Bottoms,3183
+PUEBLO,Governor,,REP,Victor Marx,8196
+PUEBLO,Governor,,REP,Barb Kirkmeyer,3813
+PUEBLO,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",1
+RIO BLANCO,Governor,,REP,Scott Bottoms,417
+RIO BLANCO,Governor,,REP,Victor Marx,923
+RIO BLANCO,Governor,,REP,Barb Kirkmeyer,587
+RIO BLANCO,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",1
+RIO GRANDE,Governor,,REP,Scott Bottoms,474
+RIO GRANDE,Governor,,REP,Victor Marx,665
+RIO GRANDE,Governor,,REP,Barb Kirkmeyer,679
+RIO GRANDE,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+ROUTT,Governor,,REP,Scott Bottoms,401
+ROUTT,Governor,,REP,Victor Marx,562
+ROUTT,Governor,,REP,Barb Kirkmeyer,635
+ROUTT,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",2
+SAGUACHE,Governor,,REP,Scott Bottoms,161
+SAGUACHE,Governor,,REP,Victor Marx,247
+SAGUACHE,Governor,,REP,Barb Kirkmeyer,171
+SAGUACHE,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+SAN JUAN,Governor,,REP,Scott Bottoms,40
+SAN JUAN,Governor,,REP,Victor Marx,21
+SAN JUAN,Governor,,REP,Barb Kirkmeyer,40
+SAN JUAN,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",1
+SAN MIGUEL,Governor,,REP,Scott Bottoms,118
+SAN MIGUEL,Governor,,REP,Victor Marx,113
+SAN MIGUEL,Governor,,REP,Barb Kirkmeyer,120
+SAN MIGUEL,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+SEDGWICK,Governor,,REP,Scott Bottoms,199
+SEDGWICK,Governor,,REP,Victor Marx,193
+SEDGWICK,Governor,,REP,Barb Kirkmeyer,196
+SEDGWICK,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",1
+SUMMIT,Governor,,REP,Scott Bottoms,311
+SUMMIT,Governor,,REP,Victor Marx,430
+SUMMIT,Governor,,REP,Barb Kirkmeyer,696
+SUMMIT,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+TELLER,Governor,,REP,Scott Bottoms,1234
+TELLER,Governor,,REP,Victor Marx,2343
+TELLER,Governor,,REP,Barb Kirkmeyer,1504
+TELLER,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+WASHINGTON,Governor,,REP,Scott Bottoms,288
+WASHINGTON,Governor,,REP,Victor Marx,602
+WASHINGTON,Governor,,REP,Barb Kirkmeyer,617
+WASHINGTON,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+WELD,Governor,,REP,Scott Bottoms,5509
+WELD,Governor,,REP,Victor Marx,13518
+WELD,Governor,,REP,Barb Kirkmeyer,18139
+WELD,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",2
+YUMA,Governor,,REP,Scott Bottoms,363
+YUMA,Governor,,REP,Victor Marx,1080
+YUMA,Governor,,REP,Barb Kirkmeyer,870
+YUMA,Governor,,REP,"Kelvin ""K-Man"" Wimberly (Write-In)",0
+ADAMS,Secretary of State,,REP,James Wiley,26156
+ALAMOSA,Secretary of State,,REP,James Wiley,1320
+ARAPAHOE,Secretary of State,,REP,James Wiley,34936
+ARCHULETA,Secretary of State,,REP,James Wiley,2050
+BACA,Secretary of State,,REP,James Wiley,819
+BENT,Secretary of State,,REP,James Wiley,601
+BOULDER,Secretary of State,,REP,James Wiley,11242
+BROOMFIELD,Secretary of State,,REP,James Wiley,5066
+CHAFFEE,Secretary of State,,REP,James Wiley,2072
+CHEYENNE,Secretary of State,,REP,James Wiley,434
+CLEAR CREEK,Secretary of State,,REP,James Wiley,696
+CONEJOS,Secretary of State,,REP,James Wiley,1007
+COSTILLA,Secretary of State,,REP,James Wiley,278
+CROWLEY,Secretary of State,,REP,James Wiley,533
+CUSTER,Secretary of State,,REP,James Wiley,1050
+DELTA,Secretary of State,,REP,James Wiley,5294
+DENVER,Secretary of State,,REP,James Wiley,14912
+DOLORES,Secretary of State,,REP,James Wiley,374
+DOUGLAS,Secretary of State,,REP,James Wiley,45027
+EAGLE,Secretary of State,,REP,James Wiley,2261
+EL PASO,Secretary of State,,REP,James Wiley,76279
+ELBERT,Secretary of State,,REP,James Wiley,6211
+FREMONT,Secretary of State,,REP,James Wiley,7503
+GARFIELD,Secretary of State,,REP,James Wiley,5660
+GILPIN,Secretary of State,,REP,James Wiley,573
+GRAND,Secretary of State,,REP,James Wiley,1696
+GUNNISON,Secretary of State,,REP,James Wiley,976
+HINSDALE,Secretary of State,,REP,James Wiley,128
+HUERFANO,Secretary of State,,REP,James Wiley,864
+JACKSON,Secretary of State,,REP,James Wiley,291
+JEFFERSON,Secretary of State,,REP,James Wiley,44075
+KIOWA,Secretary of State,,REP,James Wiley,311
+KIT CARSON,Secretary of State,,REP,James Wiley,1285
+LA PLATA,Secretary of State,,REP,James Wiley,4466
+LAKE,Secretary of State,,REP,James Wiley,400
+LARIMER,Secretary of State,,REP,James Wiley,28265
+LAS ANIMAS,Secretary of State,,REP,James Wiley,1471
+LINCOLN,Secretary of State,,REP,James Wiley,853
+LOGAN,Secretary of State,,REP,James Wiley,3010
+MESA,Secretary of State,,REP,James Wiley,21887
+MINERAL,Secretary of State,,REP,James Wiley,135
+MOFFAT,Secretary of State,,REP,James Wiley,1844
+MONTEZUMA,Secretary of State,,REP,James Wiley,3739
+MONTROSE,Secretary of State,,REP,James Wiley,6351
+MORGAN,Secretary of State,,REP,James Wiley,3133
+OTERO,Secretary of State,,REP,James Wiley,2118
+OURAY,Secretary of State,,REP,James Wiley,569
+PARK,Secretary of State,,REP,James Wiley,2813
+PHILLIPS,Secretary of State,,REP,James Wiley,841
+PITKIN,Secretary of State,,REP,James Wiley,657
+PROWERS,Secretary of State,,REP,James Wiley,1347
+PUEBLO,Secretary of State,,REP,James Wiley,13407
+RIO BLANCO,Secretary of State,,REP,James Wiley,1469
+RIO GRANDE,Secretary of State,,REP,James Wiley,1551
+ROUTT,Secretary of State,,REP,James Wiley,1270
+SAGUACHE,Secretary of State,,REP,James Wiley,481
+SAN JUAN,Secretary of State,,REP,James Wiley,74
+SAN MIGUEL,Secretary of State,,REP,James Wiley,271
+SEDGWICK,Secretary of State,,REP,James Wiley,460
+SUMMIT,Secretary of State,,REP,James Wiley,1160
+TELLER,Secretary of State,,REP,James Wiley,4348
+WASHINGTON,Secretary of State,,REP,James Wiley,1235
+WELD,Secretary of State,,REP,James Wiley,32062
+YUMA,Secretary of State,,REP,James Wiley,1968
+ADAMS,State Treasurer,,REP,Kevin Grantham,26084
+ALAMOSA,State Treasurer,,REP,Kevin Grantham,1306
+ARAPAHOE,State Treasurer,,REP,Kevin Grantham,36038
+ARCHULETA,State Treasurer,,REP,Kevin Grantham,2057
+BACA,State Treasurer,,REP,Kevin Grantham,829
+BENT,State Treasurer,,REP,Kevin Grantham,605
+BOULDER,State Treasurer,,REP,Kevin Grantham,11280
+BROOMFIELD,State Treasurer,,REP,Kevin Grantham,5182
+CHAFFEE,State Treasurer,,REP,Kevin Grantham,2176
+CHEYENNE,State Treasurer,,REP,Kevin Grantham,440
+CLEAR CREEK,State Treasurer,,REP,Kevin Grantham,701
+CONEJOS,State Treasurer,,REP,Kevin Grantham,1007
+COSTILLA,State Treasurer,,REP,Kevin Grantham,270
+CROWLEY,State Treasurer,,REP,Kevin Grantham,561
+CUSTER,State Treasurer,,REP,Kevin Grantham,1055
+DELTA,State Treasurer,,REP,Kevin Grantham,5298
+DENVER,State Treasurer,,REP,Kevin Grantham,15063
+DOLORES,State Treasurer,,REP,Kevin Grantham,371
+DOUGLAS,State Treasurer,,REP,Kevin Grantham,44955
+EAGLE,State Treasurer,,REP,Kevin Grantham,2239
+EL PASO,State Treasurer,,REP,Kevin Grantham,76453
+ELBERT,State Treasurer,,REP,Kevin Grantham,6235
+FREMONT,State Treasurer,,REP,Kevin Grantham,7792
+GARFIELD,State Treasurer,,REP,Kevin Grantham,5703
+GILPIN,State Treasurer,,REP,Kevin Grantham,573
+GRAND,State Treasurer,,REP,Kevin Grantham,1687
+GUNNISON,State Treasurer,,REP,Kevin Grantham,968
+HINSDALE,State Treasurer,,REP,Kevin Grantham,128
+HUERFANO,State Treasurer,,REP,Kevin Grantham,859
+JACKSON,State Treasurer,,REP,Kevin Grantham,294
+JEFFERSON,State Treasurer,,REP,Kevin Grantham,43848
+KIOWA,State Treasurer,,REP,Kevin Grantham,318
+KIT CARSON,State Treasurer,,REP,Kevin Grantham,1268
+LA PLATA,State Treasurer,,REP,Kevin Grantham,4448
+LAKE,State Treasurer,,REP,Kevin Grantham,399
+LARIMER,State Treasurer,,REP,Kevin Grantham,28234
+LAS ANIMAS,State Treasurer,,REP,Kevin Grantham,1474
+LINCOLN,State Treasurer,,REP,Kevin Grantham,861
+LOGAN,State Treasurer,,REP,Kevin Grantham,3065
+MESA,State Treasurer,,REP,Kevin Grantham,21928
+MINERAL,State Treasurer,,REP,Kevin Grantham,139
+MOFFAT,State Treasurer,,REP,Kevin Grantham,1935
+MONTEZUMA,State Treasurer,,REP,Kevin Grantham,3715
+MONTROSE,State Treasurer,,REP,Kevin Grantham,6345
+MORGAN,State Treasurer,,REP,Kevin Grantham,3150
+OTERO,State Treasurer,,REP,Kevin Grantham,2165
+OURAY,State Treasurer,,REP,Kevin Grantham,572
+PARK,State Treasurer,,REP,Kevin Grantham,2820
+PHILLIPS,State Treasurer,,REP,Kevin Grantham,856
+PITKIN,State Treasurer,,REP,Kevin Grantham,655
+PROWERS,State Treasurer,,REP,Kevin Grantham,1340
+PUEBLO,State Treasurer,,REP,Kevin Grantham,13337
+RIO BLANCO,State Treasurer,,REP,Kevin Grantham,1453
+RIO GRANDE,State Treasurer,,REP,Kevin Grantham,1581
+ROUTT,State Treasurer,,REP,Kevin Grantham,1264
+SAGUACHE,State Treasurer,,REP,Kevin Grantham,474
+SAN JUAN,State Treasurer,,REP,Kevin Grantham,71
+SAN MIGUEL,State Treasurer,,REP,Kevin Grantham,263
+SEDGWICK,State Treasurer,,REP,Kevin Grantham,479
+SUMMIT,State Treasurer,,REP,Kevin Grantham,1165
+TELLER,State Treasurer,,REP,Kevin Grantham,4339
+WASHINGTON,State Treasurer,,REP,Kevin Grantham,1247
+WELD,State Treasurer,,REP,Kevin Grantham,32236
+YUMA,State Treasurer,,REP,Kevin Grantham,1961
+ADAMS,Attorney General,,REP,Michael J. Allen,16047
+ADAMS,Attorney General,,REP,David Willson,11969
+ALAMOSA,Attorney General,,REP,Michael J. Allen,897
+ALAMOSA,Attorney General,,REP,David Willson,545
+ARAPAHOE,Attorney General,,REP,Michael J. Allen,22904
+ARAPAHOE,Attorney General,,REP,David Willson,15587
+ARCHULETA,Attorney General,,REP,Michael J. Allen,1158
+ARCHULETA,Attorney General,,REP,David Willson,1100
+BACA,Attorney General,,REP,Michael J. Allen,480
+BACA,Attorney General,,REP,David Willson,363
+BENT,Attorney General,,REP,Michael J. Allen,382
+BENT,Attorney General,,REP,David Willson,237
+BOULDER,Attorney General,,REP,Michael J. Allen,7424
+BOULDER,Attorney General,,REP,David Willson,5198
+BROOMFIELD,Attorney General,,REP,Michael J. Allen,3315
+BROOMFIELD,Attorney General,,REP,David Willson,2280
+CHAFFEE,Attorney General,,REP,Michael J. Allen,1331
+CHAFFEE,Attorney General,,REP,David Willson,1041
+CHEYENNE,Attorney General,,REP,Michael J. Allen,276
+CHEYENNE,Attorney General,,REP,David Willson,161
+CLEAR CREEK,Attorney General,,REP,Michael J. Allen,457
+CLEAR CREEK,Attorney General,,REP,David Willson,305
+CONEJOS,Attorney General,,REP,Michael J. Allen,657
+CONEJOS,Attorney General,,REP,David Willson,448
+COSTILLA,Attorney General,,REP,Michael J. Allen,161
+COSTILLA,Attorney General,,REP,David Willson,125
+CROWLEY,Attorney General,,REP,Michael J. Allen,370
+CROWLEY,Attorney General,,REP,David Willson,189
+CUSTER,Attorney General,,REP,Michael J. Allen,596
+CUSTER,Attorney General,,REP,David Willson,541
+DELTA,Attorney General,,REP,Michael J. Allen,3025
+DELTA,Attorney General,,REP,David Willson,2628
+DENVER,Attorney General,,REP,Michael J. Allen,10352
+DENVER,Attorney General,,REP,David Willson,5919
+DOLORES,Attorney General,,REP,Michael J. Allen,209
+DOLORES,Attorney General,,REP,David Willson,197
+DOUGLAS,Attorney General,,REP,Michael J. Allen,28512
+DOUGLAS,Attorney General,,REP,David Willson,18850
+EAGLE,Attorney General,,REP,Michael J. Allen,1363
+EAGLE,Attorney General,,REP,David Willson,1072
+EL PASO,Attorney General,,REP,Michael J. Allen,54386
+EL PASO,Attorney General,,REP,David Willson,27585
+ELBERT,Attorney General,,REP,Michael J. Allen,3665
+ELBERT,Attorney General,,REP,David Willson,2939
+FREMONT,Attorney General,,REP,Michael J. Allen,4766
+FREMONT,Attorney General,,REP,David Willson,3250
+GARFIELD,Attorney General,,REP,Michael J. Allen,3289
+GARFIELD,Attorney General,,REP,David Willson,2885
+GILPIN,Attorney General,,REP,Michael J. Allen,376
+GILPIN,Attorney General,,REP,David Willson,231
+GRAND,Attorney General,,REP,Michael J. Allen,1081
+GRAND,Attorney General,,REP,David Willson,767
+GUNNISON,Attorney General,,REP,Michael J. Allen,621
+GUNNISON,Attorney General,,REP,David Willson,498
+HINSDALE,Attorney General,,REP,Michael J. Allen,75
+HINSDALE,Attorney General,,REP,David Willson,74
+HUERFANO,Attorney General,,REP,Michael J. Allen,566
+HUERFANO,Attorney General,,REP,David Willson,358
+JACKSON,Attorney General,,REP,Michael J. Allen,213
+JACKSON,Attorney General,,REP,David Willson,106
+JEFFERSON,Attorney General,,REP,Michael J. Allen,28569
+JEFFERSON,Attorney General,,REP,David Willson,19491
+KIOWA,Attorney General,,REP,Michael J. Allen,226
+KIOWA,Attorney General,,REP,David Willson,126
+KIT CARSON,Attorney General,,REP,Michael J. Allen,737
+KIT CARSON,Attorney General,,REP,David Willson,544
+LA PLATA,Attorney General,,REP,Michael J. Allen,2722
+LA PLATA,Attorney General,,REP,David Willson,2194
+LAKE,Attorney General,,REP,Michael J. Allen,237
+LAKE,Attorney General,,REP,David Willson,172
+LARIMER,Attorney General,,REP,Michael J. Allen,17489
+LARIMER,Attorney General,,REP,David Willson,13387
+LAS ANIMAS,Attorney General,,REP,Michael J. Allen,902
+LAS ANIMAS,Attorney General,,REP,David Willson,603
+LINCOLN,Attorney General,,REP,Michael J. Allen,558
+LINCOLN,Attorney General,,REP,David Willson,314
+LOGAN,Attorney General,,REP,Michael J. Allen,1959
+LOGAN,Attorney General,,REP,David Willson,1240
+MESA,Attorney General,,REP,Michael J. Allen,13730
+MESA,Attorney General,,REP,David Willson,10064
+MINERAL,Attorney General,,REP,Michael J. Allen,73
+MINERAL,Attorney General,,REP,David Willson,78
+MOFFAT,Attorney General,,REP,Michael J. Allen,1180
+MOFFAT,Attorney General,,REP,David Willson,929
+MONTEZUMA,Attorney General,,REP,Michael J. Allen,2105
+MONTEZUMA,Attorney General,,REP,David Willson,1937
+MONTROSE,Attorney General,,REP,Michael J. Allen,3550
+MONTROSE,Attorney General,,REP,David Willson,3316
+MORGAN,Attorney General,,REP,Michael J. Allen,1939
+MORGAN,Attorney General,,REP,David Willson,1283
+OTERO,Attorney General,,REP,Michael J. Allen,1450
+OTERO,Attorney General,,REP,David Willson,774
+OURAY,Attorney General,,REP,Michael J. Allen,340
+OURAY,Attorney General,,REP,David Willson,298
+PARK,Attorney General,,REP,Michael J. Allen,1663
+PARK,Attorney General,,REP,David Willson,1336
+PHILLIPS,Attorney General,,REP,Michael J. Allen,503
+PHILLIPS,Attorney General,,REP,David Willson,340
+PITKIN,Attorney General,,REP,Michael J. Allen,445
+PITKIN,Attorney General,,REP,David Willson,276
+PROWERS,Attorney General,,REP,Michael J. Allen,843
+PROWERS,Attorney General,,REP,David Willson,569
+PUEBLO,Attorney General,,REP,Michael J. Allen,8670
+PUEBLO,Attorney General,,REP,David Willson,5675
+RIO BLANCO,Attorney General,,REP,Michael J. Allen,918
+RIO BLANCO,Attorney General,,REP,David Willson,638
+RIO GRANDE,Attorney General,,REP,Michael J. Allen,881
+RIO GRANDE,Attorney General,,REP,David Willson,729
+ROUTT,Attorney General,,REP,Michael J. Allen,854
+ROUTT,Attorney General,,REP,David Willson,580
+SAGUACHE,Attorney General,,REP,Michael J. Allen,255
+SAGUACHE,Attorney General,,REP,David Willson,242
+SAN JUAN,Attorney General,,REP,Michael J. Allen,58
+SAN JUAN,Attorney General,,REP,David Willson,28
+SAN MIGUEL,Attorney General,,REP,Michael J. Allen,163
+SAN MIGUEL,Attorney General,,REP,David Willson,142
+SEDGWICK,Attorney General,,REP,Michael J. Allen,301
+SEDGWICK,Attorney General,,REP,David Willson,186
+SUMMIT,Attorney General,,REP,Michael J. Allen,797
+SUMMIT,Attorney General,,REP,David Willson,463
+TELLER,Attorney General,,REP,Michael J. Allen,3045
+TELLER,Attorney General,,REP,David Willson,1691
+WASHINGTON,Attorney General,,REP,Michael J. Allen,815
+WASHINGTON,Attorney General,,REP,David Willson,429
+WELD,Attorney General,,REP,Michael J. Allen,19435
+WELD,Attorney General,,REP,David Willson,14222
+YUMA,Attorney General,,REP,Michael J. Allen,1156
+YUMA,Attorney General,,REP,David Willson,789
+ARAPAHOE,Director of State Board of Education,1,REP,Frederick Espinoza,161
+DENVER,Director of State Board of Education,1,REP,Frederick Espinoza,14737
+JEFFERSON,Director of State Board of Education,1,REP,Frederick Espinoza,1
+ALAMOSA,Director of State Board of Education,3,REP,Sherri M Wright,1284
+ARCHULETA,Director of State Board of Education,3,REP,Sherri M Wright,2004
+CONEJOS,Director of State Board of Education,3,REP,Sherri M Wright,985
+COSTILLA,Director of State Board of Education,3,REP,Sherri M Wright,263
+DELTA,Director of State Board of Education,3,REP,Sherri M Wright,5245
+DOLORES,Director of State Board of Education,3,REP,Sherri M Wright,360
+EAGLE,Director of State Board of Education,3,REP,Sherri M Wright,373
+GARFIELD,Director of State Board of Education,3,REP,Sherri M Wright,5590
+GUNNISON,Director of State Board of Education,3,REP,Sherri M Wright,950
+HINSDALE,Director of State Board of Education,3,REP,Sherri M Wright,119
+HUERFANO,Director of State Board of Education,3,REP,Sherri M Wright,823
+LA PLATA,Director of State Board of Education,3,REP,Sherri M Wright,4445
+LAS ANIMAS,Director of State Board of Education,3,REP,Sherri M Wright,1436
+MESA,Director of State Board of Education,3,REP,Sherri M Wright,21568
+MINERAL,Director of State Board of Education,3,REP,Sherri M Wright,132
+MOFFAT,Director of State Board of Education,3,REP,Sherri M Wright,1874
+MONTEZUMA,Director of State Board of Education,3,REP,Sherri M Wright,3716
+MONTROSE,Director of State Board of Education,3,REP,Sherri M Wright,6273
+OTERO,Director of State Board of Education,3,REP,Sherri M Wright,2065
+OURAY,Director of State Board of Education,3,REP,Sherri M Wright,568
+PITKIN,Director of State Board of Education,3,REP,Sherri M Wright,536
+PUEBLO,Director of State Board of Education,3,REP,Sherri M Wright,13283
+RIO BLANCO,Director of State Board of Education,3,REP,Sherri M Wright,1405
+RIO GRANDE,Director of State Board of Education,3,REP,Sherri M Wright,1535
+SAGUACHE,Director of State Board of Education,3,REP,Sherri M Wright,466
+SAN JUAN,Director of State Board of Education,3,REP,Sherri M Wright,68
+SAN MIGUEL,Director of State Board of Education,3,REP,Sherri M Wright,258
+ADAMS,Director of State Board of Education,7,REP,Steve Barton,98
+BROOMFIELD,Director of State Board of Education,7,REP,Steve Barton,5047
+CHAFFEE,Director of State Board of Education,7,REP,Steve Barton,2058
+CUSTER,Director of State Board of Education,7,REP,Steve Barton,988
+EL PASO,Director of State Board of Education,7,REP,Steve Barton,61
+FREMONT,Director of State Board of Education,7,REP,Steve Barton,7249
+JEFFERSON,Director of State Board of Education,7,REP,Steve Barton,26917
+LAKE,Director of State Board of Education,7,REP,Steve Barton,377
+PARK,Director of State Board of Education,7,REP,Steve Barton,2688
+TELLER,Director of State Board of Education,7,REP,Steve Barton,4196
+WELD,Director of State Board of Education,7,REP,Steve Barton,0
+BOULDER,Regent of the University of Colorado,2,REP,Marty Neilson,11015
+BROOMFIELD,Regent of the University of Colorado,2,REP,Marty Neilson,0
+CLEAR CREEK,Regent of the University of Colorado,2,REP,Marty Neilson,682
+EAGLE,Regent of the University of Colorado,2,REP,Marty Neilson,1768
+GILPIN,Regent of the University of Colorado,2,REP,Marty Neilson,550
+GRAND,Regent of the University of Colorado,2,REP,Marty Neilson,1624
+JACKSON,Regent of the University of Colorado,2,REP,Marty Neilson,272
+JEFFERSON,Regent of the University of Colorado,2,REP,Marty Neilson,159
+LARIMER,Regent of the University of Colorado,2,REP,Marty Neilson,13818
+ROUTT,Regent of the University of Colorado,2,REP,Marty Neilson,1204
+SUMMIT,Regent of the University of Colorado,2,REP,Marty Neilson,1125
+WELD,Regent of the University of Colorado,2,REP,Marty Neilson,1671
+ADAMS,Regent of the University of Colorado,6,REP,Veanessa Burbage,954
+ARAPAHOE,Regent of the University of Colorado,6,REP,Veanessa Burbage,31394
+DENVER,Regent of the University of Colorado,6,REP,Veanessa Burbage,47
+DOUGLAS,Regent of the University of Colorado,6,REP,Veanessa Burbage,770
+JEFFERSON,Regent of the University of Colorado,6,REP,Veanessa Burbage,6202
+ADAMS,Regent of the University of Colorado,7,REP,Joan Poston,49
+ADAMS,Regent of the University of Colorado,7,REP,Paul Mueller,60
+BROOMFIELD,Regent of the University of Colorado,7,REP,Joan Poston,1998
+BROOMFIELD,Regent of the University of Colorado,7,REP,Paul Mueller,3270
+CHAFFEE,Regent of the University of Colorado,7,REP,Joan Poston,717
+CHAFFEE,Regent of the University of Colorado,7,REP,Paul Mueller,1386
+CUSTER,Regent of the University of Colorado,7,REP,Joan Poston,417
+CUSTER,Regent of the University of Colorado,7,REP,Paul Mueller,605
+EL PASO,Regent of the University of Colorado,7,REP,Joan Poston,26
+EL PASO,Regent of the University of Colorado,7,REP,Paul Mueller,36
+FREMONT,Regent of the University of Colorado,7,REP,Joan Poston,2713
+FREMONT,Regent of the University of Colorado,7,REP,Paul Mueller,4682
+JEFFERSON,Regent of the University of Colorado,7,REP,Joan Poston,15272
+JEFFERSON,Regent of the University of Colorado,7,REP,Paul Mueller,22603
+LAKE,Regent of the University of Colorado,7,REP,Joan Poston,122
+LAKE,Regent of the University of Colorado,7,REP,Paul Mueller,282
+PARK,Regent of the University of Colorado,7,REP,Joan Poston,1007
+PARK,Regent of the University of Colorado,7,REP,Paul Mueller,1654
+TELLER,Regent of the University of Colorado,7,REP,Joan Poston,1564
+TELLER,Regent of the University of Colorado,7,REP,Paul Mueller,2680
+WELD,Regent of the University of Colorado,7,REP,Joan Poston,0
+WELD,Regent of the University of Colorado,7,REP,Paul Mueller,0
+LOGAN,State Senator,1,REP,Byron Pelton,3191
+MORGAN,State Senator,1,REP,Byron Pelton,3178
+PHILLIPS,State Senator,1,REP,Byron Pelton,872
+SEDGWICK,State Senator,1,REP,Byron Pelton,495
+WASHINGTON,State Senator,1,REP,Byron Pelton,1306
+WELD,State Senator,1,REP,Byron Pelton,12359
+YUMA,State Senator,1,REP,Byron Pelton,2001
+PUEBLO,State Senator,3,REP,Dana Charles,13424
+CHAFFEE,State Senator,4,REP,Teddy Collins,2142
+CUSTER,State Senator,4,REP,Teddy Collins,1027
+DOUGLAS,State Senator,4,REP,Teddy Collins,4479
+FREMONT,State Senator,4,REP,Teddy Collins,7409
+JEFFERSON,State Senator,4,REP,Teddy Collins,3167
+LAKE,State Senator,4,REP,Teddy Collins,397
+PARK,State Senator,4,REP,Teddy Collins,2775
+TELLER,State Senator,4,REP,Teddy Collins,4269
+DELTA,State Senator,7,REP,Janice Rich,1225
+MESA,State Senator,7,REP,Janice Rich,22372
+CLEAR CREEK,State Senator,8,REP,Corey Marshall,690
+EAGLE,State Senator,8,REP,Corey Marshall,1936
+GARFIELD,State Senator,8,REP,Corey Marshall,960
+GILPIN,State Senator,8,REP,Corey Marshall,575
+GRAND,State Senator,8,REP,Corey Marshall,1662
+JACKSON,State Senator,8,REP,Corey Marshall,289
+MOFFAT,State Senator,8,REP,Corey Marshall,1882
+RIO BLANCO,State Senator,8,REP,Corey Marshall,1410
+ROUTT,State Senator,8,REP,Corey Marshall,1249
+SUMMIT,State Senator,8,REP,Corey Marshall,1141
+EL PASO,State Senator,9,REP,Lynda Zamora Wilson,9620
+EL PASO,State Senator,9,REP,Terri Carver,18163
+EL PASO,State Senator,11,REP,Levon Stilson,7739
+BOULDER,State Senator,15,REP,Rob Woodward,1107
+LARIMER,State Senator,15,REP,Rob Woodward,15548
+BOULDER,State Senator,17,REP,Pat Miller,6854
+BROOMFIELD,State Senator,17,REP,Pat Miller,0
+WELD,State Senator,17,REP,Pat Miller,1572
+JEFFERSON,State Senator,20,REP,Richard (Rich) Mancuso,13792
+ADAMS,State Senator,21,REP,Frederick Alfred Jr,6807
+ARAPAHOE,State Senator,21,REP,Frederick Alfred Jr,1032
+JEFFERSON,State Senator,22,REP,Steve Harkess,7890
+ADAMS,State Senator,24,REP,Kevin Allen,9500
+ADAMS,State Senator,25,REP,Rich Guggenheim,5211
+BROOMFIELD,State Senator,25,REP,Rich Guggenheim,5176
+WELD,State Senator,25,REP,Rich Guggenheim,0
+ARAPAHOE,State Senator,27,REP,Danielle Lammon,6228
+ARAPAHOE,State Senator,27,REP,Darryl Gibbs,5940
+DOUGLAS,State Senator,27,REP,Danielle Lammon,422
+DOUGLAS,State Senator,27,REP,Darryl Gibbs,321
+ARAPAHOE,State Senator,29,REP,Robert McKenna,6341
+DOUGLAS,State Senator,30,REP,John Carson,18744
+DENVER,State Senator,31,REP,Michael F. DiManna,3411
+ARAPAHOE,State Senator,32,REP,Sydnnia Wulff,174
+DENVER,State Senator,32,REP,Sydnnia Wulff,4239
+JEFFERSON,State Senator,32,REP,Sydnnia Wulff,0
+DENVER,State Senator,34,REP,Jack Daus,2278
+BACA,State Senator,35,REP,Rod Pelton,854
+BENT,State Senator,35,REP,Rod Pelton,635
+CHEYENNE,State Senator,35,REP,Rod Pelton,504
+CROWLEY,State Senator,35,REP,Rod Pelton,545
+EL PASO,State Senator,35,REP,Rod Pelton,12306
+ELBERT,State Senator,35,REP,Rod Pelton,6212
+HUERFANO,State Senator,35,REP,Rod Pelton,844
+KIOWA,State Senator,35,REP,Rod Pelton,386
+KIT CARSON,State Senator,35,REP,Rod Pelton,1401
+LAS ANIMAS,State Senator,35,REP,Rod Pelton,1480
+LINCOLN,State Senator,35,REP,Rod Pelton,902
+OTERO,State Senator,35,REP,Rod Pelton,2140
+PROWERS,State Senator,35,REP,Rod Pelton,1412
+DENVER,State Representative,1,REP,Joseph Montoya,2962
+JEFFERSON,State Representative,1,REP,Joseph Montoya,1
+DENVER,State Representative,2,REP,Carey Marin,2730
+ARAPAHOE,State Representative,3,REP,Rebecca Winegar,2166
+DENVER,State Representative,3,REP,Rebecca Winegar,1200
+DENVER,State Representative,4,REP,Ellwood Ervin,1345
+DENVER,State Representative,5,REP,Johnnie W. Johnson,1030
+DENVER,State Representative,6,REP,Kathleen Angel,1431
+DENVER,State Representative,8,REP,Carolyn Barnes,1036
+ARAPAHOE,State Representative,9,REP,Tom Cowhick,554
+DENVER,State Representative,9,REP,Tom Cowhick,1925
+BOULDER,State Representative,12,REP,Ryan Rhatican,2999
+BROOMFIELD,State Representative,12,REP,Ryan Rhatican,0
+CHAFFEE,State Representative,13,REP,Miguel Martinez,1924
+GRAND,State Representative,13,REP,Miguel Martinez,1620
+JACKSON,State Representative,13,REP,Miguel Martinez,274
+LAKE,State Representative,13,REP,Miguel Martinez,333
+PARK,State Representative,13,REP,Miguel Martinez,2683
+SUMMIT,State Representative,13,REP,Miguel Martinez,1125
+EL PASO,State Representative,14,REP,Ava Flanell,11007
+EL PASO,State Representative,14,REP,Troy Vanderhule,4001
+EL PASO,State Representative,15,REP,Pricella Tiegen,8359
+EL PASO,State Representative,16,REP,Jill Haffley,5126
+EL PASO,State Representative,16,REP,Jamie Koch,2830
+EL PASO,State Representative,17,REP,Laura Martin,2982
+EL PASO,State Representative,18,REP,Adriana Cuva,7883
+TELLER,State Representative,18,REP,Adriana Cuva,5
+BOULDER,State Representative,19,REP,Dan Woog,1797
+WELD,State Representative,19,REP,Dan Woog,5912
+EL PASO,State Representative,20,REP,Jarvis Caldwell,16169
+EL PASO,State Representative,21,REP,Brenda Miller,4107
+EL PASO,State Representative,21,REP,Alexander M. Africa,1420
+EL PASO,State Representative,22,REP,Ken deGraaf,9970
+ADAMS,State Representative,24,REP,Kristopher Johnson,102
+JEFFERSON,State Representative,24,REP,Kristopher Johnson,6993
+JEFFERSON,State Representative,25,REP,Mark Herzfeld,8948
+EAGLE,State Representative,26,REP,James Kellogg,1928
+MOFFAT,State Representative,26,REP,James Kellogg,1881
+RIO BLANCO,State Representative,26,REP,James Kellogg,1406
+ROUTT,State Representative,26,REP,James Kellogg,1243
+JEFFERSON,State Representative,27,REP,Eric Bodenstab,6556
+ADAMS,State Representative,29,REP,Kristine Ireland,3086
+JEFFERSON,State Representative,29,REP,Kristine Ireland,2750
+JEFFERSON,State Representative,30,REP,William Tyler Switzer,4234
+ADAMS,State Representative,31,REP,Ray Roll,3266
+ADAMS,State Representative,32,REP,Michelle D. Lee,2265
+ADAMS,State Representative,32,REP,Damon L Scordo,1186
+ADAMS,State Representative,33,REP,Nate Jorgensen,1759
+BROOMFIELD,State Representative,33,REP,Nate Jorgensen,5193
+WELD,State Representative,33,REP,Nate Jorgensen,0
+ADAMS,State Representative,34,REP,Craig Sullivan,5430
+ADAMS,State Representative,36,REP,Paul E. Nelson,960
+ARAPAHOE,State Representative,36,REP,Paul E. Nelson,1835
+ARAPAHOE,State Representative,37,REP,Jill Thompson,6094
+DOUGLAS,State Representative,39,REP,Brandi Bradley,12338
+ARAPAHOE,State Representative,40,REP,Clinton Porter,4489
+DOUGLAS,State Representative,43,REP,Nate Marsh,9020
+DOUGLAS,State Representative,44,REP,Anthony Hartsook,6081
+DOUGLAS,State Representative,44,REP,Bob Davis,4541
+DOUGLAS,State Representative,45,REP,Max Brooks,12578
+PUEBLO,State Representative,46,REP,Jonathan Post,6917
+BACA,State Representative,47,REP,Ty Winter,895
+BENT,State Representative,47,REP,Ty Winter,661
+CROWLEY,State Representative,47,REP,Ty Winter,576
+HUERFANO,State Representative,47,REP,Ty Winter,776
+KIOWA,State Representative,47,REP,Ty Winter,379
+LAS ANIMAS,State Representative,47,REP,Ty Winter,1604
+OTERO,State Representative,47,REP,Ty Winter,2204
+PROWERS,State Representative,47,REP,Ty Winter,1442
+PUEBLO,State Representative,47,REP,Ty Winter,2833
+ADAMS,State Representative,48,REP,Carlos Barron,3654
+WELD,State Representative,48,REP,Carlos Barron,4208
+BOULDER,State Representative,49,REP,Michael Sheperek,1294
+CLEAR CREEK,State Representative,49,REP,Michael Sheperek,694
+GILPIN,State Representative,49,REP,Michael Sheperek,559
+LARIMER,State Representative,49,REP,Michael Sheperek,3753
+WELD,State Representative,50,REP,Ryan Gonzalez,3319
+LARIMER,State Representative,51,REP,Amy Parks,7255
+LARIMER,State Representative,51,REP,Nancy Rumfelt,4096
+LARIMER,State Representative,53,REP,Daniel Frick,2691
+DELTA,State Representative,54,REP,Jason Bias,2335
+DELTA,State Representative,54,REP,Nina Anderson,2234
+MESA,State Representative,54,REP,Jason Bias,6309
+MESA,State Representative,54,REP,Nina Anderson,5872
+MESA,State Representative,55,REP,Rick Taggart,11564
+ADAMS,State Representative,56,REP,Chris Richardson,2048
+ARAPAHOE,State Representative,56,REP,Chris Richardson,1889
+CHEYENNE,State Representative,56,REP,Chris Richardson,419
+EL PASO,State Representative,56,REP,Chris Richardson,3930
+ELBERT,State Representative,56,REP,Chris Richardson,6108
+KIT CARSON,State Representative,56,REP,Chris Richardson,1218
+LINCOLN,State Representative,56,REP,Chris Richardson,842
+EAGLE,State Representative,57,REP,Russ Andrews,336
+GARFIELD,State Representative,57,REP,Russ Andrews,5734
+PITKIN,State Representative,57,REP,Russ Andrews,684
+DELTA,State Representative,58,REP,Larry Don Suckla,1308
+DOLORES,State Representative,58,REP,Larry Don Suckla,463
+GUNNISON,State Representative,58,REP,Larry Don Suckla,977
+HINSDALE,State Representative,58,REP,Larry Don Suckla,132
+MONTEZUMA,State Representative,58,REP,Larry Don Suckla,1467
+MONTROSE,State Representative,58,REP,Larry Don Suckla,6383
+OURAY,State Representative,58,REP,Larry Don Suckla,590
+SAN MIGUEL,State Representative,58,REP,Larry Don Suckla,289
+ARCHULETA,State Representative,59,REP,Naomi Riess,2031
+LA PLATA,State Representative,59,REP,Naomi Riess,4518
+MONTEZUMA,State Representative,59,REP,Naomi Riess,2354
+SAN JUAN,State Representative,59,REP,Naomi Riess,75
+CHAFFEE,State Representative,60,REP,Michelle Gray,105
+CHAFFEE,State Representative,60,REP,Matt Alexander,118
+CUSTER,State Representative,60,REP,Michelle Gray,583
+CUSTER,State Representative,60,REP,Matt Alexander,666
+FREMONT,State Representative,60,REP,Michelle Gray,3843
+FREMONT,State Representative,60,REP,Matt Alexander,4712
+PUEBLO,State Representative,60,REP,Michelle Gray,1455
+PUEBLO,State Representative,60,REP,Matt Alexander,869
+TELLER,State Representative,60,REP,Michelle Gray,2464
+TELLER,State Representative,60,REP,Matt Alexander,2335
+ARAPAHOE,State Representative,61,REP,Scott Shamblin,6617
+DOUGLAS,State Representative,61,REP,Scott Shamblin,800
+ALAMOSA,State Representative,62,REP,Steven Rodriguez,1263
+ALAMOSA,State Representative,62,REP,Evans Gonzalez (Write-In),32
+CONEJOS,State Representative,62,REP,Steven Rodriguez,1001
+CONEJOS,State Representative,62,REP,Evans Gonzalez (Write-In),6
+COSTILLA,State Representative,62,REP,Steven Rodriguez,268
+COSTILLA,State Representative,62,REP,Evans Gonzalez (Write-In),1
+HUERFANO,State Representative,62,REP,Steven Rodriguez,107
+HUERFANO,State Representative,62,REP,Evans Gonzalez (Write-In),0
+MINERAL,State Representative,62,REP,Steven Rodriguez,130
+MINERAL,State Representative,62,REP,Evans Gonzalez (Write-In),0
+PUEBLO,State Representative,62,REP,Steven Rodriguez,1451
+PUEBLO,State Representative,62,REP,Evans Gonzalez (Write-In),1
+RIO GRANDE,State Representative,62,REP,Steven Rodriguez,1504
+RIO GRANDE,State Representative,62,REP,Evans Gonzalez (Write-In),12
+SAGUACHE,State Representative,62,REP,Steven Rodriguez,452
+SAGUACHE,State Representative,62,REP,Evans Gonzalez (Write-In),0
+LOGAN,State Representative,63,REP,Dusty Johnson,3167
+MORGAN,State Representative,63,REP,Dusty Johnson,3235
+PHILLIPS,State Representative,63,REP,Dusty Johnson,879
+SEDGWICK,State Representative,63,REP,Dusty Johnson,506
+WASHINGTON,State Representative,63,REP,Dusty Johnson,1310
+WELD,State Representative,63,REP,Dusty Johnson,2963
+YUMA,State Representative,63,REP,Dusty Johnson,1996
+LARIMER,State Representative,64,REP,Scott L. Slaugh,1722
+WELD,State Representative,64,REP,Scott L. Slaugh,9124
+LARIMER,State Representative,65,REP,Lori Garcia Sander,5113
+WELD,State Representative,65,REP,Lori Garcia Sander,6336
+ADAMS,Secretary of State,,LIB,Sean Vadney,98
+ADAMS,Secretary of State,,LIB,Alex Astley,162
+ALAMOSA,Secretary of State,,LIB,Sean Vadney,0
+ALAMOSA,Secretary of State,,LIB,Alex Astley,6
+ARAPAHOE,Secretary of State,,LIB,Sean Vadney,160
+ARAPAHOE,Secretary of State,,LIB,Alex Astley,213
+ARCHULETA,Secretary of State,,LIB,Sean Vadney,1
+ARCHULETA,Secretary of State,,LIB,Alex Astley,7
+BACA,Secretary of State,,LIB,Sean Vadney,0
+BACA,Secretary of State,,LIB,Alex Astley,3
+BENT,Secretary of State,,LIB,Sean Vadney,1
+BENT,Secretary of State,,LIB,Alex Astley,1
+BOULDER,Secretary of State,,LIB,Sean Vadney,70
+BOULDER,Secretary of State,,LIB,Alex Astley,101
+BROOMFIELD,Secretary of State,,LIB,Sean Vadney,17
+BROOMFIELD,Secretary of State,,LIB,Alex Astley,25
+CHAFFEE,Secretary of State,,LIB,Sean Vadney,6
+CHAFFEE,Secretary of State,,LIB,Alex Astley,10
+CHEYENNE,Secretary of State,,LIB,Sean Vadney,0
+CHEYENNE,Secretary of State,,LIB,Alex Astley,0
+CLEAR CREEK,Secretary of State,,LIB,Sean Vadney,5
+CLEAR CREEK,Secretary of State,,LIB,Alex Astley,2
+CONEJOS,Secretary of State,,LIB,Sean Vadney,0
+CONEJOS,Secretary of State,,LIB,Alex Astley,0
+COSTILLA,Secretary of State,,LIB,Sean Vadney,0
+COSTILLA,Secretary of State,,LIB,Alex Astley,1
+CROWLEY,Secretary of State,,LIB,Sean Vadney,0
+CROWLEY,Secretary of State,,LIB,Alex Astley,1
+CUSTER,Secretary of State,,LIB,Sean Vadney,6
+CUSTER,Secretary of State,,LIB,Alex Astley,1
+DELTA,Secretary of State,,LIB,Sean Vadney,8
+DELTA,Secretary of State,,LIB,Alex Astley,12
+DENVER,Secretary of State,,LIB,Sean Vadney,118
+DENVER,Secretary of State,,LIB,Alex Astley,187
+DOLORES,Secretary of State,,LIB,Sean Vadney,1
+DOLORES,Secretary of State,,LIB,Alex Astley,1
+DOUGLAS,Secretary of State,,LIB,Sean Vadney,99
+DOUGLAS,Secretary of State,,LIB,Alex Astley,168
+EAGLE,Secretary of State,,LIB,Sean Vadney,6
+EAGLE,Secretary of State,,LIB,Alex Astley,8
+EL PASO,Secretary of State,,LIB,Sean Vadney,208
+EL PASO,Secretary of State,,LIB,Alex Astley,351
+ELBERT,Secretary of State,,LIB,Sean Vadney,11
+ELBERT,Secretary of State,,LIB,Alex Astley,19
+FREMONT,Secretary of State,,LIB,Sean Vadney,9
+FREMONT,Secretary of State,,LIB,Alex Astley,12
+GARFIELD,Secretary of State,,LIB,Sean Vadney,14
+GARFIELD,Secretary of State,,LIB,Alex Astley,27
+GILPIN,Secretary of State,,LIB,Sean Vadney,1
+GILPIN,Secretary of State,,LIB,Alex Astley,3
+GRAND,Secretary of State,,LIB,Sean Vadney,5
+GRAND,Secretary of State,,LIB,Alex Astley,5
+GUNNISON,Secretary of State,,LIB,Sean Vadney,2
+GUNNISON,Secretary of State,,LIB,Alex Astley,5
+HINSDALE,Secretary of State,,LIB,Sean Vadney,0
+HINSDALE,Secretary of State,,LIB,Alex Astley,0
+HUERFANO,Secretary of State,,LIB,Sean Vadney,1
+HUERFANO,Secretary of State,,LIB,Alex Astley,3
+JACKSON,Secretary of State,,LIB,Sean Vadney,0
+JACKSON,Secretary of State,,LIB,Alex Astley,2
+JEFFERSON,Secretary of State,,LIB,Sean Vadney,186
+JEFFERSON,Secretary of State,,LIB,Alex Astley,285
+KIOWA,Secretary of State,,LIB,Sean Vadney,0
+KIOWA,Secretary of State,,LIB,Alex Astley,0
+KIT CARSON,Secretary of State,,LIB,Sean Vadney,2
+KIT CARSON,Secretary of State,,LIB,Alex Astley,0
+LA PLATA,Secretary of State,,LIB,Sean Vadney,7
+LA PLATA,Secretary of State,,LIB,Alex Astley,23
+LAKE,Secretary of State,,LIB,Sean Vadney,2
+LAKE,Secretary of State,,LIB,Alex Astley,3
+LARIMER,Secretary of State,,LIB,Sean Vadney,100
+LARIMER,Secretary of State,,LIB,Alex Astley,155
+LAS ANIMAS,Secretary of State,,LIB,Sean Vadney,2
+LAS ANIMAS,Secretary of State,,LIB,Alex Astley,7
+LINCOLN,Secretary of State,,LIB,Sean Vadney,0
+LINCOLN,Secretary of State,,LIB,Alex Astley,5
+LOGAN,Secretary of State,,LIB,Sean Vadney,1
+LOGAN,Secretary of State,,LIB,Alex Astley,4
+MESA,Secretary of State,,LIB,Sean Vadney,37
+MESA,Secretary of State,,LIB,Alex Astley,73
+MINERAL,Secretary of State,,LIB,Sean Vadney,0
+MINERAL,Secretary of State,,LIB,Alex Astley,0
+MOFFAT,Secretary of State,,LIB,Sean Vadney,2
+MOFFAT,Secretary of State,,LIB,Alex Astley,4
+MONTEZUMA,Secretary of State,,LIB,Sean Vadney,11
+MONTEZUMA,Secretary of State,,LIB,Alex Astley,12
+MONTROSE,Secretary of State,,LIB,Sean Vadney,10
+MONTROSE,Secretary of State,,LIB,Alex Astley,14
+MORGAN,Secretary of State,,LIB,Sean Vadney,3
+MORGAN,Secretary of State,,LIB,Alex Astley,5
+OTERO,Secretary of State,,LIB,Sean Vadney,2
+OTERO,Secretary of State,,LIB,Alex Astley,3
+OURAY,Secretary of State,,LIB,Sean Vadney,1
+OURAY,Secretary of State,,LIB,Alex Astley,5
+PARK,Secretary of State,,LIB,Sean Vadney,10
+PARK,Secretary of State,,LIB,Alex Astley,8
+PHILLIPS,Secretary of State,,LIB,Sean Vadney,0
+PHILLIPS,Secretary of State,,LIB,Alex Astley,22
+PITKIN,Secretary of State,,LIB,Sean Vadney,6
+PITKIN,Secretary of State,,LIB,Alex Astley,4
+PROWERS,Secretary of State,,LIB,Sean Vadney,2
+PROWERS,Secretary of State,,LIB,Alex Astley,0
+PUEBLO,Secretary of State,,LIB,Sean Vadney,17
+PUEBLO,Secretary of State,,LIB,Alex Astley,63
+RIO BLANCO,Secretary of State,,LIB,Sean Vadney,2
+RIO BLANCO,Secretary of State,,LIB,Alex Astley,3
+RIO GRANDE,Secretary of State,,LIB,Sean Vadney,0
+RIO GRANDE,Secretary of State,,LIB,Alex Astley,1
+ROUTT,Secretary of State,,LIB,Sean Vadney,3
+ROUTT,Secretary of State,,LIB,Alex Astley,12
+SAGUACHE,Secretary of State,,LIB,Sean Vadney,1
+SAGUACHE,Secretary of State,,LIB,Alex Astley,3
+SAN JUAN,Secretary of State,,LIB,Sean Vadney,0
+SAN JUAN,Secretary of State,,LIB,Alex Astley,1
+SAN MIGUEL,Secretary of State,,LIB,Sean Vadney,2
+SAN MIGUEL,Secretary of State,,LIB,Alex Astley,4
+SEDGWICK,Secretary of State,,LIB,Sean Vadney,1
+SEDGWICK,Secretary of State,,LIB,Alex Astley,0
+SUMMIT,Secretary of State,,LIB,Sean Vadney,5
+SUMMIT,Secretary of State,,LIB,Alex Astley,17
+TELLER,Secretary of State,,LIB,Sean Vadney,14
+TELLER,Secretary of State,,LIB,Alex Astley,15
+WASHINGTON,Secretary of State,,LIB,Sean Vadney,0
+WASHINGTON,Secretary of State,,LIB,Alex Astley,3
+WELD,Secretary of State,,LIB,Sean Vadney,81
+WELD,Secretary of State,,LIB,Alex Astley,114
+YUMA,Secretary of State,,LIB,Sean Vadney,0
+YUMA,Secretary of State,,LIB,Alex Astley,0
+ADAMS,Governor,,UNI,Paul Noël Fionno,11
+ADAMS,Governor,,UNI,Jeff Peckman,16
+ALAMOSA,Governor,,UNI,Paul Noël Fionno,0
+ALAMOSA,Governor,,UNI,Jeff Peckman,1
+ARAPAHOE,Governor,,UNI,Paul Noël Fionno,16
+ARAPAHOE,Governor,,UNI,Jeff Peckman,25
+ARCHULETA,Governor,,UNI,Paul Noël Fionno,0
+ARCHULETA,Governor,,UNI,Jeff Peckman,0
+BACA,Governor,,UNI,Paul Noël Fionno,0
+BACA,Governor,,UNI,Jeff Peckman,0
+BENT,Governor,,UNI,Paul Noël Fionno,0
+BENT,Governor,,UNI,Jeff Peckman,0
+BOULDER,Governor,,UNI,Paul Noël Fionno,6
+BOULDER,Governor,,UNI,Jeff Peckman,3
+BROOMFIELD,Governor,,UNI,Paul Noël Fionno,0
+BROOMFIELD,Governor,,UNI,Jeff Peckman,4
+CHAFFEE,Governor,,UNI,Paul Noël Fionno,1
+CHAFFEE,Governor,,UNI,Jeff Peckman,0
+CHEYENNE,Governor,,UNI,Paul Noël Fionno,0
+CHEYENNE,Governor,,UNI,Jeff Peckman,0
+CLEAR CREEK,Governor,,UNI,Paul Noël Fionno,0
+CLEAR CREEK,Governor,,UNI,Jeff Peckman,0
+CONEJOS,Governor,,UNI,Paul Noël Fionno,0
+CONEJOS,Governor,,UNI,Jeff Peckman,0
+COSTILLA,Governor,,UNI,Paul Noël Fionno,0
+COSTILLA,Governor,,UNI,Jeff Peckman,0
+CROWLEY,Governor,,UNI,Paul Noël Fionno,0
+CROWLEY,Governor,,UNI,Jeff Peckman,0
+CUSTER,Governor,,UNI,Paul Noël Fionno,0
+CUSTER,Governor,,UNI,Jeff Peckman,0
+DELTA,Governor,,UNI,Paul Noël Fionno,0
+DELTA,Governor,,UNI,Jeff Peckman,1
+DENVER,Governor,,UNI,Paul Noël Fionno,22
+DENVER,Governor,,UNI,Jeff Peckman,29
+DOLORES,Governor,,UNI,Paul Noël Fionno,0
+DOLORES,Governor,,UNI,Jeff Peckman,0
+DOUGLAS,Governor,,UNI,Paul Noël Fionno,1
+DOUGLAS,Governor,,UNI,Jeff Peckman,2
+EAGLE,Governor,,UNI,Paul Noël Fionno,0
+EAGLE,Governor,,UNI,Jeff Peckman,1
+EL PASO,Governor,,UNI,Paul Noël Fionno,12
+EL PASO,Governor,,UNI,Jeff Peckman,8
+ELBERT,Governor,,UNI,Paul Noël Fionno,0
+ELBERT,Governor,,UNI,Jeff Peckman,0
+FREMONT,Governor,,UNI,Paul Noël Fionno,1
+FREMONT,Governor,,UNI,Jeff Peckman,0
+GARFIELD,Governor,,UNI,Paul Noël Fionno,0
+GARFIELD,Governor,,UNI,Jeff Peckman,3
+GILPIN,Governor,,UNI,Paul Noël Fionno,0
+GILPIN,Governor,,UNI,Jeff Peckman,0
+GRAND,Governor,,UNI,Paul Noël Fionno,1
+GRAND,Governor,,UNI,Jeff Peckman,1
+GUNNISON,Governor,,UNI,Paul Noël Fionno,0
+GUNNISON,Governor,,UNI,Jeff Peckman,0
+HINSDALE,Governor,,UNI,Paul Noël Fionno,0
+HINSDALE,Governor,,UNI,Jeff Peckman,0
+HUERFANO,Governor,,UNI,Paul Noël Fionno,1
+HUERFANO,Governor,,UNI,Jeff Peckman,0
+JACKSON,Governor,,UNI,Paul Noël Fionno,0
+JACKSON,Governor,,UNI,Jeff Peckman,0
+JEFFERSON,Governor,,UNI,Paul Noël Fionno,10
+JEFFERSON,Governor,,UNI,Jeff Peckman,18
+KIOWA,Governor,,UNI,Paul Noël Fionno,0
+KIOWA,Governor,,UNI,Jeff Peckman,0
+KIT CARSON,Governor,,UNI,Paul Noël Fionno,0
+KIT CARSON,Governor,,UNI,Jeff Peckman,0
+LA PLATA,Governor,,UNI,Paul Noël Fionno,0
+LA PLATA,Governor,,UNI,Jeff Peckman,0
+LAKE,Governor,,UNI,Paul Noël Fionno,0
+LAKE,Governor,,UNI,Jeff Peckman,0
+LARIMER,Governor,,UNI,Paul Noël Fionno,9
+LARIMER,Governor,,UNI,Jeff Peckman,8
+LAS ANIMAS,Governor,,UNI,Paul Noël Fionno,2
+LAS ANIMAS,Governor,,UNI,Jeff Peckman,1
+LINCOLN,Governor,,UNI,Paul Noël Fionno,0
+LINCOLN,Governor,,UNI,Jeff Peckman,0
+LOGAN,Governor,,UNI,Paul Noël Fionno,0
+LOGAN,Governor,,UNI,Jeff Peckman,0
+MESA,Governor,,UNI,Paul Noël Fionno,8
+MESA,Governor,,UNI,Jeff Peckman,2
+MINERAL,Governor,,UNI,Paul Noël Fionno,0
+MINERAL,Governor,,UNI,Jeff Peckman,0
+MOFFAT,Governor,,UNI,Paul Noël Fionno,1
+MOFFAT,Governor,,UNI,Jeff Peckman,0
+MONTEZUMA,Governor,,UNI,Paul Noël Fionno,2
+MONTEZUMA,Governor,,UNI,Jeff Peckman,2
+MONTROSE,Governor,,UNI,Paul Noël Fionno,0
+MONTROSE,Governor,,UNI,Jeff Peckman,2
+MORGAN,Governor,,UNI,Paul Noël Fionno,3
+MORGAN,Governor,,UNI,Jeff Peckman,2
+OTERO,Governor,,UNI,Paul Noël Fionno,0
+OTERO,Governor,,UNI,Jeff Peckman,0
+OURAY,Governor,,UNI,Paul Noël Fionno,1
+OURAY,Governor,,UNI,Jeff Peckman,0
+PARK,Governor,,UNI,Paul Noël Fionno,1
+PARK,Governor,,UNI,Jeff Peckman,0
+PHILLIPS,Governor,,UNI,Paul Noël Fionno,0
+PHILLIPS,Governor,,UNI,Jeff Peckman,0
+PITKIN,Governor,,UNI,Paul Noël Fionno,1
+PITKIN,Governor,,UNI,Jeff Peckman,2
+PROWERS,Governor,,UNI,Paul Noël Fionno,0
+PROWERS,Governor,,UNI,Jeff Peckman,0
+PUEBLO,Governor,,UNI,Paul Noël Fionno,5
+PUEBLO,Governor,,UNI,Jeff Peckman,4
+RIO BLANCO,Governor,,UNI,Paul Noël Fionno,0
+RIO BLANCO,Governor,,UNI,Jeff Peckman,0
+RIO GRANDE,Governor,,UNI,Paul Noël Fionno,0
+RIO GRANDE,Governor,,UNI,Jeff Peckman,0
+ROUTT,Governor,,UNI,Paul Noël Fionno,1
+ROUTT,Governor,,UNI,Jeff Peckman,0
+SAGUACHE,Governor,,UNI,Paul Noël Fionno,0
+SAGUACHE,Governor,,UNI,Jeff Peckman,1
+SAN JUAN,Governor,,UNI,Paul Noël Fionno,0
+SAN JUAN,Governor,,UNI,Jeff Peckman,0
+SAN MIGUEL,Governor,,UNI,Paul Noël Fionno,0
+SAN MIGUEL,Governor,,UNI,Jeff Peckman,2
+SEDGWICK,Governor,,UNI,Paul Noël Fionno,0
+SEDGWICK,Governor,,UNI,Jeff Peckman,0
+SUMMIT,Governor,,UNI,Paul Noël Fionno,0
+SUMMIT,Governor,,UNI,Jeff Peckman,1
+TELLER,Governor,,UNI,Paul Noël Fionno,1
+TELLER,Governor,,UNI,Jeff Peckman,0
+WASHINGTON,Governor,,UNI,Paul Noël Fionno,0
+WASHINGTON,Governor,,UNI,Jeff Peckman,0
+WELD,Governor,,UNI,Paul Noël Fionno,9
+WELD,Governor,,UNI,Jeff Peckman,7
+YUMA,Governor,,UNI,Paul Noël Fionno,0
+YUMA,Governor,,UNI,Jeff Peckman,0
